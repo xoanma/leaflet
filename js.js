@@ -116,7 +116,7 @@
             clone.properties.lugar = eljson[i].pt[0].descriptor
             clone.properties.ico = eljson[i].ico
             clone.properties.lugar = clone.properties.lugar.replace('<br/>'+clone.properties.descr, '')
-            clone.properties.id = 'https://www.turismo.gal/recurso/-/detalle/' + eljson[i].pt[0].id
+            clone.properties.id = 'https://www.turismo.gal/recurso/-/detalle/' + eljson[i].pt[0].id + "?langId=es_ES"
             links.push(clone.properties.id);
             var img = eljson[i].pt[0].img;
             if(!!img){
