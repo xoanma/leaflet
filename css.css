@@ -1,0 +1,8 @@
+body{margin:0 ;}
+#map { height: 100vh; }
+.mycluster { background: rgb(0, 0, 0); border-radius: 50%; color: white; font-weight: bold;  text-align: center; border: 1px solid #ffffff;}
+.leaflet-marker-icon, .leaflet-marker-shadow{display: flex; align-items: center; justify-content: center;}
+.sta-popup .sta-popup_imagen:not([data-img="#"]):not([data-img=""]){height: 200px; background-position: center; background-size: cover; background-repeat: no-repeat; margin-bottom: 20px;}
+.sta-popup{max-width: 350px; min-width: 250px; margin-top: 30px;}
+.sta-popup .sta-texto{padding: 0 20px 20px 20px;}
+.leaflet-popup-content{margin: 0;}

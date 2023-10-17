@@ -1,0 +1,4647 @@
+[
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "A CASA DA MALETA",
+                "id": "276418039",
+                "idSubtipo": 153,
+                "descriptor": "Fene - A Coruña<br/>Agencia de viajes",
+                "srcImx": "/osdam/filestore/6/4/4/5/1_11be67e3496e3ff/64451scr_cf51cb569086849.jpg",
+                "lng": "-8.17071",
+                "lat": "43.473125"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "A COSTA DA MORTE",
+                "id": "38171",
+                "idSubtipo": 153,
+                "descriptor": "Vimianzo - A Coruña<br/>Agencia de viajes",
+                "lng": "-9.032222",
+                "lat": "43.109722"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "ABRAMAR VIAJES ",
+                "id": "4554",
+                "idSubtipo": 153,
+                "descriptor": "Vigo - Pontevedra<br/>Agencia de viajes",
+                "srcImx": "/osdam/filestore/5/9/8/6/9_fcf0657feebe6be/59869scr_e0bf0e1400d2aeb.jpg",
+                "lng": "-8.723083",
+                "lat": "42.238724"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "ADEMAR VIAJES",
+                "id": "33594",
+                "idSubtipo": 153,
+                "descriptor": "Vigo - Pontevedra<br/>Agencia de viajes",
+                "lng": "-8.704972",
+                "lat": "42.22961"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "AHAVANA",
+                "id": "276464297",
+                "idSubtipo": 153,
+                "descriptor": "Sarria - Lugo<br/>Agencia de viajes",
+                "lng": "-7.4120827",
+                "lat": "42.77833"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "AMA VIAJES",
+                "id": "4563",
+                "idSubtipo": 153,
+                "descriptor": "Vigo - Pontevedra<br/>Agencia de viajes",
+                "lng": "-8.723472",
+                "lat": "42.24036"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "ARASOLIS VIAXES",
+                "id": "28953",
+                "idSubtipo": 153,
+                "descriptor": "Santiago de Compostela - A Coruña<br/>Agencia de viajes",
+                "lng": "-8.550861",
+                "lat": "42.873222"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "ATLANTIS TRAVEL",
+                "id": "260246906",
+                "idSubtipo": 153,
+                "descriptor": "A Coruña - A Coruña<br/>Agencia de viajes",
+                "lng": "-8.400528",
+                "lat": "43.370193"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 213,
+        "pt": [
+            {
+                "nombre": "AUDITORIO ABANCA",
+                "id": "31687",
+                "idSubtipo": 213,
+                "descriptor": "Santiago de Compostela - A Coruña<br/>Auditorio",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mdcz/~edisp/~extract/TURGA073078~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.548472",
+                "lat": "42.87589"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/213.png",
+        "nom": "Auditorio"
+    },
+    {
+        "cat": 213,
+        "pt": [
+            {
+                "nombre": "AUDITORIO DE GALICIA",
+                "id": "894",
+                "idSubtipo": 213,
+                "descriptor": "Santiago de Compostela - A Coruña<br/>Auditorio",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mdm1/~edisp/~extract/TURGA035817~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.542222",
+                "lat": "42.891388"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/213.png",
+        "nom": "Auditorio"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "B THE TRAVEL BRAND",
+                "id": "11384",
+                "idSubtipo": 153,
+                "descriptor": "Ourense - Ourense<br/>Agencia de viajes",
+                "srcImx": "/osdam/filestore/7/3/2/1/4_42433adcd6c72c5/73214scr_d2b75992ece38ad.jpg",
+                "lng": "-7.86125",
+                "lat": "42.34183"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "B THE TRAVEL BRAND",
+                "id": "11403",
+                "idSubtipo": 153,
+                "descriptor": "Lugo - Lugo<br/>Agencia de viajes",
+                "srcImx": "/osdam/filestore/7/3/2/2/1_1bf3984a5b30baf/73221scr_4672b7f9b24da20.jpg",
+                "lng": "-7.559417",
+                "lat": "43.01592"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "B THE TRAVEL BRAND",
+                "id": "15650",
+                "idSubtipo": 153,
+                "descriptor": "Ferrol - A Coruña<br/>Agencia de viajes",
+                "srcImx": "/osdam/filestore/2/4/9/3/1_b3a258159720e2b/24931scr_558bda04a1ed297.jpg",
+                "lng": "-8.233333",
+                "lat": "43.483444"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "B THE TRAVEL BRAND",
+                "id": "235",
+                "idSubtipo": 153,
+                "descriptor": "Santiago de Compostela - A Coruña<br/>Agencia de viajes",
+                "lng": "-8.546",
+                "lat": "42.875"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "B THE TRAVEL BRAND",
+                "id": "274955422",
+                "idSubtipo": 153,
+                "descriptor": "Vigo - Pontevedra<br/>Agencia de viajes",
+                "srcImx": "/osdam/filestore/2/4/9/3/0_fd9b3d24bd5c913/24930scr_f818f33b75e517e.jpg",
+                "lng": "-8.717777",
+                "lat": "42.231667"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "B THE TRAVEL BRAND",
+                "id": "28835",
+                "idSubtipo": 153,
+                "descriptor": "Ponteareas - Pontevedra<br/>Agencia de viajes",
+                "lng": "-8.504278",
+                "lat": "42.172695"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "B THE TRAVEL BRAND",
+                "id": "4282",
+                "idSubtipo": 153,
+                "descriptor": "Vilagarcía de Arousa - Pontevedra<br/>Agencia de viajes",
+                "srcImx": "/osdam/filestore/2/4/9/3/7_85ee59ec66b3e25/24937scr_87d213c4cc3084e.jpg",
+                "lng": "-8.764528",
+                "lat": "42.595776"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "BALUMA TRAVEL",
+                "id": "22129",
+                "idSubtipo": 153,
+                "descriptor": "Cambados - Pontevedra<br/>Agencia de viajes",
+                "lng": "-8.812611",
+                "lat": "42.514473"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "BARAKA TOUR",
+                "id": "37928",
+                "idSubtipo": 153,
+                "descriptor": "Teo - A Coruña<br/>Agencia de viajes",
+                "lng": "-8.545194",
+                "lat": "42.820194"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 186,
+        "pt": [
+            {
+                "nombre": "BARCELÓ PAZO LIBUNCA",
+                "id": "31750",
+                "idSubtipo": 186,
+                "descriptor": "Narón - A Coruña<br/>Instalaciones especiales",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mdcz/~edisp/~extract/TURGA073298~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.17611",
+                "lat": "43.5375"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/186.png",
+        "nom": "Instalaciones especiales"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "BENINCOMING CITY",
+                "id": "261053193",
+                "idSubtipo": 153,
+                "descriptor": "Sanxenxo - Pontevedra<br/>Agencia de viajes",
+                "srcImx": "/osdam/filestore/6/1/7/0/0_6af776501d6ca3d/61700scr_49fe18ba4acded4.jpg",
+                "lng": "-8.804944",
+                "lat": "42.400192"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "BIVES TOUR AGENCIA DE VIAJES",
+                "id": "278499545",
+                "idSubtipo": 153,
+                "descriptor": "Boiro - A Coruña<br/>Agencia de viajes",
+                "srcImx": "/osdam/filestore/2/1/4/0/3_d2df68004d8a733/21403scr_29b72351d9058c6.jpg",
+                "lng": "-8.888006",
+                "lat": "42.645023"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "BIVES TOUR AGENCIA DE VIAJES",
+                "id": "XG-PO-000246",
+                "idSubtipo": 153,
+                "descriptor": "Vigo - Pontevedra<br/>Agencia de viajes",
+                "srcImx": "/osdam/filestore/2/1/4/0/7_8cb899f151fc3f2/21407scr_6f4eac005b08d8e.jpg",
+                "lng": "-8.722555",
+                "lat": "42.238914"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "BIVESTOUR ",
+                "id": "XG-PO-000004",
+                "idSubtipo": 153,
+                "descriptor": "Vigo - Pontevedra<br/>Agencia de viajes",
+                "srcImx": "/osdam/filestore/2/1/4/0/9_e134ebe5e88de2b/21409scr_8007fd4f4039416.jpg",
+                "lng": "-8.720089",
+                "lat": "42.231934"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "BRIGANTIA VIAJES",
+                "id": "38175",
+                "idSubtipo": 153,
+                "descriptor": "Fisterra - A Coruña<br/>Agencia de viajes",
+                "lng": "-9.262691",
+                "lat": "42.905907"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "C.W.T. VIAJES DE EMPRESA, S.A.",
+                "id": "30830",
+                "idSubtipo": 153,
+                "descriptor": "A Coruña - A Coruña<br/>Agencia de viajes",
+                "lng": "-8.406111",
+                "lat": "43.363888"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 187,
+        "pt": [
+            {
+                "nombre": "CÁMARA OFICIAL DE COMERCIO, INDUSTRIA Y NAVEGACIÓN",
+                "id": "15924",
+                "idSubtipo": 187,
+                "descriptor": "A Coruña - A Coruña<br/>Grandes Recintos - Otros",
+                "srcImx": "#",
+                "lng": "-8.405556",
+                "lat": "43.3675"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/187.png",
+        "nom": "Grandes Recintos - Otros"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "CAMINO TRAVEL CENTER",
+                "id": "265263248",
+                "idSubtipo": 153,
+                "descriptor": "Santiago de Compostela - A Coruña<br/>Agencia de viajes",
+                "lng": "-8.538611",
+                "lat": "42.88139"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 0,
+        "pt": [
+            {
+                "nombre": "CANELA VIAJES",
+                "id": "191010000090",
+                "idSubtipo": 0,
+                "descriptor": "A Rúa - Ourense<br/>Agencias de viajes",
+                "srcImx": "/osdam/filestore/5/9/8/8/7_67794b3c3417c96/59887scr_446c1a874cd9d4a.jpg",
+                "lng": "-7.11805",
+                "lat": "42.39471"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/0.png",
+        "nom": "Agencias de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "CARLSON WAGONLIT ESPAÑA, S.L.U.",
+                "id": "276187765",
+                "idSubtipo": 153,
+                "descriptor": "Narón - A Coruña<br/>Agencia de viajes",
+                "lng": "-8.188333",
+                "lat": "43.535557"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "CARLSON WAGONLIT ESPAÑA, S.L.U.",
+                "id": "276187847",
+                "idSubtipo": 153,
+                "descriptor": "Arteixo - A Coruña<br/>Agencia de viajes",
+                "lng": "-8.501944",
+                "lat": "43.318054"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 186,
+        "pt": [
+            {
+                "nombre": "CASTILLO DE SOUTOMAIOR",
+                "id": "15956",
+                "idSubtipo": 186,
+                "descriptor": "Soutomaior - Pontevedra<br/>Instalaciones especiales",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mdy0/~edisp/~extract/TURGA064592~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.567833",
+                "lat": "42.328835"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/186.png",
+        "nom": "Instalaciones especiales"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "CELTRAVEL",
+                "id": "5637",
+                "idSubtipo": 153,
+                "descriptor": "Cambados - Pontevedra<br/>Agencia de viajes",
+                "lng": "-8.8145",
+                "lat": "42.51514"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 187,
+        "pt": [
+            {
+                "nombre": "CENTRO GALEGO DE ARTE CONTEMPORÁNEA (CGAC)",
+                "id": "15931",
+                "idSubtipo": 187,
+                "descriptor": "Santiago de Compostela - A Coruña<br/>Grandes Recintos - Otros",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mdy0/~edisp/~extract/TURGA064501~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.539444",
+                "lat": "42.88278"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/187.png",
+        "nom": "Grandes Recintos - Otros"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "CIBERVIAXES , S.L.",
+                "id": "280380251",
+                "idSubtipo": 153,
+                "descriptor": "A Coruña - A Coruña<br/>Agencia de viajes",
+                "srcImx": "/osdam/filestore/6/0/1/3/8_d475fc506384f32/60138_bc459dfd95c33cf.png",
+                "lng": "-8.406151",
+                "lat": "43.362564"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "CIRCUITOS GALICIA VIAJES",
+                "id": "16161",
+                "idSubtipo": 153,
+                "descriptor": "Sanxenxo - Pontevedra<br/>Agencia de viajes",
+                "lng": "-8.827555",
+                "lat": "42.44472"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "CLAE VIAJES",
+                "id": "280377270",
+                "idSubtipo": 153,
+                "descriptor": "Vilagarcía de Arousa - Pontevedra<br/>Agencia de viajes",
+                "lng": "-8.768075",
+                "lat": "42.59048"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "CN TRAVEL",
+                "id": "11316",
+                "idSubtipo": 153,
+                "descriptor": "Sanxenxo - Pontevedra<br/>Agencia de viajes",
+                "lng": "-8.814417",
+                "lat": "42.402195"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 187,
+        "pt": [
+            {
+                "nombre": "COLEGIO OFICIAL DE MÉDICOS",
+                "id": "15925",
+                "idSubtipo": 187,
+                "descriptor": "A Coruña - A Coruña<br/>Grandes Recintos - Otros",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mdy0/~edisp/~extract/TURGA064496~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.406944",
+                "lat": "43.345"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/187.png",
+        "nom": "Grandes Recintos - Otros"
+    },
+    {
+        "cat": 187,
+        "pt": [
+            {
+                "nombre": "COLEGIO OFICIAL DE MÉDICOS",
+                "id": "15926",
+                "idSubtipo": 187,
+                "descriptor": "Ferrol - A Coruña<br/>Grandes Recintos - Otros",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mdy0/~edisp/~extract/TURGA064497~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.229722",
+                "lat": "43.484165"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/187.png",
+        "nom": "Grandes Recintos - Otros"
+    },
+    {
+        "cat": 187,
+        "pt": [
+            {
+                "nombre": "COLEGIO OFICIAL DE MÉDICOS",
+                "id": "15937",
+                "idSubtipo": 187,
+                "descriptor": "Ourense - Ourense<br/>Grandes Recintos - Otros",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mdy0/~edisp/~extract/TURGA064515~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-7.865833",
+                "lat": "42.34111"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/187.png",
+        "nom": "Grandes Recintos - Otros"
+    },
+    {
+        "cat": 187,
+        "pt": [
+            {
+                "nombre": "COLEGIO OFICIAL DE MÉDICOS",
+                "id": "31653",
+                "idSubtipo": 187,
+                "descriptor": "Santiago de Compostela - A Coruña<br/>Grandes Recintos - Otros",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mdcz/~edisp/~extract/TURGA073066~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.546666",
+                "lat": "42.870834"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/187.png",
+        "nom": "Grandes Recintos - Otros"
+    },
+    {
+        "cat": 186,
+        "pt": [
+            {
+                "nombre": "CONVENTO DE VILAVELLA",
+                "id": "32849",
+                "idSubtipo": 186,
+                "descriptor": "Redondela - Pontevedra<br/>Instalaciones especiales",
+                "lng": "-8.610556",
+                "lat": "42.27861"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/186.png",
+        "nom": "Instalaciones especiales"
+    },
+    {
+        "cat": 0,
+        "pt": [
+            {
+                "nombre": "CORUÑA VIAJES & TOURS",
+                "id": "160920000037",
+                "idSubtipo": 0,
+                "descriptor": "A Coruña - A Coruña<br/>Agencias de viajes",
+                "srcImx": "/osdam/filestore/2/5/7/2/4_858678477657fba/25724scr_9aa901cd4d42bd7.jpg",
+                "lng": "-8.3990555",
+                "lat": "43.37099"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/0.png",
+        "nom": "Agencias de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "CORVERA VIAJES",
+                "id": "278518244",
+                "idSubtipo": 153,
+                "descriptor": "Marín - Pontevedra<br/>Agencia de viajes",
+                "srcImx": "/osdam/filestore/5/8/4/5/5_2a7d5f566e31e8b/58455scr_dbde5acf26de619.jpg",
+                "lng": "-8.701001",
+                "lat": "42.39273"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "COSTA ATLÁNTICA VIAJES",
+                "id": "33435",
+                "idSubtipo": 153,
+                "descriptor": "A Guarda - Pontevedra<br/>Agencia de viajes",
+                "srcImx": "/osdam/filestore/5/8/9/2/3_eb7974d6e35141e/58923scr_4e59f455b988489.jpg",
+                "lng": "-8.872222",
+                "lat": "41.90139"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "COSTA ESTE DE TURISMO S.L.",
+                "id": "275006490",
+                "idSubtipo": 153,
+                "descriptor": "A Coruña - A Coruña<br/>Agencia de viajes",
+                "lng": "-8.397777",
+                "lat": "43.35472"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 0,
+        "pt": [
+            {
+                "nombre": "EASYGALICIA",
+                "id": "170322000126",
+                "idSubtipo": 0,
+                "descriptor": "Santiago de Compostela - A Coruña<br/>Agencias de viajes",
+                "srcImx": "/osdam/filestore/2/4/8/0/7_fab6d47b7b0c022/24807scr_5c5cc1e20ef1610.jpg",
+                "lng": "-8.543992",
+                "lat": "42.88014"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/0.png",
+        "nom": "Agencias de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "EL MUNDO YOURWAY",
+                "id": "277294830",
+                "idSubtipo": 153,
+                "descriptor": "Vigo - Pontevedra<br/>Agencia de viajes",
+                "lng": "-8.721849",
+                "lat": "42.238087"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "EROSKI BIDAIAK SA",
+                "id": "XG-PO-000120",
+                "idSubtipo": 153,
+                "descriptor": "Vigo - Pontevedra<br/>Agencia de viajes",
+                "lng": "-8.705694",
+                "lat": "42.23439"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "EROSKI BIDAIAK, SA",
+                "id": "15874",
+                "idSubtipo": 153,
+                "descriptor": "A Guarda - Pontevedra<br/>Agencia de viajes",
+                "lng": "-8.872833",
+                "lat": "41.9025"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "EROSKI BIDAIAK, SA",
+                "id": "16132",
+                "idSubtipo": 153,
+                "descriptor": "Cangas - Pontevedra<br/>Agencia de viajes",
+                "lng": "-8.782055",
+                "lat": "42.264"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 187,
+        "pt": [
+            {
+                "nombre": "ESCOLA GALEGA DE ADMINISTRACIÓN PÚBLICA (EGAP)",
+                "id": "15929",
+                "idSubtipo": 187,
+                "descriptor": "Santiago de Compostela - A Coruña<br/>Grandes Recintos - Otros",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mdy0/~edisp/~extract/TURGA064498~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.528055",
+                "lat": "42.881943"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/187.png",
+        "nom": "Grandes Recintos - Otros"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "ETHNIA GLAUKA VIAXES",
+                "id": "38376",
+                "idSubtipo": 153,
+                "descriptor": "Cambre - A Coruña<br/>Agencia de viajes",
+                "lng": "-8.344777",
+                "lat": "43.29339"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "EUME VIAJES",
+                "id": "280381993",
+                "idSubtipo": 153,
+                "descriptor": "Pontedeume - A Coruña<br/>Agencia de viajes",
+                "srcImx": "/osdam/filestore/2/1/8/0/7_a1b8fd52f4afc1d/21807scr_d9afb07d7011df8.jpg",
+                "lng": "-8.171618",
+                "lat": "43.40645"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 187,
+        "pt": [
+            {
+                "nombre": "EXPOCORUÑA",
+                "id": "160530000110",
+                "idSubtipo": 187,
+                "descriptor": "A Coruña - A Coruña<br/>Grandes Recintos - Otros",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mjq5/~edisp/~extract/TURGA249858~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.41009",
+                "lat": "43.340374"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/187.png",
+        "nom": "Grandes Recintos - Otros"
+    },
+    {
+        "cat": 187,
+        "pt": [
+            {
+                "nombre": "FACULTAD DE MEDICINA",
+                "id": "15930",
+                "idSubtipo": 187,
+                "descriptor": "Santiago de Compostela - A Coruña<br/>Grandes Recintos - Otros",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mdy0/~edisp/~extract/TURGA064499~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.545555",
+                "lat": "42.8825"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/187.png",
+        "nom": "Grandes Recintos - Otros"
+    },
+    {
+        "cat": 187,
+        "pt": [
+            {
+                "nombre": "FERIA INTERNACIONAL DE GALICIA",
+                "id": "15952",
+                "idSubtipo": 187,
+                "descriptor": "Silleda - Pontevedra<br/>Grandes Recintos - Otros",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mdy0/~edisp/~extract/TURGA064581~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.244166",
+                "lat": "42.70667"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/187.png",
+        "nom": "Grandes Recintos - Otros"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "FERROL VIAJES, S.L.",
+                "id": "3734",
+                "idSubtipo": 153,
+                "descriptor": "Ferrol - A Coruña<br/>Agencia de viajes",
+                "lng": "-8.230277",
+                "lat": "43.486027"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 187,
+        "pt": [
+            {
+                "nombre": "FEXDEGA",
+                "id": "17429",
+                "idSubtipo": 187,
+                "descriptor": "Vilagarcía de Arousa - Pontevedra<br/>Grandes Recintos - Otros",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mdy1/~edisp/~extract/TURGA065998~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.763611",
+                "lat": "42.59"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/187.png",
+        "nom": "Grandes Recintos - Otros"
+    },
+    {
+        "cat": 187,
+        "pt": [
+            {
+                "nombre": "FIMO FERROL, CONSORCIO PRO-FERIAS Y EXPOSICIONES",
+                "id": "31689",
+                "idSubtipo": 187,
+                "descriptor": "Ferrol - A Coruña<br/>Grandes Recintos - Otros",
+                "lng": "-8.243055",
+                "lat": "43.493053"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/187.png",
+        "nom": "Grandes Recintos - Otros"
+    },
+    {
+        "cat": 186,
+        "pt": [
+            {
+                "nombre": "FINCA EL CENADOR",
+                "id": "31748",
+                "idSubtipo": 186,
+                "descriptor": "Cambre - A Coruña<br/>Instalaciones especiales",
+                "lng": "-8.342777",
+                "lat": "43.294445"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/186.png",
+        "nom": "Instalaciones especiales"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "FOG TRAVEL",
+                "id": "269394641",
+                "idSubtipo": 153,
+                "descriptor": "A Guarda - Pontevedra<br/>Agencia de viajes",
+                "srcImx": "/osdam/filestore/5/6/1/8/3_997d4103659cd12/56183scr_5fac2a858bef9b6.jpg",
+                "lng": "-8.728888",
+                "lat": "42.22361"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "FONTAO TRAVEL, S.L.",
+                "id": "4558",
+                "idSubtipo": 153,
+                "descriptor": "Ribeira - A Coruña<br/>Agencia de viajes",
+                "lng": "-8.993777",
+                "lat": "42.55475"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 187,
+        "pt": [
+            {
+                "nombre": "FUNDACIÓN ABANCA",
+                "id": "15935",
+                "idSubtipo": 187,
+                "descriptor": "Lugo - Lugo<br/>Grandes Recintos - Otros",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mdy0/~edisp/~extract/TURGA064513~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-7.5575",
+                "lat": "43.009724"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/187.png",
+        "nom": "Grandes Recintos - Otros"
+    },
+    {
+        "cat": 187,
+        "pt": [
+            {
+                "nombre": "FUNDACIÓN CAMILO JOSÉ CELA",
+                "id": "31652",
+                "idSubtipo": 187,
+                "descriptor": "Padrón - A Coruña<br/>Grandes Recintos - Otros",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mdcz/~edisp/~extract/TURGA073065~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.655833",
+                "lat": "42.746113"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/187.png",
+        "nom": "Grandes Recintos - Otros"
+    },
+    {
+        "cat": 187,
+        "pt": [
+            {
+                "nombre": "FUNDACIÓN FEIRAS E EXPOSICIÓNS DE OURENSE",
+                "id": "31746",
+                "idSubtipo": 187,
+                "descriptor": "Ourense - Ourense<br/>Grandes Recintos - Otros",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mtu1/~edisp/~extract/TURGA155304~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-7.865833",
+                "lat": "42.315834"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/187.png",
+        "nom": "Grandes Recintos - Otros"
+    },
+    {
+        "cat": 187,
+        "pt": [
+            {
+                "nombre": "FUNDACIÓN FERIAS Y EXPOSICIONES DE LUGO",
+                "id": "31745",
+                "idSubtipo": 187,
+                "descriptor": "Lugo - Lugo<br/>Grandes Recintos - Otros",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mtu1/~edisp/~extract/TURGA155822~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-7.56861",
+                "lat": "43.003613"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/187.png",
+        "nom": "Grandes Recintos - Otros"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "FUTUR VIAJES",
+                "id": "36064",
+                "idSubtipo": 153,
+                "descriptor": "Ordes - A Coruña<br/>Agencia de viajes",
+                "srcImx": "/osdam/filestore/5/8/8/7/9_a9a0de0226f0d57/58879scr_cae17c7aeb12409.jpg",
+                "lng": "-8.406583",
+                "lat": "43.079056"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "GALAECIA VIAJES",
+                "id": "31518",
+                "idSubtipo": 153,
+                "descriptor": "A Coruña - A Coruña<br/>Agencia de viajes",
+                "lng": "-8.416583",
+                "lat": "43.36253"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 0,
+        "pt": [
+            {
+                "nombre": "GALICIA EXPERIENCE",
+                "id": "180530000524",
+                "idSubtipo": 0,
+                "descriptor": "Santiago de Compostela - A Coruña<br/>Agencias de viajes",
+                "srcImx": "/osdam/filestore/5/9/9/4/0_60477812ef8bd4b/59940_e15614152578f1f.png",
+                "lng": "-8.543421",
+                "lat": "42.87854"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/0.png",
+        "nom": "Agencias de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "GALICIA EXPRESS, S.A.",
+                "id": "273",
+                "idSubtipo": 153,
+                "descriptor": "Bueu - Pontevedra<br/>Agencia de viajes",
+                "lng": "-8.788194",
+                "lat": "42.326443"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "GRUPO VIAJES JELBAL, S.L.L.",
+                "id": "16397",
+                "idSubtipo": 153,
+                "descriptor": "Ames - A Coruña<br/>Agencia de viajes",
+                "lng": "-8.57636",
+                "lat": "42.846443"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "HALCÓN VIAJES",
+                "id": "269865228",
+                "idSubtipo": 153,
+                "descriptor": "Noia - A Coruña<br/>Agencia de viajes",
+                "lng": "-8.888595",
+                "lat": "42.783943"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "HALCÓN VIAJES",
+                "id": "280379191",
+                "idSubtipo": 153,
+                "descriptor": "Sada - A Coruña<br/>Agencia de viajes",
+                "lng": "-8.254284",
+                "lat": "43.35294"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "HALCÓN VIAJES, S.A.",
+                "id": "7939",
+                "idSubtipo": 153,
+                "descriptor": "Santiago de Compostela - A Coruña<br/>Agencia de viajes",
+                "lng": "-8.548666",
+                "lat": "42.875748"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "INFINITA EVENTOS Y",
+                "id": "280379674",
+                "idSubtipo": 153,
+                "descriptor": "Santiago de Compostela - A Coruña<br/>Agencia de viajes",
+                "srcImx": "/osdam/filestore/7/4/4/7/8_2ec23e2231ebecb/74478scr_3d159a0e455b832.jpg",
+                "lng": "-8.554406",
+                "lat": "42.872322"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 187,
+        "pt": [
+            {
+                "nombre": "INSTITUTO FERIAL DE VIGO-IFEVI",
+                "id": "15955",
+                "idSubtipo": 187,
+                "descriptor": "Vigo - Pontevedra<br/>Grandes Recintos - Otros",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mdy0/~edisp/~extract/TURGA064590~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.638611",
+                "lat": "42.22361"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/187.png",
+        "nom": "Grandes Recintos - Otros"
+    },
+    {
+        "cat": 0,
+        "pt": [
+            {
+                "nombre": "IR E VIR VIAXES NPN",
+                "id": "160310000043",
+                "idSubtipo": 0,
+                "descriptor": "Meaño - Pontevedra<br/>Agencias de viajes",
+                "srcImx": "/osdam/filestore/2/1/0/7/6_ed24ff91953667d/21076scr_54e85b4892ba5a9.jpg",
+                "lng": "-8.814204",
+                "lat": "42.449425"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/0.png",
+        "nom": "Agencias de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "KARYMA VIAJES, S.C.",
+                "id": "277312370",
+                "idSubtipo": 153,
+                "descriptor": "Santiago de Compostela - A Coruña<br/>Agencia de viajes",
+                "lng": "-8.546602",
+                "lat": "42.87297"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "LECERTOUR VIAXES",
+                "id": "15875",
+                "idSubtipo": 153,
+                "descriptor": "Vigo - Pontevedra<br/>Agencia de viajes",
+                "lng": "-8.727027",
+                "lat": "42.22261"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "LOEVIA VIAXES",
+                "id": "36780",
+                "idSubtipo": 153,
+                "descriptor": "Santiago de Compostela - A Coruña<br/>Agencia de viajes",
+                "srcImx": "/osdam/filestore/7/0/0/7/1_3382aeceb0b794b/70071scr_0b7f80dc0978d41.jpg",
+                "lng": "-8.546139",
+                "lat": "42.87775"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "LUGO TRAVEL",
+                "id": "271656687",
+                "idSubtipo": 153,
+                "descriptor": "Lugo - Lugo<br/>Agencia de viajes",
+                "lng": "-7.556667",
+                "lat": "43.00833"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "MANDALA AVENTURA",
+                "id": "38178",
+                "idSubtipo": 153,
+                "descriptor": "Lugo - Lugo<br/>Agencia de viajes",
+                "lng": "-7.565889",
+                "lat": "43.01914"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "MAR DE MENTA VIAXES",
+                "id": "258574492",
+                "idSubtipo": 153,
+                "descriptor": "Carballo - A Coruña<br/>Agencia de viajes",
+                "lng": "-8.689083",
+                "lat": "43.212418"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 185,
+        "pt": [
+            {
+                "nombre": "MAR DE VIGO",
+                "id": "170317000103",
+                "idSubtipo": 185,
+                "descriptor": "Vigo - Pontevedra<br/>Palacio de congresos",
+                "lng": "-8.733967",
+                "lat": "42.231743"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/185.png",
+        "nom": "Palacio de congresos"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "MUNDO MÁGICO TOURS, S.A.",
+                "id": "18241",
+                "idSubtipo": 153,
+                "descriptor": "A Coruña - A Coruña<br/>Agencia de viajes",
+                "lng": "-8.403806",
+                "lat": "43.370888"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 0,
+        "pt": [
+            {
+                "nombre": "NAUTALIA VIAJES",
+                "id": "170222000070",
+                "idSubtipo": 0,
+                "descriptor": "O Barco de Valdeorras - Ourense<br/>Agencias de viajes",
+                "srcImx": "/osdam/filestore/2/5/8/2/1_0d02c70ef682f24/25821scr_bda9884dcf6921f.jpg",
+                "lng": "-6.983903",
+                "lat": "42.415405"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/0.png",
+        "nom": "Agencias de viajes"
+    },
+    {
+        "cat": 0,
+        "pt": [
+            {
+                "nombre": "NAUTALIA VIAJES",
+                "id": "171221000088",
+                "idSubtipo": 0,
+                "descriptor": "Vilagarcía de Arousa - Pontevedra<br/>Agencias de viajes",
+                "srcImx": "/osdam/filestore/2/0/7/3/9_63952063dd50dee/20739scr_0b4222e9e3410b6.jpg",
+                "lng": "-8.766081",
+                "lat": "42.59374"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/0.png",
+        "nom": "Agencias de viajes"
+    },
+    {
+        "cat": 0,
+        "pt": [
+            {
+                "nombre": "NAUTALIA VIAJES",
+                "id": "180103000009",
+                "idSubtipo": 0,
+                "descriptor": "Lugo - Lugo<br/>Agencias de viajes",
+                "srcImx": "/osdam/filestore/7/4/7/3/6_3883b1f519adc36/74736scr_5f2e3777a830604.jpg",
+                "lng": "-7.555029",
+                "lat": "43.01131"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/0.png",
+        "nom": "Agencias de viajes"
+    },
+    {
+        "cat": 0,
+        "pt": [
+            {
+                "nombre": "NAUTALIA VIAJES",
+                "id": "180312000141",
+                "idSubtipo": 0,
+                "descriptor": "Ferrol - A Coruña<br/>Agencias de viajes",
+                "srcImx": "/osdam/filestore/2/1/4/3/5_9652eb8daf4c9cb/21435scr_c9d360bebe25d1b.jpg",
+                "lng": "-8.221745",
+                "lat": "43.488976"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/0.png",
+        "nom": "Agencias de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "NAUTALIA VIAJES",
+                "id": "276155224",
+                "idSubtipo": 153,
+                "descriptor": "Santiago de Compostela - A Coruña<br/>Agencia de viajes",
+                "srcImx": "/osdam/filestore/2/0/7/2/7_a62856753bb4130/20727scr_8b54c8d6b39f8da.jpg",
+                "lng": "-8.544574",
+                "lat": "42.874718"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "NAUTALIA VIAJES",
+                "id": "277310408",
+                "idSubtipo": 153,
+                "descriptor": "Vigo - Pontevedra<br/>Agencia de viajes",
+                "srcImx": "/osdam/filestore/2/0/7/3/1_5487130bc6a6e1f/20731scr_c3bbd97c6232569.jpg",
+                "lng": "-8.718054",
+                "lat": "42.231464"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 0,
+        "pt": [
+            {
+                "nombre": "NAUTALIA VIAJES",
+                "id": "XG-CO-000420",
+                "idSubtipo": 0,
+                "descriptor": "A Coruña - A Coruña<br/>Agencias de viajes",
+                "srcImx": "/osdam/filestore/2/0/7/1/3_9906b01fa3b68cb/20713scr_173c0023534f6b4.jpg",
+                "lng": "-8.407948",
+                "lat": "43.363228"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/0.png",
+        "nom": "Agencias de viajes"
+    },
+    {
+        "cat": 0,
+        "pt": [
+            {
+                "nombre": "NUOVA TRAVEL",
+                "id": "170502000007",
+                "idSubtipo": 0,
+                "descriptor": "Caldas de Reis - Pontevedra<br/>Agencias de viajes",
+                "srcImx": "/osdam/filestore/6/6/8/1/4_b29f7e138bcf426/66814scr_ee43290b3608596.jpg",
+                "lng": "-8.1",
+                "lat": "42.818382"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/0.png",
+        "nom": "Agencias de viajes"
+    },
+    {
+        "cat": 187,
+        "pt": [
+            {
+                "nombre": "OFICINA DE CONGRESOS DA USC",
+                "id": "31657",
+                "idSubtipo": 187,
+                "descriptor": "Santiago de Compostela - A Coruña<br/>Grandes Recintos - Otros",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mdcz/~edisp/~extract/TURGA073069~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.542777",
+                "lat": "42.879997"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/187.png",
+        "nom": "Grandes Recintos - Otros"
+    },
+    {
+        "cat": 185,
+        "pt": [
+            {
+                "nombre": "PALACIO DE CONGRESOS Y EXPOSICIONES DE GALICIA",
+                "id": "893",
+                "idSubtipo": 185,
+                "descriptor": "Santiago de Compostela - A Coruña<br/>Palacio de congresos",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mdm1/~edisp/~extract/TURGA035813~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.5125",
+                "lat": "42.885"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/185.png",
+        "nom": "Palacio de congresos"
+    },
+    {
+        "cat": 185,
+        "pt": [
+            {
+                "nombre": "PALACIO DE CONGRESOS Y EXPOSICIONES DE PONTEVEDRA",
+                "id": "15950",
+                "idSubtipo": 185,
+                "descriptor": "Pontevedra - Pontevedra<br/>Palacio de congresos",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mdy0/~edisp/~extract/TURGA064578~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.639166",
+                "lat": "42.43611"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/185.png",
+        "nom": "Palacio de congresos"
+    },
+    {
+        "cat": 185,
+        "pt": [
+            {
+                "nombre": "PALACIO DE LA ÓPERA DE A CORUÑA",
+                "id": "892",
+                "idSubtipo": 185,
+                "descriptor": "A Coruña - A Coruña<br/>Palacio de congresos",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mdm1/~edisp/~extract/TURGA035800~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.410833",
+                "lat": "43.363056"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/185.png",
+        "nom": "Palacio de congresos"
+    },
+    {
+        "cat": 185,
+        "pt": [
+            {
+                "nombre": "PALEXCO (PALACIO DE EXPOSICIONES Y CONGRESOS)",
+                "id": "31641",
+                "idSubtipo": 185,
+                "descriptor": "A Coruña - A Coruña<br/>Palacio de congresos",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mtyz/~edisp/~extract/TURGA163238~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.399166",
+                "lat": "43.368053"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/185.png",
+        "nom": "Palacio de congresos"
+    },
+    {
+        "cat": 187,
+        "pt": [
+            {
+                "nombre": "PARQUE TECNOLÓGICO DE GALICIA",
+                "id": "15947",
+                "idSubtipo": 187,
+                "descriptor": "San Cibrao das Viñas - Ourense<br/>Grandes Recintos - Otros",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mdy0/~edisp/~extract/TURGA064572~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-7.800556",
+                "lat": "42.295555"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/187.png",
+        "nom": "Grandes Recintos - Otros"
+    },
+    {
+        "cat": 186,
+        "pt": [
+            {
+                "nombre": "PAZO DA PEDREIRA",
+                "id": "32847",
+                "idSubtipo": 186,
+                "descriptor": "Ribadumia - Pontevedra<br/>Instalaciones especiales",
+                "lng": "-8.787222",
+                "lat": "42.496944"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/186.png",
+        "nom": "Instalaciones especiales"
+    },
+    {
+        "cat": 186,
+        "pt": [
+            {
+                "nombre": "PAZO DE ADRÁN",
+                "id": "31744",
+                "idSubtipo": 186,
+                "descriptor": "Teo - A Coruña<br/>Instalaciones especiales",
+                "lng": "-8.585833",
+                "lat": "42.8325"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/186.png",
+        "nom": "Instalaciones especiales"
+    },
+    {
+        "cat": 186,
+        "pt": [
+            {
+                "nombre": "PAZO DE CORES",
+                "id": "269890621",
+                "idSubtipo": 186,
+                "descriptor": "A Baña - A Coruña<br/>Instalaciones especiales",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mdgw/~edisp/~extract/TURGA080834~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.763056",
+                "lat": "42.928055"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/186.png",
+        "nom": "Instalaciones especiales"
+    },
+    {
+        "cat": 186,
+        "pt": [
+            {
+                "nombre": "PAZO DE FEFIÑÁNS",
+                "id": "32848",
+                "idSubtipo": 186,
+                "descriptor": "Cambados - Pontevedra<br/>Instalaciones especiales",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mjg5/~edisp/~extract/TURGA289452~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.811667",
+                "lat": "42.520416"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/186.png",
+        "nom": "Instalaciones especiales"
+    },
+    {
+        "cat": 186,
+        "pt": [
+            {
+                "nombre": "PAZO DE OCA",
+                "id": "15958",
+                "idSubtipo": 186,
+                "descriptor": "A Estrada - Pontevedra<br/>Instalaciones especiales",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mdy0/~edisp/~extract/TURGA064595~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.395",
+                "lat": "42.746113"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/186.png",
+        "nom": "Instalaciones especiales"
+    },
+    {
+        "cat": 186,
+        "pt": [
+            {
+                "nombre": "PAZO DE ORTO",
+                "id": "31749",
+                "idSubtipo": 186,
+                "descriptor": "Cambre - A Coruña<br/>Instalaciones especiales",
+                "lng": "-8.288055",
+                "lat": "43.274998"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/186.png",
+        "nom": "Instalaciones especiales"
+    },
+    {
+        "cat": 186,
+        "pt": [
+            {
+                "nombre": "PAZO DE RUBIÁNS",
+                "id": "15953",
+                "idSubtipo": 186,
+                "descriptor": "Vilagarcía de Arousa - Pontevedra<br/>Instalaciones especiales",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mdy0/~edisp/~extract/TURGA064584~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.733055",
+                "lat": "42.578056"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/186.png",
+        "nom": "Instalaciones especiales"
+    },
+    {
+        "cat": 186,
+        "pt": [
+            {
+                "nombre": "PAZO DE SAN DAMIÁN",
+                "id": "261365924",
+                "idSubtipo": 186,
+                "descriptor": "Amoeiro - Ourense<br/>Instalaciones especiales",
+                "lng": "-7.940889",
+                "lat": "42.397778"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/186.png",
+        "nom": "Instalaciones especiales"
+    },
+    {
+        "cat": 186,
+        "pt": [
+            {
+                "nombre": "PAZO DE SAN LOURENZO DE TRASOUTO",
+                "id": "15932",
+                "idSubtipo": 186,
+                "descriptor": "Santiago de Compostela - A Coruña<br/>Instalaciones especiales",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mdy0/~edisp/~extract/TURGA064502~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.557778",
+                "lat": "42.878056"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/186.png",
+        "nom": "Instalaciones especiales"
+    },
+    {
+        "cat": 186,
+        "pt": [
+            {
+                "nombre": "PAZO DE SANTA CRUZ",
+                "id": "31751",
+                "idSubtipo": 186,
+                "descriptor": "Oza-Cesuras - A Coruña<br/>Instalaciones especiales",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mdcz/~edisp/~extract/TURGA073302~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.206778",
+                "lat": "43.258694"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/186.png",
+        "nom": "Instalaciones especiales"
+    },
+    {
+        "cat": 186,
+        "pt": [
+            {
+                "nombre": "PAZO DE SEÑORÁNS",
+                "id": "31752",
+                "idSubtipo": 186,
+                "descriptor": "Meis - Pontevedra<br/>Instalaciones especiales",
+                "lng": "-8.708889",
+                "lat": "42.546944"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/186.png",
+        "nom": "Instalaciones especiales"
+    },
+    {
+        "cat": 186,
+        "pt": [
+            {
+                "nombre": "PAZO DE URZAIZ DE CADAVAL",
+                "id": "15959",
+                "idSubtipo": 186,
+                "descriptor": "Nigrán - Pontevedra<br/>Instalaciones especiales",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mdy0/~edisp/~extract/TURGA064597~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.798333",
+                "lat": "42.149445"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/186.png",
+        "nom": "Instalaciones especiales"
+    },
+    {
+        "cat": 186,
+        "pt": [
+            {
+                "nombre": "PAZO DE VILABOA",
+                "id": "32846",
+                "idSubtipo": 186,
+                "descriptor": "Culleredo - A Coruña<br/>Instalaciones especiales",
+                "lng": "-8.381777",
+                "lat": "43.311085"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/186.png",
+        "nom": "Instalaciones especiales"
+    },
+    {
+        "cat": 186,
+        "pt": [
+            {
+                "nombre": "PAZO DE VILAMARÍN",
+                "id": "15949",
+                "idSubtipo": 186,
+                "descriptor": "Vilamarín - Ourense<br/>Instalaciones especiales",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mdy0/~edisp/~extract/TURGA064576~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-7.900833",
+                "lat": "42.450558"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/186.png",
+        "nom": "Instalaciones especiales"
+    },
+    {
+        "cat": 186,
+        "pt": [
+            {
+                "nombre": "PAZO DE VISTA ALEGRE",
+                "id": "32844",
+                "idSubtipo": 186,
+                "descriptor": "Vedra - A Coruña<br/>Instalaciones especiales",
+                "lng": "-8.404528",
+                "lat": "42.777195"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/186.png",
+        "nom": "Instalaciones especiales"
+    },
+    {
+        "cat": 186,
+        "pt": [
+            {
+                "nombre": "PAZO DO TAMBRE",
+                "id": "15933",
+                "idSubtipo": 186,
+                "descriptor": "Outes - A Coruña<br/>Instalaciones especiales",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mdy0/~edisp/~extract/TURGA064509~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.862222",
+                "lat": "42.831387"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/186.png",
+        "nom": "Instalaciones especiales"
+    },
+    {
+        "cat": 186,
+        "pt": [
+            {
+                "nombre": "PAZO FARAMELLO",
+                "id": "280381404",
+                "idSubtipo": 186,
+                "descriptor": "Rois - A Coruña<br/>Instalaciones especiales",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mtu5/~edisp/~extract/TURGA159475~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.629927",
+                "lat": "42.810013"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/186.png",
+        "nom": "Instalaciones especiales"
+    },
+    {
+        "cat": 186,
+        "pt": [
+            {
+                "nombre": "PAZO QUINTEIRO DA CRUZ",
+                "id": "15960",
+                "idSubtipo": 186,
+                "descriptor": "Ribadumia - Pontevedra<br/>Instalaciones especiales",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mdy0/~edisp/~extract/TURGA064598~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.727777",
+                "lat": "42.530277"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/186.png",
+        "nom": "Instalaciones especiales"
+    },
+    {
+        "cat": 186,
+        "pt": [
+            {
+                "nombre": "PAZO VILAR DE FERREIROS",
+                "id": "32845",
+                "idSubtipo": 186,
+                "descriptor": "Santiso - A Coruña<br/>Instalaciones especiales",
+                "lng": "-8.100556",
+                "lat": "42.865"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/186.png",
+        "nom": "Instalaciones especiales"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "PÍRATE DE VIAJE, S.L.",
+                "id": "280274614",
+                "idSubtipo": 153,
+                "descriptor": "Lalín - Pontevedra<br/>Agencia de viajes",
+                "lng": "-8.118209",
+                "lat": "42.664158"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "PONTETUR,S.L.",
+                "id": "258574467",
+                "idSubtipo": 153,
+                "descriptor": "Sanxenxo - Pontevedra<br/>Agencia de viajes",
+                "lng": "-8.639694",
+                "lat": "42.428307"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "REYSO VIAJES",
+                "id": "271656693",
+                "idSubtipo": 153,
+                "descriptor": "Verín - Ourense<br/>Agencia de viajes",
+                "lng": "-7.436666",
+                "lat": "41.940556"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "ROLLING TOURS",
+                "id": "37652",
+                "idSubtipo": 153,
+                "descriptor": "Miño - A Coruña<br/>Agencia de viajes",
+                "srcImx": "/osdam/filestore/6/6/5/4/4_3f4a362702e0c9b/66544scr_90cba5381c75add.jpg",
+                "lng": "-8.205611",
+                "lat": "43.34911"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 0,
+        "pt": [
+            {
+                "nombre": "VIAJES 500 MILLAS Y EVENTOS# S.L.",
+                "id": "170425000070",
+                "idSubtipo": 0,
+                "descriptor": "Redondela - Pontevedra<br/>Agencias de viajes",
+                "srcImx": "/osdam/filestore/6/7/3/6/8_5dc4e0d55466974/67368scr_0f0b088821305e6.jpg",
+                "lng": "-8.6777525",
+                "lat": "42.266747"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/0.png",
+        "nom": "Agencias de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "SAGRARIO VIAJES, S.L.",
+                "id": "219",
+                "idSubtipo": 153,
+                "descriptor": "Padrón - A Coruña<br/>Agencia de viajes",
+                "lng": "-8.660111",
+                "lat": "42.738304"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 187,
+        "pt": [
+            {
+                "nombre": "SEDE AFUNDACIÓN  DE OURENSE",
+                "id": "15936",
+                "idSubtipo": 187,
+                "descriptor": "Ourense - Ourense<br/>Grandes Recintos - Otros",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mdy0/~edisp/~extract/TURGA064514~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-7.8650784",
+                "lat": "42.335827"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/187.png",
+        "nom": "Grandes Recintos - Otros"
+    },
+    {
+        "cat": 187,
+        "pt": [
+            {
+                "nombre": "SEDE AFUNDACIÓN VIGO",
+                "id": "31747",
+                "idSubtipo": 187,
+                "descriptor": "Vigo - Pontevedra<br/>Grandes Recintos - Otros",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mtyz/~edisp/~extract/TURGA163640~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.722466",
+                "lat": "42.237522"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/187.png",
+        "nom": "Grandes Recintos - Otros"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "SIKAE VIAXES",
+                "id": "260238439",
+                "idSubtipo": 153,
+                "descriptor": "A Coruña - A Coruña<br/>Agencia de viajes",
+                "lng": "-8.404833",
+                "lat": "43.35653"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "SIMPLY TRAVEL, S.L.U",
+                "id": "280380911",
+                "idSubtipo": 153,
+                "descriptor": "Santiago de Compostela - A Coruña<br/>Agencia de viajes",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mjuw/~edisp/~extract/TURGA250053~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.489417",
+                "lat": "42.69057"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "SIMPLY TRAVEL, S.L.U.",
+                "id": "280382670",
+                "idSubtipo": 153,
+                "descriptor": "A Estrada - Pontevedra<br/>Agencia de viajes",
+                "srcImx": "/osdam/filestore/7/1/9/0/5_02f5cc05f98606d/71905scr_e328540ad215b47.jpg",
+                "lng": "-8.494546",
+                "lat": "42.687965"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "SIRENOTOUR, AGENCIA DE VIAJES",
+                "id": "280380122",
+                "idSubtipo": 153,
+                "descriptor": "Vigo - Pontevedra<br/>Agencia de viajes",
+                "lng": "-8.701771",
+                "lat": "42.227654"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "SOÑANDO ORGANIZACIÓN VIAJES, S.L.",
+                "id": "36533",
+                "idSubtipo": 153,
+                "descriptor": "Tui - Pontevedra<br/>Agencia de viajes",
+                "lng": "-8.644972",
+                "lat": "42.05014"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 187,
+        "pt": [
+            {
+                "nombre": "TEATRO AFUNDACIÓN VIGO",
+                "id": "15954",
+                "idSubtipo": 187,
+                "descriptor": "Vigo - Pontevedra<br/>Grandes Recintos - Otros",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mdy0/~edisp/~extract/TURGA064588~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.722777",
+                "lat": "42.237778"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/187.png",
+        "nom": "Grandes Recintos - Otros"
+    },
+    {
+        "cat": 187,
+        "pt": [
+            {
+                "nombre": "TEATRO PRINCIPAL DE OURENSE",
+                "id": "15948",
+                "idSubtipo": 187,
+                "descriptor": "Ourense - Ourense<br/>Grandes Recintos - Otros",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mdy0/~edisp/~extract/TURGA064573~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-7.863611",
+                "lat": "42.336945"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/187.png",
+        "nom": "Grandes Recintos - Otros"
+    },
+    {
+        "cat": 187,
+        "pt": [
+            {
+                "nombre": "TEATRO PRINCIPAL PONTEVEDRA",
+                "id": "15951",
+                "idSubtipo": 187,
+                "descriptor": "Pontevedra - Pontevedra<br/>Grandes Recintos - Otros",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mdy0/~edisp/~extract/TURGA064579~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.646111",
+                "lat": "42.4325"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/187.png",
+        "nom": "Grandes Recintos - Otros"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "TEE TRAVEL",
+                "id": "17094",
+                "idSubtipo": 153,
+                "descriptor": "Vilagarcía de Arousa - Pontevedra<br/>Agencia de viajes",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mdk3/~edisp/~extract/TURGA097889~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.764806",
+                "lat": "42.588806"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "TERRA VIAXES",
+                "id": "280376112",
+                "idSubtipo": 153,
+                "descriptor": "Pontevedra - Pontevedra<br/>Agencia de viajes",
+                "lng": "-8.63868",
+                "lat": "42.43037"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "THE ASIAN CONTINENT",
+                "id": "279799427",
+                "idSubtipo": 153,
+                "descriptor": "Vigo - Pontevedra<br/>Agencia de viajes",
+                "lng": "-8.718461",
+                "lat": "42.23803"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "TRAVELS TO FINISTERRE, S.L.",
+                "id": "280382895",
+                "idSubtipo": 153,
+                "descriptor": "Cee - A Coruña<br/>Agencia de viajes",
+                "srcImx": "/osdam/filestore/6/1/5/7/8_92a3ea8fed897f1/61578scr_41fe0fc394df097.jpg",
+                "lng": "-9.193217",
+                "lat": "42.956856"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "TRAVELVIGO",
+                "id": "277294823",
+                "idSubtipo": 153,
+                "descriptor": "Vigo - Pontevedra<br/>Agencia de viajes",
+                "srcImx": "/osdam/filestore/5/9/4/4/5_9bdb719e790b365/59445scr_b55e336b9eca6e4.jpg",
+                "lng": "-8.70495",
+                "lat": "42.231834"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "TURATLÁNTICA VIAJES",
+                "id": "37638",
+                "idSubtipo": 153,
+                "descriptor": "Vigo - Pontevedra<br/>Agencia de viajes",
+                "lng": "-8.737027",
+                "lat": "42.217693"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "TURAVIA CLUB, S.A.",
+                "id": "3674",
+                "idSubtipo": 153,
+                "descriptor": "Santiago de Compostela - A Coruña<br/>Agencia de viajes",
+                "lng": "-8.533916",
+                "lat": "42.87864"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "TUS VIAJES SG",
+                "id": "276084512",
+                "idSubtipo": 153,
+                "descriptor": "Lugo - Lugo<br/>Agencia de viajes",
+                "srcImx": "/osdam/filestore/6/0/1/4/6_2902d396072e6e6/60146scr_4010e1426b8e8f6.jpg",
+                "lng": "-7.548388",
+                "lat": "42.99827"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VA. VIAJES AMARELLE",
+                "id": "228",
+                "idSubtipo": 153,
+                "descriptor": "Santa Comba - A Coruña<br/>Agencia de viajes",
+                "lng": "-8.809278",
+                "lat": "43.034084"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES 365 DIAS",
+                "id": "259675555",
+                "idSubtipo": 153,
+                "descriptor": "Pontevedra - Pontevedra<br/>Agencia de viajes",
+                "lng": "-8.644694",
+                "lat": "42.43025"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES A&M TOURS",
+                "id": "280179782",
+                "idSubtipo": 153,
+                "descriptor": "A Coruña - A Coruña<br/>Agencia de viajes",
+                "lng": "-8.41909",
+                "lat": "43.35946"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES ABRAMAR",
+                "id": "28600",
+                "idSubtipo": 153,
+                "descriptor": "O Porriño - Pontevedra<br/>Agencia de viajes",
+                "lng": "-8.619583",
+                "lat": "42.109554"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES AIRBUS GALICIA S.A.",
+                "id": "38520",
+                "idSubtipo": 153,
+                "descriptor": "Ourense - Ourense<br/>Agencia de viajes",
+                "srcImx": "/osdam/filestore/6/4/9/0/2_8d3b944e3b812f4/64902scr_21a4eeb85578037.jpg",
+                "lng": "-7.861472",
+                "lat": "42.343723"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES AIRBÚS GALICIA, S.A.",
+                "id": "187",
+                "idSubtipo": 153,
+                "descriptor": "A Coruña - A Coruña<br/>Agencia de viajes",
+                "srcImx": "/osdam/filestore/6/4/9/0/3_e953c49e14bf860/64903scr_f5a7ac20a22ca21.jpg",
+                "lng": "-8.406444",
+                "lat": "43.36353"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES AIRBUS GALICIA, S.A.",
+                "id": "294",
+                "idSubtipo": 153,
+                "descriptor": "Redondela - Pontevedra<br/>Agencia de viajes",
+                "srcImx": "/osdam/filestore/6/4/9/0/5_b51448d81681670/64905scr_6b072242d2e3f5d.jpg",
+                "lng": "-8.609444",
+                "lat": "42.281918"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES AIRBÚS GALICIA, S.A.",
+                "id": "9657",
+                "idSubtipo": 153,
+                "descriptor": "Vigo - Pontevedra<br/>Agencia de viajes",
+                "srcImx": "/osdam/filestore/6/1/4/5/8_2db09911344d7fc/61458scr_c4f3a01af708d94.jpg",
+                "lng": "-8.717555",
+                "lat": "42.237778"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES AIRBUS, S.A.",
+                "id": "291",
+                "idSubtipo": 153,
+                "descriptor": "O Porriño - Pontevedra<br/>Agencia de viajes",
+                "srcImx": "/osdam/filestore/6/4/9/0/9_e768ac9fdf27a5a/64909scr_530375c316a04ba.jpg",
+                "lng": "-8.619833",
+                "lat": "42.1605"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES ALCES TRAVEL, S. L.",
+                "id": "17427",
+                "idSubtipo": 153,
+                "descriptor": "Ponteareas - Pontevedra<br/>Agencia de viajes",
+                "lng": "-8.507139",
+                "lat": "42.175247"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES ALCOTAN, S.L.",
+                "id": "289",
+                "idSubtipo": 153,
+                "descriptor": "Pontevedra - Pontevedra<br/>Agencia de viajes",
+                "lng": "-8.646139",
+                "lat": "42.429028"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES ALL TOUR, S.L.",
+                "id": "324",
+                "idSubtipo": 153,
+                "descriptor": "Vigo - Pontevedra<br/>Agencia de viajes",
+                "lng": "-8.724499",
+                "lat": "42.238194"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES ALMAR, S.L.",
+                "id": "259",
+                "idSubtipo": 153,
+                "descriptor": "Lugo - Lugo<br/>Agencia de viajes",
+                "lng": "-7.554528",
+                "lat": "43.01075"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES ÁNCORA",
+                "id": "15651",
+                "idSubtipo": 153,
+                "descriptor": "Zas - A Coruña<br/>Agencia de viajes",
+                "lng": "-8.964583",
+                "lat": "43.148724"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES ÁNCORA",
+                "id": "184",
+                "idSubtipo": 153,
+                "descriptor": "A Coruña - A Coruña<br/>Agencia de viajes",
+                "lng": "-8.406944",
+                "lat": "43.364113"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES APÓSTOL",
+                "id": "280381900",
+                "idSubtipo": 153,
+                "descriptor": "Santiago de Compostela - A Coruña<br/>Agencia de viajes",
+                "lng": "-8.550131",
+                "lat": "42.872147"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES ARANY",
+                "id": "32666",
+                "idSubtipo": 153,
+                "descriptor": "Pontevedra - Pontevedra<br/>Agencia de viajes",
+                "lng": "-8.64",
+                "lat": "42.429222"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES ARIFRAN, S.L.",
+                "id": "264",
+                "idSubtipo": 153,
+                "descriptor": "Viveiro - Lugo<br/>Agencia de viajes",
+                "lng": "-7.595194",
+                "lat": "43.664165"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES AROSA, S.L.",
+                "id": "279",
+                "idSubtipo": 153,
+                "descriptor": "O Grove - Pontevedra<br/>Agencia de viajes",
+                "lng": "-8.866306",
+                "lat": "42.493862"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES AURIA",
+                "id": "3727",
+                "idSubtipo": 153,
+                "descriptor": "Ourense - Ourense<br/>Agencia de viajes",
+                "lng": "-7.862972",
+                "lat": "42.34161"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES AVIATOURS",
+                "id": "34586",
+                "idSubtipo": 153,
+                "descriptor": "Culleredo - A Coruña<br/>Agencia de viajes",
+                "srcImx": "/osdam/filestore/2/6/5/8/2_c0c736205495162/26582scr_03900f0a8b16aa6.jpg",
+                "lng": "-8.370277",
+                "lat": "43.317776"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES BARCO, S.L.",
+                "id": "276",
+                "idSubtipo": 153,
+                "descriptor": "Cangas - Pontevedra<br/>Agencia de viajes",
+                "lng": "-8.779472",
+                "lat": "42.26472"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES BARRAÑA, S.L.",
+                "id": "4297",
+                "idSubtipo": 153,
+                "descriptor": "Boiro - A Coruña<br/>Agencia de viajes",
+                "lng": "-8.886555",
+                "lat": "42.645695"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES BEIRAMAR ",
+                "id": "29167",
+                "idSubtipo": 153,
+                "descriptor": "Pontevedra - Pontevedra<br/>Agencia de viajes",
+                "lng": "-8.641611",
+                "lat": "42.427998"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES CARREFOUR",
+                "id": "33324",
+                "idSubtipo": 153,
+                "descriptor": "Barbadás - Ourense<br/>Agencia de viajes",
+                "lng": "-7.876472",
+                "lat": "42.321804"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES CARREFOUR , S.L.",
+                "id": "35867",
+                "idSubtipo": 153,
+                "descriptor": "A Coruña - A Coruña<br/>Agencia de viajes",
+                "lng": "-8.407528",
+                "lat": "43.338444"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES CARREFOUR, S.L.",
+                "id": "38519",
+                "idSubtipo": 153,
+                "descriptor": "Vigo - Pontevedra<br/>Agencia de viajes",
+                "lng": "-8.72511",
+                "lat": "42.220196"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES CHICHIRICA",
+                "id": "35863",
+                "idSubtipo": 153,
+                "descriptor": "Vilagarcía de Arousa - Pontevedra<br/>Agencia de viajes",
+                "lng": "-8.764611",
+                "lat": "42.5985"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES CICELY",
+                "id": "270919734",
+                "idSubtipo": 153,
+                "descriptor": "Vigo - Pontevedra<br/>Agencia de viajes",
+                "lng": "-8.732222",
+                "lat": "42.22389"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES CIMAVI TOURS, S.L",
+                "id": "11239",
+                "idSubtipo": 153,
+                "descriptor": "Santiago de Compostela - A Coruña<br/>Agencia de viajes",
+                "lng": "-8.544444",
+                "lat": "42.875027"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES CIRCUITOS A FONDO. S.A.",
+                "id": "4284",
+                "idSubtipo": 153,
+                "descriptor": "A Coruña - A Coruña<br/>Agencia de viajes",
+                "lng": "-8.400056",
+                "lat": "43.370777"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 0,
+        "pt": [
+            {
+                "nombre": "VIAJES CLUB DE VACACIONES, S.A.",
+                "id": "XG-CO-000050",
+                "idSubtipo": 0,
+                "descriptor": "A Coruña - A Coruña<br/>Agencias de viajes",
+                "lng": "-8.39945",
+                "lat": "43.35611"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/0.png",
+        "nom": "Agencias de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES CORUÑA",
+                "id": "33891",
+                "idSubtipo": 153,
+                "descriptor": "A Coruña - A Coruña<br/>Agencia de viajes",
+                "lng": "-8.389666",
+                "lat": "43.35164"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES COSTA AZUL,S.L.",
+                "id": "165",
+                "idSubtipo": 153,
+                "descriptor": "Carballo - A Coruña<br/>Agencia de viajes",
+                "srcImx": "/osdam/filestore/6/5/3/2/8_cb37c6628884b85/65328scr_cc3eabc1d4c4de7.jpg",
+                "lng": "-8.693527",
+                "lat": "43.212807"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES COSTA NORTE",
+                "id": "280376703",
+                "idSubtipo": 153,
+                "descriptor": "Cambre - A Coruña<br/>Agencia de viajes",
+                "lng": "-8.354387",
+                "lat": "43.31894"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES CRISTÍN, S.L.",
+                "id": "216",
+                "idSubtipo": 153,
+                "descriptor": "Ordes - A Coruña<br/>Agencia de viajes",
+                "lng": "-8.407944",
+                "lat": "43.0755"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES DARIO",
+                "id": "260245757",
+                "idSubtipo": 153,
+                "descriptor": "Pontevedra - Pontevedra<br/>Agencia de viajes",
+                "lng": "-8.651222",
+                "lat": "42.430832"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES DEZA, S. L.",
+                "id": "15764",
+                "idSubtipo": 153,
+                "descriptor": "Marín - Pontevedra<br/>Agencia de viajes",
+                "srcImx": "/osdam/filestore/6/5/2/5/3_b6c14c00da4e912/65253scr_4d4bd645095df85.jpg",
+                "lng": "-8.702778",
+                "lat": "42.39308"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES DEZA, S.L.",
+                "id": "286",
+                "idSubtipo": 153,
+                "descriptor": "Pontevedra - Pontevedra<br/>Agencia de viajes",
+                "srcImx": "/osdam/filestore/6/0/5/7/0_628682c1f545a26/60570scr_efe15deedf2a13c.jpg",
+                "lng": "-8.646222",
+                "lat": "42.431473"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES DRADOS",
+                "id": "15710",
+                "idSubtipo": 153,
+                "descriptor": "Ourense - Ourense<br/>Agencia de viajes",
+                "srcImx": "/osdam/filestore/2/6/6/7/2_791f02ca768690c/26672scr_6f1bf8806776b50.jpg",
+                "lng": "-7.859855",
+                "lat": "42.340996"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES ECUADOR",
+                "id": "16133",
+                "idSubtipo": 153,
+                "descriptor": "Burela - Lugo<br/>Agencia de viajes",
+                "lng": "-7.362028",
+                "lat": "43.660057"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES ECUADOR",
+                "id": "16134",
+                "idSubtipo": 153,
+                "descriptor": "Chantada - Lugo<br/>Agencia de viajes",
+                "lng": "-7.769166",
+                "lat": "42.610085"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES ECUADOR",
+                "id": "16139",
+                "idSubtipo": 153,
+                "descriptor": "Sada - A Coruña<br/>Agencia de viajes",
+                "lng": "-8.253417",
+                "lat": "43.351276"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES ECUADOR",
+                "id": "20234",
+                "idSubtipo": 153,
+                "descriptor": "Sarria - Lugo<br/>Agencia de viajes",
+                "lng": "-7.411083",
+                "lat": "42.77933"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES ECUADOR",
+                "id": "238",
+                "idSubtipo": 153,
+                "descriptor": "Santiago de Compostela - A Coruña<br/>Agencia de viajes",
+                "lng": "-8.543944",
+                "lat": "42.87583"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES ECUADOR",
+                "id": "34584",
+                "idSubtipo": 153,
+                "descriptor": "Ames - A Coruña<br/>Agencia de viajes",
+                "lng": "-8.650528",
+                "lat": "42.860306"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES ECUADOR",
+                "id": "35892",
+                "idSubtipo": 153,
+                "descriptor": "O Carballiño - Ourense<br/>Agencia de viajes",
+                "lng": "-8.077833",
+                "lat": "42.43314"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES ECUADOR",
+                "id": "38174",
+                "idSubtipo": 153,
+                "descriptor": "Barbadás - Ourense<br/>Agencia de viajes",
+                "lng": "-7.880972",
+                "lat": "42.322693"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES ECUADOR",
+                "id": "4304",
+                "idSubtipo": 153,
+                "descriptor": "Pontedeume - A Coruña<br/>Agencia de viajes",
+                "lng": "-8.166194",
+                "lat": "43.40514"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES ECUADOR",
+                "id": "4555",
+                "idSubtipo": 153,
+                "descriptor": "Baiona - Pontevedra<br/>Agencia de viajes",
+                "lng": "-8.850167",
+                "lat": "42.120556"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES ECUADOR, S.A.",
+                "id": "270919697",
+                "idSubtipo": 153,
+                "descriptor": "Ames - A Coruña<br/>Agencia de viajes",
+                "lng": "-8.579444",
+                "lat": "42.84778"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES EL CORTE INGLÉS S.A.",
+                "id": "XG-CO-000063",
+                "idSubtipo": 153,
+                "descriptor": "A Coruña - A Coruña<br/>Agencia de viajes",
+                "lng": "-8.403259",
+                "lat": "43.354332"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES EL CORTE INGLÉS, S. A.",
+                "id": "15783",
+                "idSubtipo": 153,
+                "descriptor": "Pontevedra - Pontevedra<br/>Agencia de viajes",
+                "lng": "-8.643805",
+                "lat": "42.430553"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES EL CORTE INGLÉS, S. A.",
+                "id": "292",
+                "idSubtipo": 153,
+                "descriptor": "O Porriño - Pontevedra<br/>Agencia de viajes",
+                "lng": "-8.620944",
+                "lat": "42.16114"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES EL CORTE INGLÉS, S.A",
+                "id": "31989",
+                "idSubtipo": 153,
+                "descriptor": "Vilagarcía de Arousa - Pontevedra<br/>Agencia de viajes",
+                "lng": "-8.765972",
+                "lat": "42.59336"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES EL CORTE INGLÉS, S.A.",
+                "id": "280378920",
+                "idSubtipo": 153,
+                "descriptor": "A Coruña - A Coruña<br/>Agencia de viajes",
+                "lng": "-8.42765",
+                "lat": "43.345966"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES EL CORTE INGLÉS, S.A.",
+                "id": "28364",
+                "idSubtipo": 153,
+                "descriptor": "A Coruña - A Coruña<br/>Agencia de viajes",
+                "lng": "-8.419999",
+                "lat": "43.360558"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES EL CORTE INGLÉS, S.A.",
+                "id": "34414",
+                "idSubtipo": 153,
+                "descriptor": "Ferrol - A Coruña<br/>Agencia de viajes",
+                "lng": "-8.236277",
+                "lat": "43.48311"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES EL CORTE INGLÉS, S.A.",
+                "id": "4557",
+                "idSubtipo": 153,
+                "descriptor": "Lugo - Lugo<br/>Agencia de viajes",
+                "lng": "-7.556333",
+                "lat": "43.007694"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES EL CORTE INGLÉS, S.A.",
+                "id": "9660",
+                "idSubtipo": 153,
+                "descriptor": "Ourense - Ourense<br/>Agencia de viajes",
+                "lng": "-7.862639",
+                "lat": "42.340416"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 0,
+        "pt": [
+            {
+                "nombre": "VIAJES EL CORTE INGLÉS, S.A.",
+                "id": "XG-CO-000176",
+                "idSubtipo": 0,
+                "descriptor": "Santiago de Compostela - A Coruña<br/>Agencias de viajes",
+                "lng": "-8.542408",
+                "lat": "42.86225"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/0.png",
+        "nom": "Agencias de viajes"
+    },
+    {
+        "cat": 0,
+        "pt": [
+            {
+                "nombre": "VIAJES EL CORTE INGLÉS, S.A.",
+                "id": "XG-PO-000141",
+                "idSubtipo": 0,
+                "descriptor": "Vigo - Pontevedra<br/>Agencias de viajes",
+                "lng": "-8.716578",
+                "lat": "42.23186"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/0.png",
+        "nom": "Agencias de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES EMBAJADOR",
+                "id": "201",
+                "idSubtipo": 153,
+                "descriptor": "A Coruña - A Coruña<br/>Agencia de viajes",
+                "srcImx": "/osdam/filestore/5/6/2/4/7_f085024a6d484ac/56247scr_6896a151a72aa83.jpg",
+                "lng": "-8.405405",
+                "lat": "43.365086"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES ESCAPATE CON VACACIONES Y OCIO",
+                "id": "259227809",
+                "idSubtipo": 153,
+                "descriptor": "Santiago de Compostela - A Coruña<br/>Agencia de viajes",
+                "lng": "-8.556472",
+                "lat": "42.871666"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES ESTEVO  S.A..",
+                "id": "263",
+                "idSubtipo": 153,
+                "descriptor": "Sarria - Lugo<br/>Agencia de viajes",
+                "lng": "-7.416167",
+                "lat": "42.780834"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES FISTERRA, S.L.",
+                "id": "296",
+                "idSubtipo": 153,
+                "descriptor": "Sanxenxo - Pontevedra<br/>Agencia de viajes",
+                "srcImx": "/osdam/filestore/6/1/6/9/9_16d56cede741f15/61699scr_a47955e809ade4d.jpg",
+                "lng": "-8.809889",
+                "lat": "42.401974"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES GALITUR, S.L.",
+                "id": "5643",
+                "idSubtipo": 153,
+                "descriptor": "Santiago de Compostela - A Coruña<br/>Agencia de viajes",
+                "lng": "-8.543777",
+                "lat": "42.875637"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES HALCÓN",
+                "id": "10564",
+                "idSubtipo": 153,
+                "descriptor": "A Coruña - A Coruña<br/>Agencia de viajes",
+                "lng": "-8.403722",
+                "lat": "43.35692"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES HALCÓN",
+                "id": "15854",
+                "idSubtipo": 153,
+                "descriptor": "Ribadeo - Lugo<br/>Agencia de viajes",
+                "lng": "-7.041111",
+                "lat": "43.53411"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES HALCÓN",
+                "id": "170",
+                "idSubtipo": 153,
+                "descriptor": "A Coruña - A Coruña<br/>Agencia de viajes",
+                "lng": "-8.419694",
+                "lat": "43.360332"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES HALCÓN",
+                "id": "261055377",
+                "idSubtipo": 153,
+                "descriptor": "Vigo - Pontevedra<br/>Agencia de viajes",
+                "lng": "-8.717833",
+                "lat": "42.231445"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES HALCÓN",
+                "id": "272946071",
+                "idSubtipo": 153,
+                "descriptor": "Lugo - Lugo<br/>Agencia de viajes",
+                "lng": "-7.562222",
+                "lat": "43.015835"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES HALCÓN",
+                "id": "275006686",
+                "idSubtipo": 153,
+                "descriptor": "Tui - Pontevedra<br/>Agencia de viajes",
+                "lng": "-8.645",
+                "lat": "42.047222"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES HALCÓN",
+                "id": "276418045",
+                "idSubtipo": 153,
+                "descriptor": "Ames - A Coruña<br/>Agencia de viajes",
+                "lng": "-8.576568",
+                "lat": "42.84426"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES HALCÓN",
+                "id": "277309752",
+                "idSubtipo": 153,
+                "descriptor": "Xinzo de Limia - Ourense<br/>Agencia de viajes",
+                "lng": "-7.7259207",
+                "lat": "42.061394"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES HALCÓN",
+                "id": "277403827",
+                "idSubtipo": 153,
+                "descriptor": "Ponteareas - Pontevedra<br/>Agencia de viajes",
+                "lng": "-8.507725",
+                "lat": "42.171173"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES HALCÓN",
+                "id": "280365549",
+                "idSubtipo": 153,
+                "descriptor": "Vilanova de Arousa - Pontevedra<br/>Agencia de viajes",
+                "lng": "-8.825249",
+                "lat": "42.563305"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES HALCÓN",
+                "id": "280377235",
+                "idSubtipo": 153,
+                "descriptor": "Bueu - Pontevedra<br/>Agencia de viajes",
+                "lng": "-8.785717",
+                "lat": "42.325424"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES HALCÓN",
+                "id": "35861",
+                "idSubtipo": 153,
+                "descriptor": "A Coruña - A Coruña<br/>Agencia de viajes",
+                "lng": "-8.406167",
+                "lat": "43.363888"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES HALCÓN",
+                "id": "4249",
+                "idSubtipo": 153,
+                "descriptor": "Lugo - Lugo<br/>Agencia de viajes",
+                "lng": "-7.555556",
+                "lat": "43.01164"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES HALCÓN",
+                "id": "4250",
+                "idSubtipo": 153,
+                "descriptor": "Monforte de Lemos - Lugo<br/>Agencia de viajes",
+                "lng": "-7.513944",
+                "lat": "42.520164"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES HALCÓN",
+                "id": "4261",
+                "idSubtipo": 153,
+                "descriptor": "Ourense - Ourense<br/>Agencia de viajes",
+                "lng": "-7.861417",
+                "lat": "42.33989"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES HALCÓN",
+                "id": "4262",
+                "idSubtipo": 153,
+                "descriptor": "Ourense - Ourense<br/>Agencia de viajes",
+                "lng": "-7.866667",
+                "lat": "42.34"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES HALCÓN",
+                "id": "4265",
+                "idSubtipo": 153,
+                "descriptor": "Verín - Ourense<br/>Agencia de viajes",
+                "lng": "-7.437416",
+                "lat": "41.939888"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES HALCÓN",
+                "id": "4273",
+                "idSubtipo": 153,
+                "descriptor": "O Porriño - Pontevedra<br/>Agencia de viajes",
+                "lng": "-8.619444",
+                "lat": "42.16103"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES HALCÓN",
+                "id": "4290",
+                "idSubtipo": 153,
+                "descriptor": "A Coruña - A Coruña<br/>Agencia de viajes",
+                "lng": "-8.404194",
+                "lat": "43.367832"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES HALCÓN",
+                "id": "5612",
+                "idSubtipo": 153,
+                "descriptor": "Lalín - Pontevedra<br/>Agencia de viajes",
+                "lng": "-8.111444",
+                "lat": "42.661945"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES HALCON S.A.",
+                "id": "273853637",
+                "idSubtipo": 153,
+                "descriptor": "Lugo - Lugo<br/>Agencia de viajes",
+                "lng": "-7.558611",
+                "lat": "43.011112"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES HERMA TOURS, S.L.",
+                "id": "280383571",
+                "idSubtipo": 153,
+                "descriptor": "A Coruña - A Coruña<br/>Agencia de viajes",
+                "srcImx": "/osdam/filestore/5/9/7/8/9_4f790e33d780587/59789scr_4f8ebdd8a0d2cd1.jpg",
+                "lng": "-8.396859",
+                "lat": "43.37274"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES LIMIA TOURS",
+                "id": "15802",
+                "idSubtipo": 153,
+                "descriptor": "Xinzo de Limia - Ourense<br/>Agencia de viajes",
+                "lng": "-7.726138",
+                "lat": "42.063694"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES LIRA, S.L.",
+                "id": "332",
+                "idSubtipo": 153,
+                "descriptor": "Vigo - Pontevedra<br/>Agencia de viajes",
+                "lng": "-8.716972",
+                "lat": "42.237667"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES LOS PUENTES",
+                "id": "277071350",
+                "idSubtipo": 153,
+                "descriptor": "A Coruña - A Coruña<br/>Agencia de viajes",
+                "lng": "-8.416893",
+                "lat": "43.363117"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES LÚA",
+                "id": "33268",
+                "idSubtipo": 153,
+                "descriptor": "Bueu - Pontevedra<br/>Agencia de viajes",
+                "srcImx": "/osdam/filestore/6/0/7/2/9_ebb4b05602e8ea1/60729scr_6592b368d78620e.jpg",
+                "lng": "-8.779805",
+                "lat": "42.327946"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES LUAMAR",
+                "id": "315",
+                "idSubtipo": 153,
+                "descriptor": "Vigo - Pontevedra<br/>Agencia de viajes",
+                "lng": "-8.713861",
+                "lat": "42.23672"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES LYLA",
+                "id": "280377234",
+                "idSubtipo": 153,
+                "descriptor": "Redondela - Pontevedra<br/>Agencia de viajes",
+                "lng": "-8.628555",
+                "lat": "42.24391"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES MARGALI, S.L.",
+                "id": "31714",
+                "idSubtipo": 153,
+                "descriptor": "Vigo - Pontevedra<br/>Agencia de viajes",
+                "srcImx": "/osdam/filestore/7/3/7/4/7_d50ca467dd8622c/73747_f0f742f85220843.png",
+                "lng": "-8.718305",
+                "lat": "42.23297"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES MATOGRANDE",
+                "id": "33890",
+                "idSubtipo": 153,
+                "descriptor": "A Coruña - A Coruña<br/>Agencia de viajes",
+                "lng": "-8.404556",
+                "lat": "43.34225"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES MILLAN",
+                "id": "36415",
+                "idSubtipo": 153,
+                "descriptor": "Ribadumia - Pontevedra<br/>Agencia de viajes",
+                "srcImx": "/osdam/filestore/5/7/1/8/0_76a96b4ac357c29/57180scr_62009a1b75d7946.jpg",
+                "lng": "-8.769249",
+                "lat": "42.501472"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES MUNDO GALAICO",
+                "id": "276498721",
+                "idSubtipo": 153,
+                "descriptor": "Lugo - Lugo<br/>Agencia de viajes",
+                "lng": "-7.570232",
+                "lat": "43.009323"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES NAVAZA, S.L.",
+                "id": "31986",
+                "idSubtipo": 153,
+                "descriptor": "Carballo - A Coruña<br/>Agencia de viajes",
+                "lng": "-8.693055",
+                "lat": "43.213722"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES OLYMA",
+                "id": "4264",
+                "idSubtipo": 153,
+                "descriptor": "Ourense - Ourense<br/>Agencia de viajes",
+                "lng": "-7.867638",
+                "lat": "42.338696"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES ORBIS, S.A.",
+                "id": "248",
+                "idSubtipo": 153,
+                "descriptor": "Teo - A Coruña<br/>Agencia de viajes",
+                "lng": "-8.54425",
+                "lat": "42.81986"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES ORONS S.A.",
+                "id": "199",
+                "idSubtipo": 153,
+                "descriptor": "A Coruña - A Coruña<br/>Agencia de viajes",
+                "lng": "-8.415639",
+                "lat": "43.358223"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES ORZÁN, S.A.",
+                "id": "175",
+                "idSubtipo": 153,
+                "descriptor": "A Coruña - A Coruña<br/>Agencia de viajes",
+                "lng": "-8.404306",
+                "lat": "43.36028"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES PACO S.A.",
+                "id": "200",
+                "idSubtipo": 153,
+                "descriptor": "A Coruña - A Coruña<br/>Agencia de viajes",
+                "lng": "-8.408329",
+                "lat": "43.365505"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES PACO, S.A.",
+                "id": "207",
+                "idSubtipo": 153,
+                "descriptor": "Ferrol - A Coruña<br/>Agencia de viajes",
+                "srcImx": "/osdam/filestore/2/2/7/8/1_fae8965d35e4688/22781scr_86f7db370ac1727.jpg",
+                "lng": "-8.233639",
+                "lat": "43.484444"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES PARDO",
+                "id": "270",
+                "idSubtipo": 153,
+                "descriptor": "Ourense - Ourense<br/>Agencia de viajes",
+                "lng": "-7.866472",
+                "lat": "42.339973"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES PASATIEMPOS",
+                "id": "258576272",
+                "idSubtipo": 153,
+                "descriptor": "Sada - A Coruña<br/>Agencia de viajes",
+                "lng": "-8.213417",
+                "lat": "43.28153"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES PIÑA",
+                "id": "3729",
+                "idSubtipo": 153,
+                "descriptor": "Ourense - Ourense<br/>Agencia de viajes",
+                "srcImx": "/osdam/filestore/5/7/9/4/3_1910f21acb4e573/57943_cb33acc10687e77.png",
+                "lng": "-7.874194",
+                "lat": "42.34122"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES PIÑA, S.A",
+                "id": "247",
+                "idSubtipo": 153,
+                "descriptor": "Santiago de Compostela - A Coruña<br/>Agencia de viajes",
+                "lng": "-8.54575",
+                "lat": "42.874474"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES PLANSTURTUI, S.L.U.",
+                "id": "265263254",
+                "idSubtipo": 153,
+                "descriptor": "Tui - Pontevedra<br/>Agencia de viajes",
+                "lng": "-8.660556",
+                "lat": "42.036667"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES PUGA",
+                "id": "268",
+                "idSubtipo": 153,
+                "descriptor": "Ourense - Ourense<br/>Agencia de viajes",
+                "lng": "-7.864694",
+                "lat": "42.338722"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES PULLMANTUR, S.A.",
+                "id": "179",
+                "idSubtipo": 153,
+                "descriptor": "A Coruña - A Coruña<br/>Agencia de viajes",
+                "lng": "-8.405444",
+                "lat": "43.366886"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES QUIMATURS, S.A.",
+                "id": "260",
+                "idSubtipo": 153,
+                "descriptor": "Lugo - Lugo<br/>Agencia de viajes",
+                "srcImx": "/osdam/filestore/6/5/9/2/6_ba952ace7bdee56/65926scr_dc1722e3285f24e.jpg",
+                "lng": "-7.557417",
+                "lat": "43.008167"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES RASCADO, S.L.",
+                "id": "283",
+                "idSubtipo": 153,
+                "descriptor": "Pontevedra - Pontevedra<br/>Agencia de viajes",
+                "lng": "-8.646333",
+                "lat": "42.430695"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES RIA DEL BURGO",
+                "id": "36609",
+                "idSubtipo": 153,
+                "descriptor": "Cambre - A Coruña<br/>Agencia de viajes",
+                "lng": "-8.356521",
+                "lat": "43.318523"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES RÍAS GALLEGAS, S.L.",
+                "id": "169",
+                "idSubtipo": 153,
+                "descriptor": "Corcubión - A Coruña<br/>Agencia de viajes",
+                "lng": "-9.191416",
+                "lat": "42.943527"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES RODRIGUEZ",
+                "id": "255",
+                "idSubtipo": 153,
+                "descriptor": "Foz - Lugo<br/>Agencia de viajes",
+                "lng": "-7.258389",
+                "lat": "43.568916"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES SALNES",
+                "id": "16316",
+                "idSubtipo": 153,
+                "descriptor": "Sanxenxo - Pontevedra<br/>Agencia de viajes",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mdk3/~edisp/~extract/TURGA097887~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.852417",
+                "lat": "42.406"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES SAMPAIO, S.L.",
+                "id": "277",
+                "idSubtipo": 153,
+                "descriptor": "A Estrada - Pontevedra<br/>Agencia de viajes",
+                "lng": "-8.491666",
+                "lat": "42.68972"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES SANT-YAGO, S.A.",
+                "id": "231",
+                "idSubtipo": 153,
+                "descriptor": "Santiago de Compostela - A Coruña<br/>Agencia de viajes",
+                "srcImx": "/osdam/filestore/2/2/9/1/1_af71686cb7eb593/22911scr_aac2c9637e5a75b.jpg",
+                "lng": "-8.551917",
+                "lat": "42.87308"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES SERCOM VALDEORRAS",
+                "id": "277171531",
+                "idSubtipo": 153,
+                "descriptor": "O Barco de Valdeorras - Ourense<br/>Agencia de viajes",
+                "srcImx": "/osdam/filestore/6/5/5/2/7_e89e63ddecb9cf2/65527scr_391925a570e44db.jpg",
+                "lng": "-6.9883165",
+                "lat": "42.416508"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES SIERRA",
+                "id": "38173",
+                "idSubtipo": 153,
+                "descriptor": "Santiago de Compostela - A Coruña<br/>Agencia de viajes",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/ndky/~edisp/~extract/TURGA492352~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.548833",
+                "lat": "42.875443"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES SIRIO",
+                "id": "261",
+                "idSubtipo": 153,
+                "descriptor": "Monforte de Lemos - Lugo<br/>Agencia de viajes",
+                "lng": "-7.514194",
+                "lat": "42.520973"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES SOL",
+                "id": "284",
+                "idSubtipo": 153,
+                "descriptor": "Pontevedra - Pontevedra<br/>Agencia de viajes",
+                "lng": "-8.64625",
+                "lat": "42.43036"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES ST SANXENXO",
+                "id": "35893",
+                "idSubtipo": 153,
+                "descriptor": "Cambados - Pontevedra<br/>Agencia de viajes",
+                "lng": "-8.812611",
+                "lat": "42.515194"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES TAMBRE",
+                "id": "250",
+                "idSubtipo": 153,
+                "descriptor": "Santiago de Compostela - A Coruña<br/>Agencia de viajes",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/ntex/~edisp/~extract/TURGA511935~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.550444",
+                "lat": "42.87528"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES TAMBRE S.L.",
+                "id": "271656681",
+                "idSubtipo": 153,
+                "descriptor": "Santiago de Compostela - A Coruña<br/>Agencia de viajes",
+                "lng": "-8.543055",
+                "lat": "42.879723"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES TAMBRE, S.L.",
+                "id": "30867",
+                "idSubtipo": 153,
+                "descriptor": "Zas - A Coruña<br/>Agencia de viajes",
+                "lng": "-8.961472",
+                "lat": "43.14672"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES TERMINAL CUATRO",
+                "id": "36185",
+                "idSubtipo": 153,
+                "descriptor": "A Coruña - A Coruña<br/>Agencia de viajes",
+                "lng": "-8.398361",
+                "lat": "43.352695"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES TERRA MAR, S.L.",
+                "id": "254",
+                "idSubtipo": 153,
+                "descriptor": "Burela - Lugo<br/>Agencia de viajes",
+                "lng": "-7.360722",
+                "lat": "43.659058"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES TROTTA, S.A.",
+                "id": "242",
+                "idSubtipo": 153,
+                "descriptor": "Santiago de Compostela - A Coruña<br/>Agencia de viajes",
+                "lng": "-8.546277",
+                "lat": "42.875443"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES TURISNORTE, S.L.",
+                "id": "160",
+                "idSubtipo": 153,
+                "descriptor": "Ames - A Coruña<br/>Agencia de viajes",
+                "lng": "-8.576472",
+                "lat": "42.847942"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES TURISTOURS",
+                "id": "36117",
+                "idSubtipo": 153,
+                "descriptor": "A Estrada - Pontevedra<br/>Agencia de viajes",
+                "lng": "-8.246889",
+                "lat": "42.697887"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES VAL MIÑOR",
+                "id": "260636382",
+                "idSubtipo": 153,
+                "descriptor": "Baiona - Pontevedra<br/>Agencia de viajes",
+                "srcImx": "/osdam/filestore/5/9/5/2/4_92cc664677ee21f/59524scr_56a79f5d8f53dea.jpg",
+                "lng": "-8.817805",
+                "lat": "42.11275"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES VERÍN, S.A.",
+                "id": "4266",
+                "idSubtipo": 153,
+                "descriptor": "Verín - Ourense<br/>Agencia de viajes",
+                "lng": "-7.437833",
+                "lat": "41.939304"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES VIABUS TRAVEL",
+                "id": "266431627",
+                "idSubtipo": 153,
+                "descriptor": "O Grove - Pontevedra<br/>Agencia de viajes",
+                "lng": "-8.866944",
+                "lat": "42.49"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAJES VIRGIN",
+                "id": "36115",
+                "idSubtipo": 153,
+                "descriptor": "Nigrán - Pontevedra<br/>Agencia de viajes",
+                "lng": "-8.812472",
+                "lat": "42.118195"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAMAY TOURS",
+                "id": "261488266",
+                "idSubtipo": 153,
+                "descriptor": "Cambados - Pontevedra<br/>Agencia de viajes",
+                "lng": "-8.815",
+                "lat": "42.51361"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAXES A CONFIANZA",
+                "id": "259032184",
+                "idSubtipo": 153,
+                "descriptor": "A Illa de Arousa - Pontevedra<br/>Agencia de viajes",
+                "lng": "-8.865694",
+                "lat": "42.56172"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAXES ALDYRA",
+                "id": "34782",
+                "idSubtipo": 153,
+                "descriptor": "Ourense - Ourense<br/>Agencia de viajes",
+                "lng": "-7.872055",
+                "lat": "42.33875"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAXES ALUMAR",
+                "id": "278932981",
+                "idSubtipo": 153,
+                "descriptor": "Carral - A Coruña<br/>Agencia de viajes",
+                "lng": "-8.358254",
+                "lat": "43.227703"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAXES BEIRA SL",
+                "id": "22452",
+                "idSubtipo": 153,
+                "descriptor": "A Coruña - A Coruña<br/>Agencia de viajes",
+                "srcImx": "/osdam/filestore/6/0/8/5/8_fa4438b50bded94/60858_1e4190f6d276a94.png",
+                "lng": "-8.406083",
+                "lat": "43.36092"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAXES COMPOSTELA",
+                "id": "3723",
+                "idSubtipo": 153,
+                "descriptor": "Ourense - Ourense<br/>Agencia de viajes",
+                "srcImx": "/osdam/filestore/2/2/9/2/5_a34f6d9d25ca28b/22925_58f21683b288835.png",
+                "lng": "-7.865056",
+                "lat": "42.339443"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAXES DYSA",
+                "id": "34421",
+                "idSubtipo": 153,
+                "descriptor": "Marín - Pontevedra<br/>Agencia de viajes",
+                "lng": "-8.701056",
+                "lat": "42.390915"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 0,
+        "pt": [
+            {
+                "nombre": "VIAXES GALITUR",
+                "id": "150610000049",
+                "idSubtipo": 0,
+                "descriptor": "A Coruña - A Coruña<br/>Agencias de viajes",
+                "srcImx": "/osdam/filestore/5/1/1/9/3_0b2ed33eec39c16/51193scr_61ad5c71688478d.jpg",
+                "lng": "-8.408621",
+                "lat": "43.365253"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/0.png",
+        "nom": "Agencias de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAXES GALITUR, S.L.",
+                "id": "280380811",
+                "idSubtipo": 153,
+                "descriptor": "Ferrol - A Coruña<br/>Agencia de viajes",
+                "srcImx": "/osdam/filestore/5/1/1/9/0_da502e67b66a2b0/51190scr_939228b0feb5bea.jpg",
+                "lng": "-8.232427",
+                "lat": "43.484756"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAXES MEIGALLO, S.L.",
+                "id": "280376551",
+                "idSubtipo": 153,
+                "descriptor": "Xove - Lugo<br/>Agencia de viajes",
+                "lng": "-7.507589",
+                "lat": "43.68399"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAXES NARON ",
+                "id": "11147",
+                "idSubtipo": 153,
+                "descriptor": "Narón - A Coruña<br/>Agencia de viajes",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/ndmy/~edisp/~extract/TURGA432056~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.192083",
+                "lat": "43.50089"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAXES OTERO, S.L.",
+                "id": "275",
+                "idSubtipo": 153,
+                "descriptor": "Cambados - Pontevedra<br/>Agencia de viajes",
+                "lng": "-8.812139",
+                "lat": "42.52547"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAXES TERRAE",
+                "id": "35894",
+                "idSubtipo": 153,
+                "descriptor": "Narón - A Coruña<br/>Agencia de viajes",
+                "srcImx": "/osdam/filestore/5/9/4/3/8_72ba8d9c425e703/59438scr_457280b8d254daa.jpg",
+                "lng": "-8.186922",
+                "lat": "43.50561"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIAXES WILLY FOGG",
+                "id": "33444",
+                "idSubtipo": 153,
+                "descriptor": "O Carballiño - Ourense<br/>Agencia de viajes",
+                "lng": "-8.079444",
+                "lat": "42.428806"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 0,
+        "pt": [
+            {
+                "nombre": "VIBE TRAVEL DIFFERENT",
+                "id": "190409000136",
+                "idSubtipo": 0,
+                "descriptor": "Vigo - Pontevedra<br/>Agencias de viajes",
+                "srcImx": "/osdam/filestore/2/1/4/1/1_48332d5ad5bd0c7/21411_e883e45afe0596e.png",
+                "lng": "-8.724111",
+                "lat": "42.22541"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/0.png",
+        "nom": "Agencias de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "VIO VIAJES",
+                "id": "28954",
+                "idSubtipo": 153,
+                "descriptor": "Vigo - Pontevedra<br/>Agencia de viajes",
+                "srcImx": "/osdam/filestore/2/2/5/4/6_33847420c5f2517/22546scr_9b5a01c418393a4.jpg",
+                "lng": "-8.712528",
+                "lat": "42.237167"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "ZAFIRO TOURS, S.A.",
+                "id": "266431622",
+                "idSubtipo": 153,
+                "descriptor": "Ponteareas - Pontevedra<br/>Agencia de viajes",
+                "lng": "-8.503056",
+                "lat": "42.17389"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "ZAFIRO TOURS, S.A.",
+                "id": "32665",
+                "idSubtipo": 153,
+                "descriptor": "Santiago de Compostela - A Coruña<br/>Agencia de viajes",
+                "lng": "-8.548993",
+                "lat": "42.87546"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 153,
+        "pt": [
+            {
+                "nombre": "ZONDA, S.L.",
+                "id": "4309",
+                "idSubtipo": 153,
+                "descriptor": "Santiago de Compostela - A Coruña<br/>Agencia de viajes",
+                "lng": "-8.547735",
+                "lat": "42.87529"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/153.png",
+        "nom": "Agencia de viajes"
+    },
+    {
+        "cat": 0,
+        "pt": [
+            {
+                "nombre": "ZT1638",
+                "id": "210611000322",
+                "idSubtipo": 0,
+                "descriptor": "O Grove - Pontevedra<br/>Agencias de viajes",
+                "lng": "-8.862276",
+                "lat": "42.492977"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/0.png",
+        "nom": "Agencias de viajes"
+    }
+]

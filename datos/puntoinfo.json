@@ -1,0 +1,2722 @@
+[
+    {
+        "cat": 1000201,
+        "pt": [
+            {
+                "nombre": "CENTRO DE INTERPRETACIÓN DO VIÑO E DA LAMPREA",
+                "id": "19391",
+                "idSubtipo": 1000201,
+                "descriptor": "Arbo - Pontevedra<br/>Punto de información",
+                "lng": "-8.304639",
+                "lat": "42.115917"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000201.png",
+        "nom": "Punto de información"
+    },
+    {
+        "cat": 1000201,
+        "pt": [
+            {
+                "nombre": "CENTRO DE RECEPCIÓN DE VISITANTES",
+                "id": "31590",
+                "idSubtipo": 1000201,
+                "descriptor": "Vilanova de Arousa - Pontevedra<br/>Punto de información",
+                "lng": "-8.799777",
+                "lat": "42.577168"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000201.png",
+        "nom": "Punto de información"
+    },
+    {
+        "cat": 1000201,
+        "pt": [
+            {
+                "nombre": "OFICINA DE ATENCIÓN Ó PEREGRINO",
+                "id": "276944019",
+                "idSubtipo": 1000201,
+                "descriptor": "Palas de Rei - Lugo<br/>Punto de información",
+                "lng": "-7.8598957",
+                "lat": "42.87469"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000201.png",
+        "nom": "Punto de información"
+    },
+    {
+        "cat": 1000201,
+        "pt": [
+            {
+                "nombre": "OFICINA DE INFORMACIÓN MUÍÑOS DO FOLÓN E DO PICÓN",
+                "id": "33380",
+                "idSubtipo": 1000201,
+                "descriptor": "O Rosal - Pontevedra<br/>Punto de información",
+                "lng": "-8.837583",
+                "lat": "41.956417"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000201.png",
+        "nom": "Punto de información"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA DE INFORMACIÓN TURÍSTICA EN MONTEDERRAMO",
+                "id": "19448",
+                "idSubtipo": 160,
+                "descriptor": "Montederramo - Ourense<br/>Municipales",
+                "lng": "-7.502361",
+                "lat": "42.275307"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA DE TURISMO (CASA MUSEO VALLE INCLÁN)",
+                "id": "19442",
+                "idSubtipo": 160,
+                "descriptor": "Vilanova de Arousa - Pontevedra<br/>Municipales",
+                "lng": "-8.827555",
+                "lat": "42.562805"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 1000201,
+        "pt": [
+            {
+                "nombre": "OFICINA DE TURISMO DA MANCOMUNIDADE DO VAL MIÑOR",
+                "id": "271229910",
+                "idSubtipo": 1000201,
+                "descriptor": "Nigrán - Pontevedra<br/>Punto de información",
+                "lng": "-8.816666",
+                "lat": "42.13889"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000201.png",
+        "nom": "Punto de información"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA DE TURISMO DE  A POBRA DO CARAMIÑAL",
+                "id": "37116",
+                "idSubtipo": 160,
+                "descriptor": "A Pobra do Caramiñal - A Coruña<br/>Municipales",
+                "lng": "-8.937277",
+                "lat": "42.60747"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA DE TURISMO DE A FONSAGRADA",
+                "id": "276943797",
+                "idSubtipo": 160,
+                "descriptor": "A Fonsagrada - Lugo<br/>Municipales",
+                "lng": "-7.0696645",
+                "lat": "43.125652"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA DE TURISMO DE A GUDIÑA (CASA DA VIÚVA)",
+                "id": "1883",
+                "idSubtipo": 160,
+                "descriptor": "A Gudiña - Ourense<br/>Municipales",
+                "lng": "-7.140889",
+                "lat": "42.0605"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA DE TURISMO DE A VEIGA",
+                "id": "34876",
+                "idSubtipo": 160,
+                "descriptor": "A Veiga - Ourense<br/>Municipales",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/ntm2/~edisp/~extract/TURGA536131~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-7.026027",
+                "lat": "42.250916"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA DE TURISMO DE AS NEVES",
+                "id": "191129000249",
+                "idSubtipo": 160,
+                "descriptor": "As Neves - Pontevedra<br/>Municipales",
+                "lng": "-8.415976",
+                "lat": "42.08856"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA DE TURISMO DE ESGOS",
+                "id": "265698978",
+                "idSubtipo": 160,
+                "descriptor": "Esgos - Ourense<br/>Municipales",
+                "lng": "-7.713333",
+                "lat": "42.341946"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 1000200,
+        "pt": [
+            {
+                "nombre": "OFICINA DE TURISMO DE GALICIA EN A CORUÑA",
+                "id": "1866",
+                "idSubtipo": 1000200,
+                "descriptor": "A Coruña - A Coruña<br/>Xunta",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mzgx/~edisp/~extract/TURGA381421~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.3986025",
+                "lat": "43.368813"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000200.png",
+        "nom": "Xunta"
+    },
+    {
+        "cat": 1000200,
+        "pt": [
+            {
+                "nombre": "OFICINA DE TURISMO DE GALICIA EN FERROL",
+                "id": "1867",
+                "idSubtipo": 1000200,
+                "descriptor": "Ferrol - A Coruña<br/>Xunta",
+                "lng": "-8.228153",
+                "lat": "43.48581"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000200.png",
+        "nom": "Xunta"
+    },
+    {
+        "cat": 1000200,
+        "pt": [
+            {
+                "nombre": "OFICINA DE TURISMO DE GALICIA EN LUGO",
+                "id": "1876",
+                "idSubtipo": 1000200,
+                "descriptor": "Lugo - Lugo<br/>Xunta",
+                "lng": "-7.559248",
+                "lat": "43.01006"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000200.png",
+        "nom": "Xunta"
+    },
+    {
+        "cat": 1000200,
+        "pt": [
+            {
+                "nombre": "OFICINA DE TURISMO DE GALICIA EN OURENSE",
+                "id": "1879",
+                "idSubtipo": 1000200,
+                "descriptor": "Ourense - Ourense<br/>Xunta",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mzk4/~edisp/~extract/TURGA398432~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-7.8658466",
+                "lat": "42.34198"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000200.png",
+        "nom": "Xunta"
+    },
+    {
+        "cat": 1000200,
+        "pt": [
+            {
+                "nombre": "OFICINA DE TURISMO DE GALICIA EN PONTEVEDRA",
+                "id": "1880",
+                "idSubtipo": 1000200,
+                "descriptor": "Pontevedra - Pontevedra<br/>Xunta",
+                "lng": "-8.646719",
+                "lat": "42.43106"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000200.png",
+        "nom": "Xunta"
+    },
+    {
+        "cat": 1000200,
+        "pt": [
+            {
+                "nombre": "OFICINA DE TURISMO DE GALICIA EN SANTIAGO DE COMPOSTELA",
+                "id": "170918000452",
+                "idSubtipo": 1000200,
+                "descriptor": "Santiago de Compostela - A Coruña<br/>Xunta",
+                "lng": "-8.54684",
+                "lat": "42.882084"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000200.png",
+        "nom": "Xunta"
+    },
+    {
+        "cat": 1000200,
+        "pt": [
+            {
+                "nombre": "OFICINA DE TURISMO DE GALICIA EN SANTIAGO DE COMPOSTELA",
+                "id": "1869",
+                "idSubtipo": 1000200,
+                "descriptor": "Santiago de Compostela - A Coruña<br/>Xunta",
+                "lng": "-8.542484",
+                "lat": "42.87851"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000200.png",
+        "nom": "Xunta"
+    },
+    {
+        "cat": 1000200,
+        "pt": [
+            {
+                "nombre": "OFICINA DE TURISMO DE GALICIA EN VIGO",
+                "id": "1870",
+                "idSubtipo": 1000200,
+                "descriptor": "Vigo - Pontevedra<br/>Xunta",
+                "lng": "-8.726194",
+                "lat": "42.240166"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000200.png",
+        "nom": "Xunta"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA DE TURISMO DE MIÑO",
+                "id": "19593",
+                "idSubtipo": 160,
+                "descriptor": "Miño - A Coruña<br/>Municipales",
+                "lng": "-8.204889",
+                "lat": "43.347363"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA DE TURISMO DE MONFERO",
+                "id": "37042",
+                "idSubtipo": 160,
+                "descriptor": "Monfero - A Coruña<br/>Municipales",
+                "lng": "-8.036944",
+                "lat": "43.34072"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA DE TURISMO DE MONTERREI",
+                "id": "180504000042",
+                "idSubtipo": 160,
+                "descriptor": "Monterrei - Ourense<br/>Municipales",
+                "lng": "-7.4494166",
+                "lat": "41.946945"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA DE TURISMO DE MOS",
+                "id": "271890596",
+                "idSubtipo": 160,
+                "descriptor": "Mos - Pontevedra<br/>Municipales",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mtu5/~edisp/~extract/TURGA159429~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.62111",
+                "lat": "42.16611"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA DE TURISMO DE MUGARDOS",
+                "id": "19589",
+                "idSubtipo": 160,
+                "descriptor": "Mugardos - A Coruña<br/>Municipales",
+                "lng": "-8.257472",
+                "lat": "43.461723"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA DE TURISMO DE MUROS",
+                "id": "19590",
+                "idSubtipo": 160,
+                "descriptor": "Muros - A Coruña<br/>Municipales",
+                "lng": "-9.057444",
+                "lat": "42.774498"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA DE TURISMO DE MUXÍA",
+                "id": "19595",
+                "idSubtipo": 160,
+                "descriptor": "Muxía - A Coruña<br/>Municipales",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/ntuz/~edisp/~extract/TURGA553403~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-9.217333",
+                "lat": "43.107193"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA DE TURISMO DE NEDA",
+                "id": "19606",
+                "idSubtipo": 160,
+                "descriptor": "Neda - A Coruña<br/>Municipales",
+                "lng": "-8.157778",
+                "lat": "43.50025"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA DE TURISMO DE NIGRÁN",
+                "id": "19405",
+                "idSubtipo": 160,
+                "descriptor": "Nigrán - Pontevedra<br/>Municipales",
+                "lng": "-8.816777",
+                "lat": "42.138832"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA DE TURISMO DE O PINO",
+                "id": "271433422",
+                "idSubtipo": 160,
+                "descriptor": "O Pino - A Coruña<br/>Municipales",
+                "lng": "-8.350278",
+                "lat": "42.914722"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA DE TURISMO DE OIA",
+                "id": "265879599",
+                "idSubtipo": 160,
+                "descriptor": "Oia - Pontevedra<br/>Municipales",
+                "lng": "-8.876666",
+                "lat": "42.001667"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA DE TURISMO DE OLEIROS",
+                "id": "271671591",
+                "idSubtipo": 160,
+                "descriptor": "Oleiros - A Coruña<br/>Municipales",
+                "lng": "-8.376944",
+                "lat": "43.33889"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA DE TURISMO DE ORTIGUEIRA",
+                "id": "36016",
+                "idSubtipo": 160,
+                "descriptor": "Ortigueira - A Coruña<br/>Municipales",
+                "lng": "-7.851139",
+                "lat": "43.679386"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA DE TURISMO DE POIO",
+                "id": "19413",
+                "idSubtipo": 160,
+                "descriptor": "Poio - Pontevedra<br/>Municipales",
+                "lng": "-8.658806",
+                "lat": "42.43403"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA DE TURISMO DE PONTE CALDELAS",
+                "id": "19566",
+                "idSubtipo": 160,
+                "descriptor": "Ponte Caldelas - Pontevedra<br/>Municipales",
+                "lng": "-8.500194",
+                "lat": "42.389557"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA DE TURISMO DE PONTEAREAS",
+                "id": "19414",
+                "idSubtipo": 160,
+                "descriptor": "Ponteareas - Pontevedra<br/>Municipales",
+                "lng": "-8.508505",
+                "lat": "42.174915"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA DE TURISMO DE PONTEDEUME",
+                "id": "32025",
+                "idSubtipo": 160,
+                "descriptor": "Pontedeume - A Coruña<br/>Municipales",
+                "lng": "-8.172027",
+                "lat": "43.40758"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA DE TURISMO DE PONTEVEDRA",
+                "id": "271264966",
+                "idSubtipo": 160,
+                "descriptor": "Pontevedra - Pontevedra<br/>Municipales",
+                "lng": "-8.643889",
+                "lat": "42.4325"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA DE TURISMO DE PORTONOVO",
+                "id": "19418",
+                "idSubtipo": 160,
+                "descriptor": "Sanxenxo - Pontevedra<br/>Municipales",
+                "lng": "-8.822777",
+                "lat": "42.39947"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA DE TURISMO DE QUIROGA",
+                "id": "19376",
+                "idSubtipo": 160,
+                "descriptor": "Quiroga - Lugo<br/>Municipales",
+                "lng": "-7.273999",
+                "lat": "42.47614"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA DE TURISMO DE REDONDELA",
+                "id": "19416",
+                "idSubtipo": 160,
+                "descriptor": "Redondela - Pontevedra<br/>Municipales",
+                "lng": "-8.609028",
+                "lat": "42.283695"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA DE TURISMO DE RIANXO",
+                "id": "19604",
+                "idSubtipo": 160,
+                "descriptor": "Rianxo - A Coruña<br/>Municipales",
+                "lng": "-8.81836",
+                "lat": "42.65272"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA DE TURISMO DE RIBADEO",
+                "id": "1877",
+                "idSubtipo": 160,
+                "descriptor": "Ribadeo - Lugo<br/>Municipales",
+                "lng": "-7.039305",
+                "lat": "43.535526"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA DE TURISMO DE RIBADUMIA",
+                "id": "265625530",
+                "idSubtipo": 160,
+                "descriptor": "Ribadumia - Pontevedra<br/>Municipales",
+                "lng": "-8.767777",
+                "lat": "42.503056"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA DE TURISMO DE RIBEIRA",
+                "id": "1868",
+                "idSubtipo": 160,
+                "descriptor": "Ribeira - A Coruña<br/>Municipales",
+                "lng": "-8.989944",
+                "lat": "42.554638"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA DE TURISMO DE RIBEIRA",
+                "id": "19577",
+                "idSubtipo": 160,
+                "descriptor": "Ribeira - A Coruña<br/>Municipales",
+                "lng": "-8.998639",
+                "lat": "42.570168"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA DE TURISMO DE SANTIAGO DE COMPOSTELA",
+                "id": "19600",
+                "idSubtipo": 160,
+                "descriptor": "Santiago de Compostela - A Coruña<br/>Municipales",
+                "lng": "-8.544889",
+                "lat": "42.87797"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA DE TURISMO DE SANTISO",
+                "id": "271777828",
+                "idSubtipo": 160,
+                "descriptor": "Santiso - A Coruña<br/>Municipales",
+                "lng": "-8.041111",
+                "lat": "42.844166"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA DE TURISMO DE SANXENXO",
+                "id": "19417",
+                "idSubtipo": 160,
+                "descriptor": "Sanxenxo - Pontevedra<br/>Municipales",
+                "lng": "-8.805472",
+                "lat": "42.397945"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA DE TURISMO DE SOUTOMAIOR",
+                "id": "19424",
+                "idSubtipo": 160,
+                "descriptor": "Soutomaior - Pontevedra<br/>Municipales",
+                "lng": "-8.612778",
+                "lat": "42.34"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA DE TURISMO DE TUI",
+                "id": "1881",
+                "idSubtipo": 160,
+                "descriptor": "Tui - Pontevedra<br/>Municipales",
+                "lng": "-8.6448145",
+                "lat": "42.04708"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA DE TURISMO DE VALDOVIÑO",
+                "id": "37083",
+                "idSubtipo": 160,
+                "descriptor": "Valdoviño - A Coruña<br/>Municipales",
+                "lng": "-8.141666",
+                "lat": "43.608055"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA DE TURISMO DE VALGA",
+                "id": "19435",
+                "idSubtipo": 160,
+                "descriptor": "Valga - Pontevedra<br/>Municipales",
+                "lng": "-8.648416",
+                "lat": "42.700306"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA DE TURISMO DE VEDRA",
+                "id": "37053",
+                "idSubtipo": 160,
+                "descriptor": "Vedra - A Coruña<br/>Municipales",
+                "lng": "-8.444027",
+                "lat": "42.790306"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA DE TURISMO DE VIGO",
+                "id": "271937625",
+                "idSubtipo": 160,
+                "descriptor": "Vigo - Pontevedra<br/>Municipales",
+                "lng": "-8.728333",
+                "lat": "42.24139"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA DE TURISMO DE VILABOA",
+                "id": "19439",
+                "idSubtipo": 160,
+                "descriptor": "Vilaboa - Pontevedra<br/>Municipales",
+                "lng": "-8.673305",
+                "lat": "42.364193"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA DE TURISMO DE VILAGARCÍA DE AROUSA",
+                "id": "19441",
+                "idSubtipo": 160,
+                "descriptor": "Vilagarcía de Arousa - Pontevedra<br/>Municipales",
+                "lng": "-8.767444",
+                "lat": "42.59589"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA DE TURISMO DE VILALBA",
+                "id": "200623000427",
+                "idSubtipo": 160,
+                "descriptor": "Vilalba - Lugo<br/>Municipales",
+                "lng": "-7.6815777",
+                "lat": "43.298443"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA DE TURISMO DE VIMIANZO",
+                "id": "265409085",
+                "idSubtipo": 160,
+                "descriptor": "Vimianzo - A Coruña<br/>Municipales",
+                "lng": "-9.034444",
+                "lat": "43.111668"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA DE TURISMO DE XOVE",
+                "id": "37067",
+                "idSubtipo": 160,
+                "descriptor": "Xove - Lugo<br/>Municipales",
+                "lng": "-7.509639",
+                "lat": "43.684723"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 1000201,
+        "pt": [
+            {
+                "nombre": "OFICINA DE TURISMO DO O.A.L TURISMO RÍAS BAIXAS",
+                "id": "36050",
+                "idSubtipo": 1000201,
+                "descriptor": "Pontevedra - Pontevedra<br/>Punto de información",
+                "lng": "-8.647639",
+                "lat": "42.432888"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000201.png",
+        "nom": "Punto de información"
+    },
+    {
+        "cat": 1000201,
+        "pt": [
+            {
+                "nombre": "OFICINA DE TURISMO E DE ATENCIÓN AO PEREGRINO",
+                "id": "271711867",
+                "idSubtipo": 1000201,
+                "descriptor": "Ferrol - A Coruña<br/>Punto de información",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/ndu3/~edisp/~extract/TURGA457124~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.243961",
+                "lat": "43.47864"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000201.png",
+        "nom": "Punto de información"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA DE TURISMO EN CHANTADA",
+                "id": "19372",
+                "idSubtipo": 160,
+                "descriptor": "Chantada - Lugo<br/>Municipales",
+                "lng": "-7.769916",
+                "lat": "42.607777"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA DE TURISMO FUNDACIÓN AQUAE VIA NOVA",
+                "id": "265344248",
+                "idSubtipo": 160,
+                "descriptor": "Bande - Ourense<br/>Municipales",
+                "lng": "-7.985",
+                "lat": "41.971943"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA DE TURISMO MUNICIPAL DE O CARBALLIÑO",
+                "id": "271042647",
+                "idSubtipo": 160,
+                "descriptor": "O Carballiño - Ourense<br/>Municipales",
+                "lng": "-8.077789",
+                "lat": "42.43118"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA DE TURISMO MUNICIPAL DE PANTÓN",
+                "id": "19375",
+                "idSubtipo": 160,
+                "descriptor": "Pantón - Lugo<br/>Municipales",
+                "lng": "-7.623444",
+                "lat": "42.505695"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA MUNICIPAL DE INFORMACIÓN TURÍSTICA EN VERÍN",
+                "id": "19478",
+                "idSubtipo": 160,
+                "descriptor": "Verín - Ourense<br/>Municipales",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mtu4/~edisp/~extract/TURGA158007~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-7.4372053",
+                "lat": "41.93904"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA MUNICIPAL DE RIBAS DE SIL",
+                "id": "37030",
+                "idSubtipo": 160,
+                "descriptor": "Ribas de Sil - Lugo<br/>Municipales",
+                "lng": "-7.287583",
+                "lat": "42.466415"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA MUNICIPAL DE TURISMO DE A GUARDA",
+                "id": "19389",
+                "idSubtipo": 160,
+                "descriptor": "A Guarda - Pontevedra<br/>Municipales",
+                "lng": "-8.874249",
+                "lat": "41.90114"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA MUNICIPAL DE TURISMO DE A ILLA DE AROUSA",
+                "id": "19390",
+                "idSubtipo": 160,
+                "descriptor": "A Illa de Arousa - Pontevedra<br/>Municipales",
+                "lng": "-8.864",
+                "lat": "42.556557"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA MUNICIPAL DE TURISMO DE A LARACHA",
+                "id": "271432013",
+                "idSubtipo": 160,
+                "descriptor": "A Laracha - A Coruña<br/>Municipales",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/ndqy/~edisp/~extract/TURGA442532~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.606111",
+                "lat": "43.317497"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA MUNICIPAL DE TURISMO DE A POBRA DE TRIVES",
+                "id": "19472",
+                "idSubtipo": 160,
+                "descriptor": "A Pobra de Trives - Ourense<br/>Municipales",
+                "lng": "-7.252028",
+                "lat": "42.340553"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA MUNICIPAL DE TURISMO DE A PONTENOVA",
+                "id": "260636488",
+                "idSubtipo": 160,
+                "descriptor": "A Pontenova - Lugo<br/>Municipales",
+                "lng": "-7.191555",
+                "lat": "43.34814"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA MUNICIPAL DE TURISMO DE A TEIXEIRA",
+                "id": "37068",
+                "idSubtipo": 160,
+                "descriptor": "A Teixeira - Ourense<br/>Municipales",
+                "lng": "-7.472472",
+                "lat": "42.39122"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA MUNICIPAL DE TURISMO DE ALLARIZ",
+                "id": "19466",
+                "idSubtipo": 160,
+                "descriptor": "Allariz - Ourense<br/>Municipales",
+                "lng": "-7.804361",
+                "lat": "42.189804"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA MUNICIPAL DE TURISMO DE AMES",
+                "id": "37090",
+                "idSubtipo": 160,
+                "descriptor": "Ames - A Coruña<br/>Municipales",
+                "lng": "-8.650278",
+                "lat": "42.859444"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA MUNICIPAL DE TURISMO DE ARZÚA",
+                "id": "33386",
+                "idSubtipo": 160,
+                "descriptor": "Arzúa - A Coruña<br/>Municipales",
+                "lng": "-8.160667",
+                "lat": "42.92714"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA MUNICIPAL DE TURISMO DE BAIONA",
+                "id": "19392",
+                "idSubtipo": 160,
+                "descriptor": "Baiona - Pontevedra<br/>Municipales",
+                "lng": "-8.849694",
+                "lat": "42.12161"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA MUNICIPAL DE TURISMO DE BARREIROS",
+                "id": "37089",
+                "idSubtipo": 160,
+                "descriptor": "Barreiros - Lugo<br/>Municipales",
+                "lng": "-7.233617",
+                "lat": "43.541653"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA MUNICIPAL DE TURISMO DE BETANZOS",
+                "id": "19597",
+                "idSubtipo": 160,
+                "descriptor": "Betanzos - A Coruña<br/>Municipales",
+                "lng": "-8.210833",
+                "lat": "43.27886"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA MUNICIPAL DE TURISMO DE BOIRO",
+                "id": "19573",
+                "idSubtipo": 160,
+                "descriptor": "Boiro - A Coruña<br/>Municipales",
+                "lng": "-8.882777",
+                "lat": "42.646942"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA MUNICIPAL DE TURISMO DE BOQUEIXÓN",
+                "id": "266375496",
+                "idSubtipo": 160,
+                "descriptor": "Boqueixón - A Coruña<br/>Municipales",
+                "lng": "-8.417222",
+                "lat": "42.826942"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA MUNICIPAL DE TURISMO DE BUEU",
+                "id": "19393",
+                "idSubtipo": 160,
+                "descriptor": "Bueu - Pontevedra<br/>Municipales",
+                "lng": "-8.784777",
+                "lat": "42.327026"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA MUNICIPAL DE TURISMO DE CABANAS",
+                "id": "271953540",
+                "idSubtipo": 160,
+                "descriptor": "Cabanas - A Coruña<br/>Municipales",
+                "lng": "-8.16861",
+                "lat": "43.413055"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA MUNICIPAL DE TURISMO DE CALDAS DE REIS",
+                "id": "19394",
+                "idSubtipo": 160,
+                "descriptor": "Caldas de Reis - Pontevedra<br/>Municipales",
+                "lng": "-8.641111",
+                "lat": "42.603916"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA MUNICIPAL DE TURISMO DE CAMARIÑAS",
+                "id": "19580",
+                "idSubtipo": 160,
+                "descriptor": "Camariñas - A Coruña<br/>Municipales",
+                "lng": "-9.18036",
+                "lat": "43.130054"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA MUNICIPAL DE TURISMO DE CAMBADOS",
+                "id": "19395",
+                "idSubtipo": 160,
+                "descriptor": "Cambados - Pontevedra<br/>Municipales",
+                "lng": "-8.815306",
+                "lat": "42.515278"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA MUNICIPAL DE TURISMO DE CAMBRE",
+                "id": "21175",
+                "idSubtipo": 160,
+                "descriptor": "Cambre - A Coruña<br/>Municipales",
+                "lng": "-8.360972",
+                "lat": "43.315777"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA MUNICIPAL DE TURISMO DE CANGAS",
+                "id": "19396",
+                "idSubtipo": 160,
+                "descriptor": "Cangas - Pontevedra<br/>Municipales",
+                "lng": "-8.784777",
+                "lat": "42.264194"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA MUNICIPAL DE TURISMO DE CARBALLO",
+                "id": "19608",
+                "idSubtipo": 160,
+                "descriptor": "Carballo - A Coruña<br/>Municipales",
+                "lng": "-8.689944",
+                "lat": "43.2115"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA MUNICIPAL DE TURISMO DE CARNOTA",
+                "id": "19582",
+                "idSubtipo": 160,
+                "descriptor": "Carnota - A Coruña<br/>Municipales",
+                "lng": "-9.089277",
+                "lat": "42.822556"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA MUNICIPAL DE TURISMO DE CEDEIRA",
+                "id": "19579",
+                "idSubtipo": 160,
+                "descriptor": "Cedeira - A Coruña<br/>Municipales",
+                "lng": "-8.056028",
+                "lat": "43.660694"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA MUNICIPAL DE TURISMO DE CELANOVA",
+                "id": "19459",
+                "idSubtipo": 160,
+                "descriptor": "Celanova - Ourense<br/>Municipales",
+                "lng": "-7.957806",
+                "lat": "42.15189"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA MUNICIPAL DE TURISMO DE CUNTIS",
+                "id": "19397",
+                "idSubtipo": 160,
+                "descriptor": "Cuntis - Pontevedra<br/>Municipales",
+                "lng": "-8.563167",
+                "lat": "42.634083"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA MUNICIPAL DE TURISMO DE DUMBRÍA",
+                "id": "37074",
+                "idSubtipo": 160,
+                "descriptor": "Dumbría - A Coruña<br/>Municipales",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mtyx/~edisp/~extract/TURGA161263~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-9.124042",
+                "lat": "42.912827"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA MUNICIPAL DE TURISMO DE FENE",
+                "id": "266313938",
+                "idSubtipo": 160,
+                "descriptor": "Fene - A Coruña<br/>Municipales",
+                "lng": "-8.161667",
+                "lat": "43.474445"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA MUNICIPAL DE TURISMO DE FERROL",
+                "id": "19591",
+                "idSubtipo": 160,
+                "descriptor": "Ferrol - A Coruña<br/>Municipales",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/ndu3/~edisp/~extract/TURGA457118~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.228335",
+                "lat": "43.486774"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA MUNICIPAL DE TURISMO DE FISTERRA",
+                "id": "19596",
+                "idSubtipo": 160,
+                "descriptor": "Fisterra - A Coruña<br/>Municipales",
+                "lng": "-9.263139",
+                "lat": "42.907696"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA MUNICIPAL DE TURISMO DE GONDOMAR",
+                "id": "19399",
+                "idSubtipo": 160,
+                "descriptor": "Gondomar - Pontevedra<br/>Municipales",
+                "lng": "-8.763944",
+                "lat": "42.112446"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA MUNICIPAL DE TURISMO DE GUITIRIZ",
+                "id": "19382",
+                "idSubtipo": 160,
+                "descriptor": "Guitiriz - Lugo<br/>Municipales",
+                "lng": "-7.894222",
+                "lat": "43.180832"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA MUNICIPAL DE TURISMO DE LALÍN",
+                "id": "19400",
+                "idSubtipo": 160,
+                "descriptor": "Lalín - Pontevedra<br/>Municipales",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/ndux/~edisp/~extract/TURGA451327~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.113361",
+                "lat": "42.656555"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA MUNICIPAL DE TURISMO DE LAXE",
+                "id": "19576",
+                "idSubtipo": 160,
+                "descriptor": "Laxe - A Coruña<br/>Municipales",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mtqx/~edisp/~extract/TURGA141226~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-9.004139",
+                "lat": "43.217804"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA MUNICIPAL DE TURISMO DE LUGO",
+                "id": "261151431",
+                "idSubtipo": 160,
+                "descriptor": "Lugo - Lugo<br/>Municipales",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/ndyy/~edisp/~extract/TURGA462063~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-7.558611",
+                "lat": "43.01"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA MUNICIPAL DE TURISMO DE MACEDA",
+                "id": "37069",
+                "idSubtipo": 160,
+                "descriptor": "Maceda - Ourense<br/>Municipales",
+                "lng": "-7.650806",
+                "lat": "42.269974"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA MUNICIPAL DE TURISMO DE MARÍN",
+                "id": "19402",
+                "idSubtipo": 160,
+                "descriptor": "Marín - Pontevedra<br/>Municipales",
+                "lng": "-8.702694",
+                "lat": "42.393776"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA MUNICIPAL DE TURISMO DE MEIRA",
+                "id": "37091",
+                "idSubtipo": 160,
+                "descriptor": "Meira - Lugo<br/>Municipales",
+                "lng": "-7.291805",
+                "lat": "43.21253"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA MUNICIPAL DE TURISMO DE MOAÑA",
+                "id": "19403",
+                "idSubtipo": 160,
+                "descriptor": "Moaña - Pontevedra<br/>Municipales",
+                "lng": "-8.733592",
+                "lat": "42.286983"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA MUNICIPAL DE TURISMO DE MONDOÑEDO",
+                "id": "19364",
+                "idSubtipo": 160,
+                "descriptor": "Mondoñedo - Lugo<br/>Municipales",
+                "lng": "-7.363806",
+                "lat": "43.428555"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA MUNICIPAL DE TURISMO DE MONFORTE DE LEMOS",
+                "id": "19365",
+                "idSubtipo": 160,
+                "descriptor": "Monforte de Lemos - Lugo<br/>Municipales",
+                "lng": "-7.51625",
+                "lat": "42.51875"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA MUNICIPAL DE TURISMO DE NOIA",
+                "id": "265698857",
+                "idSubtipo": 160,
+                "descriptor": "Noia - A Coruña<br/>Municipales",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mzg0/~edisp/~extract/TURGA384967~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.888013",
+                "lat": "42.784252"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA MUNICIPAL DE TURISMO DE O COVELO",
+                "id": "272044337",
+                "idSubtipo": 160,
+                "descriptor": "Covelo - Pontevedra<br/>Municipales",
+                "lng": "-8.363611",
+                "lat": "42.231945"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA MUNICIPAL DE TURISMO DE O GROVE",
+                "id": "19407",
+                "idSubtipo": 160,
+                "descriptor": "O Grove - Pontevedra<br/>Municipales",
+                "lng": "-8.864417",
+                "lat": "42.496887"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA MUNICIPAL DE TURISMO DE OURENSE",
+                "id": "19446",
+                "idSubtipo": 160,
+                "descriptor": "Ourense - Ourense<br/>Municipales",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/ndk4/~edisp/~extract/TURGA498386~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-7.865197",
+                "lat": "42.3374"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA MUNICIPAL DE TURISMO DE PADRÓN",
+                "id": "19594",
+                "idSubtipo": 160,
+                "descriptor": "Padrón - A Coruña<br/>Municipales",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mjk5/~edisp/~extract/TURGA299307~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.66",
+                "lat": "42.736973"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA MUNICIPAL DE TURISMO DE PALAS DE REI",
+                "id": "280376522",
+                "idSubtipo": 160,
+                "descriptor": "Palas de Rei - Lugo<br/>Municipales",
+                "lng": "-7.869437",
+                "lat": "42.873158"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA MUNICIPAL DE TURISMO DE RAIRIZ DE VEIGA",
+                "id": "265344415",
+                "idSubtipo": 160,
+                "descriptor": "Rairiz de Veiga - Ourense<br/>Municipales",
+                "lng": "-7.831666",
+                "lat": "42.081665"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA MUNICIPAL DE TURISMO DE RIBADAVIA",
+                "id": "19455",
+                "idSubtipo": 160,
+                "descriptor": "Ribadavia - Ourense<br/>Municipales",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/ndk4/~edisp/~extract/TURGA498388~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.14325",
+                "lat": "42.287445"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA MUNICIPAL DE TURISMO DE SADA",
+                "id": "19800",
+                "idSubtipo": 160,
+                "descriptor": "Sada - A Coruña<br/>Municipales",
+                "lng": "-8.252972",
+                "lat": "43.3515"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA MUNICIPAL DE TURISMO DE SAMOS",
+                "id": "271185830",
+                "idSubtipo": 160,
+                "descriptor": "Samos - Lugo<br/>Municipales",
+                "lng": "-7.326666",
+                "lat": "42.730278"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA MUNICIPAL DE TURISMO DE SOBER",
+                "id": "19378",
+                "idSubtipo": 160,
+                "descriptor": "Sober - Lugo<br/>Municipales",
+                "lng": "-7.586666",
+                "lat": "42.461945"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA MUNICIPAL DE TURISMO DE TOURO",
+                "id": "265449500",
+                "idSubtipo": 160,
+                "descriptor": "Touro - A Coruña<br/>Municipales",
+                "lng": "-8.303611",
+                "lat": "42.86722"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA MUNICIPAL DE TURISMO DE VIVEIRO",
+                "id": "19366",
+                "idSubtipo": 160,
+                "descriptor": "Viveiro - Lugo<br/>Municipales",
+                "lng": "-7.594361",
+                "lat": "43.66447"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA MUNICIPAL DE TURISMO DO CONCELLO DE SARRIA",
+                "id": "190904000025",
+                "idSubtipo": 160,
+                "descriptor": "Sarria - Lugo<br/>Municipales",
+                "lng": "-7.4176664",
+                "lat": "42.77725"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "OFICINA MUNICIPAL DE TURISMO EN PARADA DE SIL",
+                "id": "19490",
+                "idSubtipo": 160,
+                "descriptor": "Parada de Sil - Ourense<br/>Municipales",
+                "lng": "-7.571416",
+                "lat": "42.383194"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 1000201,
+        "pt": [
+            {
+                "nombre": "PUNTO DE INFORMACIÓN DE  TURISMO DE LOURENZÁ",
+                "id": "19374",
+                "idSubtipo": 1000201,
+                "descriptor": "Lourenzá - Lugo<br/>Punto de información",
+                "lng": "-7.29875",
+                "lat": "43.470776"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000201.png",
+        "nom": "Punto de información"
+    },
+    {
+        "cat": 1000201,
+        "pt": [
+            {
+                "nombre": "PUNTO DE INFORMACIÓN DE XINZO DE LIMIA",
+                "id": "37071",
+                "idSubtipo": 1000201,
+                "descriptor": "Xinzo de Limia - Ourense<br/>Punto de información",
+                "lng": "-7.724333",
+                "lat": "42.06386"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000201.png",
+        "nom": "Punto de información"
+    },
+    {
+        "cat": 1000201,
+        "pt": [
+            {
+                "nombre": "PUNTO DE INFORMACIÓN TUR. EN NOGUEIRA DE RAMUÍN",
+                "id": "19451",
+                "idSubtipo": 1000201,
+                "descriptor": "Nogueira de Ramuín - Ourense<br/>Punto de información",
+                "lng": "-7.726527",
+                "lat": "42.4105"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000201.png",
+        "nom": "Punto de información"
+    },
+    {
+        "cat": 1000201,
+        "pt": [
+            {
+                "nombre": "PUNTO DE INFORMACIÓN TURÍSTICA ASOCIACIÓN DE HOSTELERÍA O GROVE",
+                "id": "271890302",
+                "idSubtipo": 1000201,
+                "descriptor": "O Grove - Pontevedra<br/>Punto de información",
+                "lng": "-8.873333",
+                "lat": "42.461945"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000201.png",
+        "nom": "Punto de información"
+    },
+    {
+        "cat": 1000201,
+        "pt": [
+            {
+                "nombre": "PUNTO DE INFORMACIÓN TURÍSTICA DE  SANTIAGO DE COMPOSTELA",
+                "id": "19587",
+                "idSubtipo": 1000201,
+                "descriptor": "Santiago de Compostela - A Coruña<br/>Punto de información",
+                "lng": "-8.420583",
+                "lat": "42.89836"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000201.png",
+        "nom": "Punto de información"
+    },
+    {
+        "cat": 1000201,
+        "pt": [
+            {
+                "nombre": "PUNTO DE INFORMACIÓN TURÍSTICA DE A CORUÑA I",
+                "id": "29400",
+                "idSubtipo": 1000201,
+                "descriptor": "A Coruña - A Coruña<br/>Punto de información",
+                "lng": "-8.395027",
+                "lat": "43.371"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000201.png",
+        "nom": "Punto de información"
+    },
+    {
+        "cat": 1000201,
+        "pt": [
+            {
+                "nombre": "PUNTO DE INFORMACIÓN TURÍSTICA DE A CORUÑA,TORRE DE HÉRCULES",
+                "id": "29401",
+                "idSubtipo": 1000201,
+                "descriptor": "A Coruña - A Coruña<br/>Punto de información",
+                "lng": "-8.402175",
+                "lat": "43.38364"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000201.png",
+        "nom": "Punto de información"
+    },
+    {
+        "cat": 1000201,
+        "pt": [
+            {
+                "nombre": "PUNTO DE INFORMACIÓN TURÍSTICA DE A ESTRADA",
+                "id": "19388",
+                "idSubtipo": 1000201,
+                "descriptor": "A Estrada - Pontevedra<br/>Punto de información",
+                "lng": "-8.48575",
+                "lat": "42.68822"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000201.png",
+        "nom": "Punto de información"
+    },
+    {
+        "cat": 1000201,
+        "pt": [
+            {
+                "nombre": "PUNTO DE INFORMACIÓN TURÍSTICA DE ARTEIXO",
+                "id": "272136547",
+                "idSubtipo": 1000201,
+                "descriptor": "Arteixo - A Coruña<br/>Punto de información",
+                "lng": "-8.505",
+                "lat": "43.30472"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000201.png",
+        "nom": "Punto de información"
+    },
+    {
+        "cat": 1000201,
+        "pt": [
+            {
+                "nombre": "PUNTO DE INFORMACIÓN TURÍSTICA DE BANDE",
+                "id": "37038",
+                "idSubtipo": 1000201,
+                "descriptor": "Bande - Ourense<br/>Punto de información",
+                "lng": "-7.975305",
+                "lat": "42.031666"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000201.png",
+        "nom": "Punto de información"
+    },
+    {
+        "cat": 1000201,
+        "pt": [
+            {
+                "nombre": "PUNTO DE INFORMACIÓN TURÍSTICA DE CABANA DE BERGANTIÑOS",
+                "id": "276914682",
+                "idSubtipo": 1000201,
+                "descriptor": "Cabana de Bergantiños - A Coruña<br/>Punto de información",
+                "lng": "-8.929524",
+                "lat": "43.219284"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000201.png",
+        "nom": "Punto de información"
+    },
+    {
+        "cat": 1000201,
+        "pt": [
+            {
+                "nombre": "PUNTO DE INFORMACIÓN TURÍSTICA DE CANGAS I",
+                "id": "31589",
+                "idSubtipo": 1000201,
+                "descriptor": "Cangas - Pontevedra<br/>Punto de información",
+                "lng": "-8.829499",
+                "lat": "42.270638"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000201.png",
+        "nom": "Punto de información"
+    },
+    {
+        "cat": 1000201,
+        "pt": [
+            {
+                "nombre": "PUNTO DE INFORMACIÓN TURÍSTICA DE CANGAS II",
+                "id": "33277",
+                "idSubtipo": 1000201,
+                "descriptor": "Cangas - Pontevedra<br/>Punto de información",
+                "lng": "-8.784833",
+                "lat": "42.261723"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000201.png",
+        "nom": "Punto de información"
+    },
+    {
+        "cat": 1000201,
+        "pt": [
+            {
+                "nombre": "PUNTO DE INFORMACIÓN TURÍSTICA DE CERCEDA",
+                "id": "271456261",
+                "idSubtipo": 1000201,
+                "descriptor": "Cerceda - A Coruña<br/>Punto de información",
+                "lng": "-8.470833",
+                "lat": "43.18889"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000201.png",
+        "nom": "Punto de información"
+    },
+    {
+        "cat": 1000201,
+        "pt": [
+            {
+                "nombre": "PUNTO DE INFORMACIÓN TURÍSTICA DE CORCUBIÓN",
+                "id": "19661",
+                "idSubtipo": 1000201,
+                "descriptor": "Corcubión - A Coruña<br/>Punto de información",
+                "lng": "-9.191",
+                "lat": "42.944527"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000201.png",
+        "nom": "Punto de información"
+    },
+    {
+        "cat": 1000201,
+        "pt": [
+            {
+                "nombre": "PUNTO DE INFORMACIÓN TURÍSTICA DE CULLEREDO",
+                "id": "265751208",
+                "idSubtipo": 1000201,
+                "descriptor": "Culleredo - A Coruña<br/>Punto de información",
+                "lng": "-8.389444",
+                "lat": "43.288334"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000201.png",
+        "nom": "Punto de información"
+    },
+    {
+        "cat": 1000201,
+        "pt": [
+            {
+                "nombre": "PUNTO DE INFORMACIÓN TURÍSTICA DE DENA (MEAÑO)",
+                "id": "277237908",
+                "idSubtipo": 1000201,
+                "descriptor": "Meaño - Pontevedra<br/>Punto de información",
+                "lng": "-8.811989",
+                "lat": "42.45367"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000201.png",
+        "nom": "Punto de información"
+    },
+    {
+        "cat": 1000201,
+        "pt": [
+            {
+                "nombre": "PUNTO DE INFORMACIÓN TURÍSTICA DE LAXE",
+                "id": "277019561",
+                "idSubtipo": 1000201,
+                "descriptor": "Laxe - A Coruña<br/>Punto de información",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mtqx/~edisp/~extract/TURGA141225~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-9.005608",
+                "lat": "43.220455"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000201.png",
+        "nom": "Punto de información"
+    },
+    {
+        "cat": 1000201,
+        "pt": [
+            {
+                "nombre": "PUNTO DE INFORMACIÓN TURÍSTICA DE LAXE",
+                "id": "32611",
+                "idSubtipo": 1000201,
+                "descriptor": "Laxe - A Coruña<br/>Punto de información",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mtqx/~edisp/~extract/TURGA141228~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-9.005389",
+                "lat": "43.219944"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000201.png",
+        "nom": "Punto de información"
+    },
+    {
+        "cat": 1000201,
+        "pt": [
+            {
+                "nombre": "PUNTO DE INFORMACIÓN TURÍSTICA DE MAÑÓN",
+                "id": "277019626",
+                "idSubtipo": 1000201,
+                "descriptor": "Mañón - A Coruña<br/>Punto de información",
+                "lng": "-7.7064824",
+                "lat": "43.73662"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000201.png",
+        "nom": "Punto de información"
+    },
+    {
+        "cat": 1000201,
+        "pt": [
+            {
+                "nombre": "PUNTO DE INFORMACIÓN TURÍSTICA DE MUROS",
+                "id": "280379234",
+                "idSubtipo": 1000201,
+                "descriptor": "Muros - A Coruña<br/>Punto de información",
+                "lng": "-9.056404",
+                "lat": "42.775295"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000201.png",
+        "nom": "Punto de información"
+    },
+    {
+        "cat": 1000201,
+        "pt": [
+            {
+                "nombre": "PUNTO DE INFORMACIÓN TURÍSTICA DE MUROS (ESTEIRO)",
+                "id": "280379232",
+                "idSubtipo": 1000201,
+                "descriptor": "Muros - A Coruña<br/>Punto de información",
+                "lng": "-8.975465",
+                "lat": "42.791916"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000201.png",
+        "nom": "Punto de información"
+    },
+    {
+        "cat": 1000201,
+        "pt": [
+            {
+                "nombre": "PUNTO DE INFORMACIÓN TURÍSTICA DE MUROS (LOURO)",
+                "id": "280379236",
+                "idSubtipo": 1000201,
+                "descriptor": "Muros - A Coruña<br/>Punto de información",
+                "lng": "-9.074707",
+                "lat": "42.75878"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000201.png",
+        "nom": "Punto de información"
+    },
+    {
+        "cat": 1000201,
+        "pt": [
+            {
+                "nombre": "PUNTO DE INFORMACIÓN TURÍSTICA DE NARÓN",
+                "id": "265884020",
+                "idSubtipo": 1000201,
+                "descriptor": "Narón - A Coruña<br/>Punto de información",
+                "lng": "-8.1875",
+                "lat": "43.504723"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000201.png",
+        "nom": "Punto de información"
+    },
+    {
+        "cat": 1000201,
+        "pt": [
+            {
+                "nombre": "PUNTO DE INFORMACIÓN TURÍSTICA DE O CARBALLIÑO",
+                "id": "271042769",
+                "idSubtipo": 1000201,
+                "descriptor": "O Carballiño - Ourense<br/>Punto de información",
+                "lng": "-8.077499",
+                "lat": "42.42972"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000201.png",
+        "nom": "Punto de información"
+    },
+    {
+        "cat": 1000201,
+        "pt": [
+            {
+                "nombre": "PUNTO DE INFORMACIÓN TURÍSTICA DE O PORRIÑO",
+                "id": "271265147",
+                "idSubtipo": 1000201,
+                "descriptor": "O Porriño - Pontevedra<br/>Punto de información",
+                "lng": "-8.624722",
+                "lat": "42.162224"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000201.png",
+        "nom": "Punto de información"
+    },
+    {
+        "cat": 1000201,
+        "pt": [
+            {
+                "nombre": "PUNTO DE INFORMACIÓN TURÍSTICA DE O ROSAL",
+                "id": "19411",
+                "idSubtipo": 1000201,
+                "descriptor": "O Rosal - Pontevedra<br/>Punto de información",
+                "lng": "-8.837333",
+                "lat": "41.937195"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000201.png",
+        "nom": "Punto de información"
+    },
+    {
+        "cat": 1000201,
+        "pt": [
+            {
+                "nombre": "PUNTO DE INFORMACIÓN TURÍSTICA DE PAZOS DE BORBÉN",
+                "id": "265404212",
+                "idSubtipo": 1000201,
+                "descriptor": "Pazos de Borbén - Pontevedra<br/>Punto de información",
+                "lng": "-8.531666",
+                "lat": "42.29361"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000201.png",
+        "nom": "Punto de información"
+    },
+    {
+        "cat": 1000201,
+        "pt": [
+            {
+                "nombre": "PUNTO DE INFORMACIÓN TURÍSTICA DE POIO",
+                "id": "258600142",
+                "idSubtipo": 1000201,
+                "descriptor": "Poio - Pontevedra<br/>Punto de información",
+                "lng": "-8.705472",
+                "lat": "42.43172"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000201.png",
+        "nom": "Punto de información"
+    },
+    {
+        "cat": 1000201,
+        "pt": [
+            {
+                "nombre": "PUNTO DE INFORMACIÓN TURÍSTICA DE PONTECESO",
+                "id": "265661974",
+                "idSubtipo": 1000201,
+                "descriptor": "Ponteceso - A Coruña<br/>Punto de información",
+                "lng": "-8.900833",
+                "lat": "43.243332"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000201.png",
+        "nom": "Punto de información"
+    },
+    {
+        "cat": 1000201,
+        "pt": [
+            {
+                "nombre": "PUNTO DE INFORMACIÓN TURÍSTICA DE PONTECESO EN CORME",
+                "id": "280376529",
+                "idSubtipo": 1000201,
+                "descriptor": "Ponteceso - A Coruña<br/>Punto de información",
+                "lng": "-8.961842",
+                "lat": "43.264645"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000201.png",
+        "nom": "Punto de información"
+    },
+    {
+        "cat": 1000201,
+        "pt": [
+            {
+                "nombre": "PUNTO DE INFORMACIÓN TURÍSTICA DE PORTO DO SON (CASTRO DE BAROÑA)",
+                "id": "280379251",
+                "idSubtipo": 1000201,
+                "descriptor": "Porto do Son - A Coruña<br/>Punto de información",
+                "lng": "-9.024625",
+                "lat": "42.694855"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000201.png",
+        "nom": "Punto de información"
+    },
+    {
+        "cat": 1000201,
+        "pt": [
+            {
+                "nombre": "PUNTO DE INFORMACIÓN TURÍSTICA DE RIBEIRA",
+                "id": "277282878",
+                "idSubtipo": 1000201,
+                "descriptor": "Ribeira - A Coruña<br/>Punto de información",
+                "lng": "-9.004059",
+                "lat": "42.560318"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000201.png",
+        "nom": "Punto de información"
+    },
+    {
+        "cat": 1000201,
+        "pt": [
+            {
+                "nombre": "PUNTO DE INFORMACIÓN TURÍSTICA DE RUBIÁ",
+                "id": "271736665",
+                "idSubtipo": 1000201,
+                "descriptor": "Rubiá - Ourense<br/>Punto de información",
+                "lng": "-6.946111",
+                "lat": "42.4475"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000201.png",
+        "nom": "Punto de información"
+    },
+    {
+        "cat": 1000201,
+        "pt": [
+            {
+                "nombre": "PUNTO DE INFORMACIÓN TURÍSTICA DE SILLEDA",
+                "id": "19421",
+                "idSubtipo": 1000201,
+                "descriptor": "Silleda - Pontevedra<br/>Punto de información",
+                "lng": "-8.246666",
+                "lat": "42.699776"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000201.png",
+        "nom": "Punto de información"
+    },
+    {
+        "cat": 1000201,
+        "pt": [
+            {
+                "nombre": "PUNTO DE INFORMACIÓN TURÍSTICA DE SOBRADO",
+                "id": "265408880",
+                "idSubtipo": 1000201,
+                "descriptor": "Sobrado - A Coruña<br/>Punto de información",
+                "lng": "-8.025277",
+                "lat": "43.04"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000201.png",
+        "nom": "Punto de información"
+    },
+    {
+        "cat": 1000201,
+        "pt": [
+            {
+                "nombre": "PUNTO DE INFORMACIÓN TURÍSTICA DE VIANA DO BOLO",
+                "id": "200821000789",
+                "idSubtipo": 1000201,
+                "descriptor": "Viana do Bolo - Ourense<br/>Punto de información",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/ndm3/~edisp/~extract/TURGA437388~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-7.114801",
+                "lat": "42.180332"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000201.png",
+        "nom": "Punto de información"
+    },
+    {
+        "cat": 1000201,
+        "pt": [
+            {
+                "nombre": "PUNTO DE INFORMACIÓN TURÍSTICA DO CASTELO DE VIMIANZO",
+                "id": "277121912",
+                "idSubtipo": 1000201,
+                "descriptor": "Vimianzo - A Coruña<br/>Punto de información",
+                "lng": "-9.03129",
+                "lat": "43.11103"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000201.png",
+        "nom": "Punto de información"
+    },
+    {
+        "cat": 1000201,
+        "pt": [
+            {
+                "nombre": "PUNTO DE INFORMACIÓN TURÍSTICA DO FARO DE  FISTERRA",
+                "id": "271741321",
+                "idSubtipo": 1000201,
+                "descriptor": "Fisterra - A Coruña<br/>Punto de información",
+                "lng": "-9.271944",
+                "lat": "42.8825"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000201.png",
+        "nom": "Punto de información"
+    },
+    {
+        "cat": 1000201,
+        "pt": [
+            {
+                "nombre": "PUNTO DE INFORMACIÓN TURÍSTICA DO MOSTEIRO DE ACIVEIRO (PECHADA)",
+                "id": "265474973",
+                "idSubtipo": 1000201,
+                "descriptor": "Forcarei - Pontevedra<br/>Punto de información",
+                "lng": "-8.301944",
+                "lat": "42.61778"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000201.png",
+        "nom": "Punto de información"
+    },
+    {
+        "cat": 1000201,
+        "pt": [
+            {
+                "nombre": "PUNTO DE INFORMACIÓN TURÍSTICA DO MUSEO DO MAR DE RIANXO",
+                "id": "19603",
+                "idSubtipo": 1000201,
+                "descriptor": "Rianxo - A Coruña<br/>Punto de información",
+                "lng": "-8.81836",
+                "lat": "42.65275"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000201.png",
+        "nom": "Punto de información"
+    },
+    {
+        "cat": 1000201,
+        "pt": [
+            {
+                "nombre": "PUNTO DE INFORMACIÓN TURÍSTICA DO MUSEO MAREA DE PORTO DO SON",
+                "id": "280378915",
+                "idSubtipo": 1000201,
+                "descriptor": "Porto do Son - A Coruña<br/>Punto de información",
+                "lng": "-9.004857",
+                "lat": "42.725777"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000201.png",
+        "nom": "Punto de información"
+    },
+    {
+        "cat": 1000201,
+        "pt": [
+            {
+                "nombre": "PUNTO DE INFORMACIÓN TURÍSTICA DO PAZO DE LIS DE MEAÑO",
+                "id": "271210048",
+                "idSubtipo": 1000201,
+                "descriptor": "Meaño - Pontevedra<br/>Punto de información",
+                "lng": "-8.782222",
+                "lat": "42.4425"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000201.png",
+        "nom": "Punto de información"
+    },
+    {
+        "cat": 1000201,
+        "pt": [
+            {
+                "nombre": "PUNTO DE INFORMACIÓN TURÍSTICA DO PORTO DE A GUARDA",
+                "id": "266156363",
+                "idSubtipo": 1000201,
+                "descriptor": "A Guarda - Pontevedra<br/>Punto de información",
+                "lng": "-8.875833",
+                "lat": "41.898335"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000201.png",
+        "nom": "Punto de información"
+    },
+    {
+        "cat": 1000201,
+        "pt": [
+            {
+                "nombre": "PUNTO DE INFORMACIÓN TURÍSTICA EN CEA",
+                "id": "19482",
+                "idSubtipo": 1000201,
+                "descriptor": "San Cristovo de Cea - Ourense<br/>Punto de información",
+                "lng": "-7.984805",
+                "lat": "42.47486"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000201.png",
+        "nom": "Punto de información"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "PUNTO DE INFORMACIÓN TURÍSTICA EN FOZ",
+                "id": "19373",
+                "idSubtipo": 160,
+                "descriptor": "Foz - Lugo<br/>Municipales",
+                "lng": "-7.260528",
+                "lat": "43.565807"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 1000201,
+        "pt": [
+            {
+                "nombre": "PUNTO DE INFORMACIÓN TURÍSTICA EN MUÍÑOS",
+                "id": "19476",
+                "idSubtipo": 1000201,
+                "descriptor": "Muíños - Ourense<br/>Punto de información",
+                "lng": "-7.971722",
+                "lat": "41.95789"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000201.png",
+        "nom": "Punto de información"
+    },
+    {
+        "cat": 1000201,
+        "pt": [
+            {
+                "nombre": "PUNTO DE INFORMACIÓN TURÍSTICA EN O CEBREIRO",
+                "id": "19367",
+                "idSubtipo": 1000201,
+                "descriptor": "Pedrafita do Cebreiro - Lugo<br/>Punto de información",
+                "lng": "-7.044611",
+                "lat": "42.707806"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000201.png",
+        "nom": "Punto de información"
+    },
+    {
+        "cat": 1000201,
+        "pt": [
+            {
+                "nombre": "PUNTO DE INFORMACIÓN TURÍSTICA EN O VICEDO",
+                "id": "19381",
+                "idSubtipo": 1000201,
+                "descriptor": "O Vicedo - Lugo<br/>Punto de información",
+                "lng": "-7.67511",
+                "lat": "43.73247"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000201.png",
+        "nom": "Punto de información"
+    },
+    {
+        "cat": 1000201,
+        "pt": [
+            {
+                "nombre": "PUNTO DE INFORMACIÓN TURÍSTICA NO MOSTEIRO DE SANTA MARÍA DE ARMENTEIRA DE MEIS",
+                "id": "270953597",
+                "idSubtipo": 1000201,
+                "descriptor": "Meis - Pontevedra<br/>Punto de información",
+                "lng": "-8.741944",
+                "lat": "42.46361"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000201.png",
+        "nom": "Punto de información"
+    },
+    {
+        "cat": 1000201,
+        "pt": [
+            {
+                "nombre": "PUNTO DE INFORMACIÓN TURÍSTICA PRAIA  DE PATOS (NIGRÁN)",
+                "id": "277237929",
+                "idSubtipo": 1000201,
+                "descriptor": "Nigrán - Pontevedra<br/>Punto de información",
+                "lng": "-8.82387",
+                "lat": "42.155144"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000201.png",
+        "nom": "Punto de información"
+    },
+    {
+        "cat": 160,
+        "pt": [
+            {
+                "nombre": "PUNTO DE INFORMACIÓN TURÍSTICA VIGO DE SARRIA",
+                "id": "19377",
+                "idSubtipo": 160,
+                "descriptor": "Sarria - Lugo<br/>Municipales",
+                "lng": "-7.404667",
+                "lat": "42.77586"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/160.png",
+        "nom": "Municipales"
+    },
+    {
+        "cat": 1000201,
+        "pt": [
+            {
+                "nombre": "PUNTO DE INFORMACIÓN TURÍSTICO (PADROADO TURISMO RRBB)",
+                "id": "271230287",
+                "idSubtipo": 1000201,
+                "descriptor": "Vigo - Pontevedra<br/>Punto de información",
+                "lng": "-8.633055",
+                "lat": "42.225277"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000201.png",
+        "nom": "Punto de información"
+    },
+    {
+        "cat": 1000201,
+        "pt": [
+            {
+                "nombre": "PUNTO DE INFORMACIÓN TURÍSTICO DE CASTRO CALDELAS",
+                "id": "19488",
+                "idSubtipo": 1000201,
+                "descriptor": "Castro Caldelas - Ourense<br/>Punto de información",
+                "lng": "-7.415722",
+                "lat": "42.376057"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000201.png",
+        "nom": "Punto de información"
+    },
+    {
+        "cat": 1000201,
+        "pt": [
+            {
+                "nombre": "PUNTO DE INFORMACIÓN TURÍSTICO DE COTOBADE",
+                "id": "37054",
+                "idSubtipo": 1000201,
+                "descriptor": "Cerdedo-Cotobade - Pontevedra<br/>Punto de información",
+                "lng": "-8.481916",
+                "lat": "42.471916"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000201.png",
+        "nom": "Punto de información"
+    }
+]

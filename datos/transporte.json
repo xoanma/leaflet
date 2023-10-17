@@ -1,0 +1,2421 @@
+[
+    {
+        "cat": 229,
+        "pt": [
+            {
+                "nombre": "A CORUÑA",
+                "id": "3652",
+                "idSubtipo": 229,
+                "descriptor": "A Coruña - A Coruña<br/>Estaciones de autobús",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mty4/~edisp/~extract/TURGA168085~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.403694",
+                "lat": "43.354584"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/229.png",
+        "nom": "Estaciones de autobús"
+    },
+    {
+        "cat": 295,
+        "pt": [
+            {
+                "nombre": "ACQUAVISION GALICIA S.L.",
+                "id": "278574564",
+                "idSubtipo": 295,
+                "descriptor": "O Grove - Pontevedra<br/>Transporte en barco",
+                "srcImx": "/osdam/filestore/7/2/6/3/0_5e0869498c81d41/72630scr_cf19c42f63ff439.jpg",
+                "lng": "-8.860944",
+                "lat": "42.49647"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/295.png",
+        "nom": "Transporte en barco"
+    },
+    {
+        "cat": 232,
+        "pt": [
+            {
+                "nombre": "ALVEDRO",
+                "id": "1808",
+                "idSubtipo": 232,
+                "descriptor": "Culleredo - A Coruña<br/>Aeropuertos",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mjew/~edisp/~extract/TURGA210041~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.383249",
+                "lat": "43.305668"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/232.png",
+        "nom": "Aeropuertos"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA  DE A RÚA",
+                "id": "280382475",
+                "idSubtipo": 1000260,
+                "descriptor": "A Rúa - Ourense<br/>Áreas de Autocaravanas",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mtcx/~edisp/~extract/TURGA171810~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-7.114733",
+                "lat": "42.38783"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA  DE ARCADE",
+                "id": "280382487",
+                "idSubtipo": 1000260,
+                "descriptor": "Soutomaior - Pontevedra<br/>Áreas de Autocaravanas",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mtcy/~edisp/~extract/TURGA172892~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.613262",
+                "lat": "42.33946"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA  DE AS PONTES",
+                "id": "280382399",
+                "idSubtipo": 1000260,
+                "descriptor": "As Pontes de García Rodríguez - A Coruña<br/>Áreas de Autocaravanas",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mtcy/~edisp/~extract/TURGA172242~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-7.854581",
+                "lat": "43.45098"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA  E. S. REPSOL CERVO",
+                "id": "280382391",
+                "idSubtipo": 1000260,
+                "descriptor": "Cervo - Lugo<br/>Áreas de Autocaravanas",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mtcy/~edisp/~extract/TURGA172219~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-7.421614",
+                "lat": "43.67466"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "AREA A FROUXEIRA CAMPERPARK",
+                "id": "200806000275",
+                "idSubtipo": 1000260,
+                "descriptor": "Valdoviño - A Coruña<br/>Áreas de Autocaravanas",
+                "lng": "-8.137104",
+                "lat": "43.602966"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA ATALAYA",
+                "id": "200410000091",
+                "idSubtipo": 1000260,
+                "descriptor": "Foz - Lugo<br/>Áreas de Autocaravanas",
+                "lng": "-7.273749",
+                "lat": "43.579224"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "AREA AUTOCAMPER SANXENXO",
+                "id": "200805000227",
+                "idSubtipo": 1000260,
+                "descriptor": "Sanxenxo - Pontevedra<br/>Áreas de Autocaravanas",
+                "lng": "-8.8351",
+                "lat": "42.391518"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "AREA AUTOCARAVANAS SANTISO",
+                "id": "211005000079",
+                "idSubtipo": 1000260,
+                "descriptor": "Santiso - A Coruña<br/>Áreas de Autocaravanas",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/ntqy/~edisp/~extract/TURGA542815~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.033282",
+                "lat": "42.840057"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA CAMPING BENQUERENCIA",
+                "id": "200410000086",
+                "idSubtipo": 1000260,
+                "descriptor": "Barreiros - Lugo<br/>Áreas de Autocaravanas",
+                "lng": "-7.200396",
+                "lat": "43.555237"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA CAMPING RINLO",
+                "id": "200410000088",
+                "idSubtipo": 1000260,
+                "descriptor": "Ribadeo - Lugo<br/>Áreas de Autocaravanas",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/nde1/~edisp/~extract/TURGA415141~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-7.1110516",
+                "lat": "43.553722"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA DE A CARIXA",
+                "id": "280382501",
+                "idSubtipo": 1000260,
+                "descriptor": "Vila de Cruces - Pontevedra<br/>Áreas de Autocaravanas",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mtcy/~edisp/~extract/TURGA172943~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.256108",
+                "lat": "42.762142"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA DE A CORUÑA",
+                "id": "280382460",
+                "idSubtipo": 1000260,
+                "descriptor": "A Coruña - A Coruña<br/>Áreas de Autocaravanas",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mtcx/~edisp/~extract/TURGA171053~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.444817",
+                "lat": "43.37159"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA DE A LARACHA - O REGADO",
+                "id": "280382401",
+                "idSubtipo": 1000260,
+                "descriptor": "A Laracha - A Coruña<br/>Áreas de Autocaravanas",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mtcw/~edisp/~extract/TURGA170499~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.617316",
+                "lat": "43.24932"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA DE A LARACHA - XERMAÑA",
+                "id": "280382400",
+                "idSubtipo": 1000260,
+                "descriptor": "A Laracha - A Coruña<br/>Áreas de Autocaravanas",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mtcw/~edisp/~extract/TURGA170490~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.594207",
+                "lat": "43.317074"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA DE A PEROXA",
+                "id": "280382474",
+                "idSubtipo": 1000260,
+                "descriptor": "A Peroxa - Ourense<br/>Áreas de Autocaravanas",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mtcx/~edisp/~extract/TURGA171809~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-7.791941",
+                "lat": "42.44158"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA DE A PONTENOVA",
+                "id": "280382505",
+                "idSubtipo": 1000260,
+                "descriptor": "A Pontenova - Lugo<br/>Áreas de Autocaravanas",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mtcy/~edisp/~extract/TURGA172611~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-7.189366",
+                "lat": "43.35573"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA DE A PRAGUEIRA",
+                "id": "280382498",
+                "idSubtipo": 1000260,
+                "descriptor": "Sanxenxo - Pontevedra<br/>Áreas de Autocaravanas",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mtcy/~edisp/~extract/TURGA172966~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.861555",
+                "lat": "42.409557"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA DE ABEGONDO",
+                "id": "280382992",
+                "idSubtipo": 1000260,
+                "descriptor": "Abegondo - A Coruña<br/>Áreas de Autocaravanas",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mtc2/~edisp/~extract/TURGA176416~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.30665",
+                "lat": "43.183205"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA DE AGOLADA",
+                "id": "280382485",
+                "idSubtipo": 1000260,
+                "descriptor": "Agolada - Pontevedra<br/>Áreas de Autocaravanas",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mtcz/~edisp/~extract/TURGA173053~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.019505",
+                "lat": "42.758907"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "AREA DE ALFOZ",
+                "id": "200410000084",
+                "idSubtipo": 1000260,
+                "descriptor": "Alfoz - Lugo<br/>Áreas de Autocaravanas",
+                "lng": "-7.42325",
+                "lat": "43.52584"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA DE AMOEIRO",
+                "id": "280382476",
+                "idSubtipo": 1000260,
+                "descriptor": "Amoeiro - Ourense<br/>Áreas de Autocaravanas",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mtcx/~edisp/~extract/TURGA171651~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-7.949966",
+                "lat": "42.414127"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA DE ARBO",
+                "id": "280382486",
+                "idSubtipo": 1000260,
+                "descriptor": "Arbo - Pontevedra<br/>Áreas de Autocaravanas",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mtcx/~edisp/~extract/TURGA171410~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.304784",
+                "lat": "42.115948"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA DE AS NEVES",
+                "id": "280382488",
+                "idSubtipo": 1000260,
+                "descriptor": "As Neves - Pontevedra<br/>Áreas de Autocaravanas",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mtcy/~edisp/~extract/TURGA172900~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.413805",
+                "lat": "42.087368"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA DE AS NOGAIS",
+                "id": "280382513",
+                "idSubtipo": 1000260,
+                "descriptor": "As Nogais - Lugo<br/>Áreas de Autocaravanas",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mtc0/~edisp/~extract/TURGA174719~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-7.106714",
+                "lat": "42.810577"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA DE AS SOMOZAS",
+                "id": "151028000077",
+                "idSubtipo": 1000260,
+                "descriptor": "As Somozas - A Coruña<br/>Áreas de Autocaravanas",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mje2/~edisp/~extract/TURGA216902~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-7.938675",
+                "lat": "43.53751"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "AREA DE BARALLA",
+                "id": "200410000087",
+                "idSubtipo": 1000260,
+                "descriptor": "Baralla - Lugo<br/>Áreas de Autocaravanas",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/nde1/~edisp/~extract/TURGA415700~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-7.255151",
+                "lat": "42.893852"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA DE BECERREÁ",
+                "id": "280382506",
+                "idSubtipo": 1000260,
+                "descriptor": "Becerreá - Lugo<br/>Áreas de Autocaravanas",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mtc0/~edisp/~extract/TURGA174613~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-7.151647",
+                "lat": "42.852867"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA DE BERTAMIRANS",
+                "id": "280382463",
+                "idSubtipo": 1000260,
+                "descriptor": "Ames - A Coruña<br/>Áreas de Autocaravanas",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mtcx/~edisp/~extract/TURGA171104~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.648568",
+                "lat": "42.86005"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA DE BETANZOS",
+                "id": "200412000093",
+                "idSubtipo": 1000260,
+                "descriptor": "Betanzos - A Coruña<br/>Áreas de Autocaravanas",
+                "lng": "-8.214573",
+                "lat": "43.284058"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA DE BOIRO - PRAIA MAÑÓNS",
+                "id": "280382420",
+                "idSubtipo": 1000260,
+                "descriptor": "Boiro - A Coruña<br/>Áreas de Autocaravanas",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mtcw/~edisp/~extract/TURGA170649~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.852951",
+                "lat": "42.632965"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA DE BURELA",
+                "id": "280382373",
+                "idSubtipo": 1000260,
+                "descriptor": "Burela - Lugo<br/>Áreas de Autocaravanas",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mtcw/~edisp/~extract/TURGA170418~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-7.358269",
+                "lat": "43.65315"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA DE CAMPING CAR ÁREA, PLAYA ARNELES",
+                "id": "151028000075",
+                "idSubtipo": 1000260,
+                "descriptor": "Cangas - Pontevedra<br/>Áreas de Autocaravanas",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mje2/~edisp/~extract/TURGA216892~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.833944",
+                "lat": "42.27628"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA DE CANGAS",
+                "id": "280383311",
+                "idSubtipo": 1000260,
+                "descriptor": "Cangas - Pontevedra<br/>Áreas de Autocaravanas",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mtgx/~edisp/~extract/TURGA181471~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.797611",
+                "lat": "42.25538"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA DE CARIÑO",
+                "id": "280382398",
+                "idSubtipo": 1000260,
+                "descriptor": "Cariño - A Coruña<br/>Áreas de Autocaravanas",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mtcw/~edisp/~extract/TURGA170481~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-7.874455",
+                "lat": "43.733555"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA DE CARNOTA ",
+                "id": "280382414",
+                "idSubtipo": 1000260,
+                "descriptor": "Carnota - A Coruña<br/>Áreas de Autocaravanas",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mtcw/~edisp/~extract/TURGA170613~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-9.095784",
+                "lat": "42.841022"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA DE CASTRO CALDELAS",
+                "id": "280382479",
+                "idSubtipo": 1000260,
+                "descriptor": "Castro Caldelas - Ourense<br/>Áreas de Autocaravanas",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mtcx/~edisp/~extract/TURGA171829~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-7.418095",
+                "lat": "42.3747"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA DE CASTRO DE REI",
+                "id": "200116000167",
+                "idSubtipo": 1000260,
+                "descriptor": "Castro de Rei - Lugo<br/>Áreas de Autocaravanas",
+                "lng": "-7.3950706",
+                "lat": "43.204758"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA DE CASTRO RIBERAS DE LEA",
+                "id": "280383038",
+                "idSubtipo": 1000260,
+                "descriptor": "Castro de Rei - Lugo<br/>Áreas de Autocaravanas",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mtc3/~edisp/~extract/TURGA177016~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-7.492028",
+                "lat": "43.146687"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA DE CENLLE",
+                "id": "160915000028",
+                "idSubtipo": 1000260,
+                "descriptor": "Cenlle - Ourense<br/>Áreas de Autocaravanas",
+                "lng": "-8.013039",
+                "lat": "42.332607"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA DE CHANTADA",
+                "id": "280382507",
+                "idSubtipo": 1000260,
+                "descriptor": "Chantada - Lugo<br/>Áreas de Autocaravanas",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mtcy/~edisp/~extract/TURGA172864~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-7.779778",
+                "lat": "42.60611"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA DE COSPEITO",
+                "id": "280382425",
+                "idSubtipo": 1000260,
+                "descriptor": "Cospeito - Lugo<br/>Áreas de Autocaravanas",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mtcw/~edisp/~extract/TURGA170680~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-7.555602",
+                "lat": "43.2397"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA DE DENA",
+                "id": "280382489",
+                "idSubtipo": 1000260,
+                "descriptor": "Meaño - Pontevedra<br/>Áreas de Autocaravanas",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mtcy/~edisp/~extract/TURGA172903~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.822338",
+                "lat": "42.451057"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA DE E. S. EL SOL",
+                "id": "280382491",
+                "idSubtipo": 1000260,
+                "descriptor": "Mos - Pontevedra<br/>Áreas de Autocaravanas",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mtcy/~edisp/~extract/TURGA172908~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.611389",
+                "lat": "42.185555"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA DE ENTRIMO",
+                "id": "280382432",
+                "idSubtipo": 1000260,
+                "descriptor": "Entrimo - Ourense<br/>Áreas de Autocaravanas",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mtcw/~edisp/~extract/TURGA170813~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.120981",
+                "lat": "41.932682"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA DE EROSKI-RIBADEO",
+                "id": "280382371",
+                "idSubtipo": 1000260,
+                "descriptor": "Ribadeo - Lugo<br/>Áreas de Autocaravanas",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mtcw/~edisp/~extract/TURGA170405~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-7.060297",
+                "lat": "43.53999"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA DE FERROL",
+                "id": "280382355",
+                "idSubtipo": 1000260,
+                "descriptor": "Ferrol - A Coruña<br/>Áreas de Autocaravanas",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mtcx/~edisp/~extract/TURGA171886~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.239867",
+                "lat": "43.493282"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA DE FORCAREI",
+                "id": "280382490",
+                "idSubtipo": 1000260,
+                "descriptor": "Forcarei - Pontevedra<br/>Áreas de Autocaravanas",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mtcy/~edisp/~extract/TURGA172904~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.299836",
+                "lat": "42.544277"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA DE FOZ",
+                "id": "280382372",
+                "idSubtipo": 1000260,
+                "descriptor": "Foz - Lugo<br/>Áreas de Autocaravanas",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mtcy/~edisp/~extract/TURGA172261~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-7.257856",
+                "lat": "43.563618"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA DE FRAGAS DO EUME",
+                "id": "160714000064",
+                "idSubtipo": 1000260,
+                "descriptor": "Monfero - A Coruña<br/>Áreas de Autocaravanas",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mju3/~edisp/~extract/TURGA257410~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.076211",
+                "lat": "43.396435"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA DE GUITIRIZ",
+                "id": "280382508",
+                "idSubtipo": 1000260,
+                "descriptor": "Guitiriz - Lugo<br/>Áreas de Autocaravanas",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mtcy/~edisp/~extract/TURGA172839~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-7.879472",
+                "lat": "43.177273"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA DE LEIRO",
+                "id": "200413000106",
+                "idSubtipo": 1000260,
+                "descriptor": "Leiro - Ourense<br/>Áreas de Autocaravanas",
+                "lng": "-8.121424",
+                "lat": "42.3707"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA DE LUGO",
+                "id": "280382509",
+                "idSubtipo": 1000260,
+                "descriptor": "Lugo - Lugo<br/>Áreas de Autocaravanas",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mtcy/~edisp/~extract/TURGA172851~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-7.56193",
+                "lat": "43.004665"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA DE LUGO 2",
+                "id": "200116000164",
+                "idSubtipo": 1000260,
+                "descriptor": "Lugo - Lugo<br/>Áreas de Autocaravanas",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/nde2/~edisp/~extract/TURGA416131~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-7.559807",
+                "lat": "43.024426"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA DE MAZARICOS",
+                "id": "160524000081",
+                "idSubtipo": 1000260,
+                "descriptor": "Mazaricos - A Coruña<br/>Áreas de Autocaravanas",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mjq4/~edisp/~extract/TURGA248317~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.990606",
+                "lat": "42.934566"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "AREA DE MEIRA",
+                "id": "200410000090",
+                "idSubtipo": 1000260,
+                "descriptor": "Meira - Lugo<br/>Áreas de Autocaravanas",
+                "lng": "-7.296607",
+                "lat": "43.216816"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA DE MELIDE",
+                "id": "200116000166",
+                "idSubtipo": 1000260,
+                "descriptor": "Melide - A Coruña<br/>Áreas de Autocaravanas",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mzk5/~edisp/~extract/TURGA399269~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.011802",
+                "lat": "42.910004"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA DE MILLADOIRO",
+                "id": "280382464",
+                "idSubtipo": 1000260,
+                "descriptor": "Ames - A Coruña<br/>Áreas de Autocaravanas",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mtcx/~edisp/~extract/TURGA171108~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.58078",
+                "lat": "42.84522"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA DE MONDARIZ",
+                "id": "160525000085",
+                "idSubtipo": 1000260,
+                "descriptor": "Mondariz - Pontevedra<br/>Áreas de Autocaravanas",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mjq4/~edisp/~extract/TURGA248423~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.459263",
+                "lat": "42.237316"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA DE MONDOÑEDO",
+                "id": "280382421",
+                "idSubtipo": 1000260,
+                "descriptor": "Mondoñedo - Lugo<br/>Áreas de Autocaravanas",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mtcy/~edisp/~extract/TURGA172254~1~staticrendition/tg_carrusel_central.png",
+                "lng": "-7.369808",
+                "lat": "43.42748"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA DE MONFORTE DE LEMOS",
+                "id": "280382422",
+                "idSubtipo": 1000260,
+                "descriptor": "Monforte de Lemos - Lugo<br/>Áreas de Autocaravanas",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mtcw/~edisp/~extract/TURGA170656~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-7.512098",
+                "lat": "42.527664"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA DE MUIÑOS",
+                "id": "200116000163",
+                "idSubtipo": 1000260,
+                "descriptor": "Muíños - Ourense<br/>Áreas de Autocaravanas",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mzk5/~edisp/~extract/TURGA399267~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-7.96947",
+                "lat": "41.95806"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA DE MURAS- VIVEIRÓ",
+                "id": "200116000168",
+                "idSubtipo": 1000260,
+                "descriptor": "Muras - Lugo<br/>Áreas de Autocaravanas",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mzk5/~edisp/~extract/TURGA399274~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-7.6273017",
+                "lat": "43.49214"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA DE MUXÍA",
+                "id": "180209000089",
+                "idSubtipo": 1000260,
+                "descriptor": "Muxía - A Coruña<br/>Áreas de Autocaravanas",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mze0/~edisp/~extract/TURGA314072~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-9.212669",
+                "lat": "43.098328"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA DE NARON - RIO DO POZO",
+                "id": "280382356",
+                "idSubtipo": 1000260,
+                "descriptor": "Narón - A Coruña<br/>Áreas de Autocaravanas",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mtcw/~edisp/~extract/TURGA170412~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.195626",
+                "lat": "43.53314"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA DE NAUTICA VICEDO",
+                "id": "280382393",
+                "idSubtipo": 1000260,
+                "descriptor": "O Vicedo - Lugo<br/>Áreas de Autocaravanas",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mtcw/~edisp/~extract/TURGA170468~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-7.674999",
+                "lat": "43.738632"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA DE NEGREIRA",
+                "id": "160302000005",
+                "idSubtipo": 1000260,
+                "descriptor": "Negreira - A Coruña<br/>Áreas de Autocaravanas",
+                "lng": "-8.733375",
+                "lat": "42.91197"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA DE NOGUEIRA DE RAMUIN",
+                "id": "160524000079",
+                "idSubtipo": 1000260,
+                "descriptor": "Nogueira de Ramuín - Ourense<br/>Áreas de Autocaravanas",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mjq4/~edisp/~extract/TURGA248270~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-7.721917",
+                "lat": "42.40915"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA DE O BARCO DE VALDEORRAS",
+                "id": "280382480",
+                "idSubtipo": 1000260,
+                "descriptor": "O Barco de Valdeorras - Ourense<br/>Áreas de Autocaravanas",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mtcx/~edisp/~extract/TURGA171858~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-6.975169",
+                "lat": "42.410686"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA DE O CAMPO - FISTERRA",
+                "id": "180212000109",
+                "idSubtipo": 1000260,
+                "descriptor": "Fisterra - A Coruña<br/>Áreas de Autocaravanas",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mze0/~edisp/~extract/TURGA314078~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-9.26355",
+                "lat": "42.91109"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "AREA DE O INCIO",
+                "id": "210619000450",
+                "idSubtipo": 1000260,
+                "descriptor": "O Incio - Lugo<br/>Áreas de Autocaravanas",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/nte1/~edisp/~extract/TURGA515699~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-7.3645287",
+                "lat": "42.656944"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA DE O MUNDIL",
+                "id": "280382478",
+                "idSubtipo": 1000260,
+                "descriptor": "Cartelle - Ourense<br/>Áreas de Autocaravanas",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mtc0/~edisp/~extract/TURGA174617~1~staticrendition/tg_carrusel_central.png",
+                "lng": "-8.033388",
+                "lat": "42.21445"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA DE O VALIÑO",
+                "id": "280382482",
+                "idSubtipo": 1000260,
+                "descriptor": "Pontedeva - Ourense<br/>Áreas de Autocaravanas",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mtcy/~edisp/~extract/TURGA172620~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.155086",
+                "lat": "42.17661"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA DE OLEIROS",
+                "id": "280382472",
+                "idSubtipo": 1000260,
+                "descriptor": "Oleiros - A Coruña<br/>Áreas de Autocaravanas",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mtcx/~edisp/~extract/TURGA171823~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.354602",
+                "lat": "43.339607"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA DE ORTIGUEIRA",
+                "id": "160524000077",
+                "idSubtipo": 1000260,
+                "descriptor": "Ortigueira - A Coruña<br/>Áreas de Autocaravanas",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mjq4/~edisp/~extract/TURGA248243~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-7.858191",
+                "lat": "43.68603"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA DE OUROL",
+                "id": "280382991",
+                "idSubtipo": 1000260,
+                "descriptor": "Ourol - Lugo<br/>Áreas de Autocaravanas",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mtc2/~edisp/~extract/TURGA176406~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-7.643428",
+                "lat": "43.564877"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA DE PADRÓN",
+                "id": "180213000112",
+                "idSubtipo": 1000260,
+                "descriptor": "Padrón - A Coruña<br/>Áreas de Autocaravanas",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mze0/~edisp/~extract/TURGA314105~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.661233",
+                "lat": "42.732433"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA DE PALAS DE REI",
+                "id": "280382511",
+                "idSubtipo": 1000260,
+                "descriptor": "Palas de Rei - Lugo<br/>Áreas de Autocaravanas",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mtcy/~edisp/~extract/TURGA172803~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-7.857314",
+                "lat": "42.873688"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA DE PARADA DE SIL",
+                "id": "280382481",
+                "idSubtipo": 1000260,
+                "descriptor": "Parada de Sil - Ourense<br/>Áreas de Autocaravanas",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mtcx/~edisp/~extract/TURGA171883~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-7.571483",
+                "lat": "42.382744"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "AREA DE PIÑOR",
+                "id": "200413000107",
+                "idSubtipo": 1000260,
+                "descriptor": "Piñor - Ourense<br/>Áreas de Autocaravanas",
+                "lng": "-7.9970284",
+                "lat": "42.487934"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA DE POBRA DE BROLLÓN",
+                "id": "210720000347",
+                "idSubtipo": 1000260,
+                "descriptor": "A Pobra do Brollón - Lugo<br/>Áreas de Autocaravanas",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/nti1/~edisp/~extract/TURGA525521~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-7.3940377",
+                "lat": "42.56928"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA DE POIO",
+                "id": "200116000159",
+                "idSubtipo": 1000260,
+                "descriptor": "Poio - Pontevedra<br/>Áreas de Autocaravanas",
+                "lng": "-8.694403",
+                "lat": "42.437946"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA DE PONTE CALDELAS",
+                "id": "280382492",
+                "idSubtipo": 1000260,
+                "descriptor": "Ponte Caldelas - Pontevedra<br/>Áreas de Autocaravanas",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mtcy/~edisp/~extract/TURGA172912~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.499427",
+                "lat": "42.38878"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA DE PONTECESO",
+                "id": "160720000089",
+                "idSubtipo": 1000260,
+                "descriptor": "Ponteceso - A Coruña<br/>Áreas de Autocaravanas",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mze0/~edisp/~extract/TURGA314123~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.891582",
+                "lat": "43.24627"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA DE PONTEVEDRA",
+                "id": "280382493",
+                "idSubtipo": 1000260,
+                "descriptor": "Pontevedra - Pontevedra<br/>Áreas de Autocaravanas",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mzk5/~edisp/~extract/TURGA399271~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.635627",
+                "lat": "42.43346"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA DE PORTOMARIN",
+                "id": "160317000112",
+                "idSubtipo": 1000260,
+                "descriptor": "Portomarín - Lugo<br/>Áreas de Autocaravanas",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/nde1/~edisp/~extract/TURGA415523~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-7.61755",
+                "lat": "42.806694"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA DE PRAIA XARDIN",
+                "id": "280382419",
+                "idSubtipo": 1000260,
+                "descriptor": "Boiro - A Coruña<br/>Áreas de Autocaravanas",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mtcw/~edisp/~extract/TURGA170646~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.89696",
+                "lat": "42.641598"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA DE REDONDELA",
+                "id": "280382494",
+                "idSubtipo": 1000260,
+                "descriptor": "Redondela - Pontevedra<br/>Áreas de Autocaravanas",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mtcz/~edisp/~extract/TURGA173041~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.610626",
+                "lat": "42.29004"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "AREA DE RIBADAVIA",
+                "id": "200116000162",
+                "idSubtipo": 1000260,
+                "descriptor": "Ribadavia - Ourense<br/>Áreas de Autocaravanas",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mzk5/~edisp/~extract/TURGA399983~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.143367",
+                "lat": "42.28577"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA DE RIBAS DE SIL - PENA DA MULA",
+                "id": "280382426",
+                "idSubtipo": 1000260,
+                "descriptor": "Ribas de Sil - Lugo<br/>Áreas de Autocaravanas",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mtcw/~edisp/~extract/TURGA170682~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-7.287172",
+                "lat": "42.46826"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA DE SADA",
+                "id": "280382431",
+                "idSubtipo": 1000260,
+                "descriptor": "Sada - A Coruña<br/>Áreas de Autocaravanas",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mtcw/~edisp/~extract/TURGA170806~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.25359",
+                "lat": "43.354816"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA DE SALCEDA DE CASELAS",
+                "id": "280383451",
+                "idSubtipo": 1000260,
+                "descriptor": "Salceda de Caselas - Pontevedra<br/>Áreas de Autocaravanas",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mtg0/~edisp/~extract/TURGA184010~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.557689",
+                "lat": "42.09663"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA DE SALGUEIRIÑOS",
+                "id": "280382465",
+                "idSubtipo": 1000260,
+                "descriptor": "Santiago de Compostela - A Coruña<br/>Áreas de Autocaravanas",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mtcx/~edisp/~extract/TURGA171114~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.5323",
+                "lat": "42.89426"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA DE SAN CIBRAO",
+                "id": "280383051",
+                "idSubtipo": 1000260,
+                "descriptor": "Cervo - Lugo<br/>Áreas de Autocaravanas",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mtc3/~edisp/~extract/TURGA177222~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-7.438726",
+                "lat": "43.693855"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "AREA DE SAN COSME DE  BARREIROS",
+                "id": "200410000085",
+                "idSubtipo": 1000260,
+                "descriptor": "Barreiros - Lugo<br/>Áreas de Autocaravanas",
+                "lng": "-7.2428446",
+                "lat": "43.563633"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA DE SARRIA",
+                "id": "280382510",
+                "idSubtipo": 1000260,
+                "descriptor": "Sarria - Lugo<br/>Áreas de Autocaravanas",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mtcy/~edisp/~extract/TURGA172862~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-7.410268",
+                "lat": "42.77192"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA DE SERVIZO EN CAMPING A NOSA CASA",
+                "id": "280382512",
+                "idSubtipo": 1000260,
+                "descriptor": "Barreiros - Lugo<br/>Áreas de Autocaravanas",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mtcy/~edisp/~extract/TURGA172878~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-7.167801",
+                "lat": "43.55381"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA DE TOURO",
+                "id": "280382091",
+                "idSubtipo": 1000260,
+                "descriptor": "Touro - A Coruña<br/>Áreas de Autocaravanas",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mtcy/~edisp/~extract/TURGA172252~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.31278",
+                "lat": "42.87111"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA DE TUI",
+                "id": "280382499",
+                "idSubtipo": 1000260,
+                "descriptor": "Tui - Pontevedra<br/>Áreas de Autocaravanas",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mtcy/~edisp/~extract/TURGA172924~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.646541",
+                "lat": "42.04334"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA DE VILA DE CRUCES",
+                "id": "280382500",
+                "idSubtipo": 1000260,
+                "descriptor": "Vila de Cruces - Pontevedra<br/>Áreas de Autocaravanas",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mtcy/~edisp/~extract/TURGA172926~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.166044",
+                "lat": "42.791237"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA DE VILALBA",
+                "id": "280382427",
+                "idSubtipo": 1000260,
+                "descriptor": "Vilalba - Lugo<br/>Áreas de Autocaravanas",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mtcy/~edisp/~extract/TURGA172263~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-7.676581",
+                "lat": "43.2956"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "AREA DE VILAMARTIN DE VALDEORRAS - COMPLEJO PALADIUM",
+                "id": "200413000109",
+                "idSubtipo": 1000260,
+                "descriptor": "Vilamartín de Valdeorras - Ourense<br/>Áreas de Autocaravanas",
+                "lng": "-7.0414753",
+                "lat": "42.408764"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA DE VIMIANZO",
+                "id": "210216000060",
+                "idSubtipo": 1000260,
+                "descriptor": "Vimianzo - A Coruña<br/>Áreas de Autocaravanas",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/ndyz/~edisp/~extract/TURGA463184~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-9.030073",
+                "lat": "43.11351"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA DE VIVEIRO",
+                "id": "200410000089",
+                "idSubtipo": 1000260,
+                "descriptor": "Viveiro - Lugo<br/>Áreas de Autocaravanas",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/nde1/~edisp/~extract/TURGA415143~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-7.599675",
+                "lat": "43.667736"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA DE XINZO DE LIMIA",
+                "id": "200116000161",
+                "idSubtipo": 1000260,
+                "descriptor": "Xinzo de Limia - Ourense<br/>Áreas de Autocaravanas",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mzk5/~edisp/~extract/TURGA399264~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-7.7194304",
+                "lat": "42.061676"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA DE YAKART",
+                "id": "280382459",
+                "idSubtipo": 1000260,
+                "descriptor": "A Coruña - A Coruña<br/>Áreas de Autocaravanas",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mtcx/~edisp/~extract/TURGA171051~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.424875",
+                "lat": "43.332184"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "AREA E.S. LOS ANGELES GAS -AMES",
+                "id": "200412000098",
+                "idSubtipo": 1000260,
+                "descriptor": "Ames - A Coruña<br/>Áreas de Autocaravanas",
+                "lng": "-8.629118",
+                "lat": "42.86442"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA EN CAMPING ARENTEIRO",
+                "id": "280382477",
+                "idSubtipo": 1000260,
+                "descriptor": "O Carballiño - Ourense<br/>Áreas de Autocaravanas",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mtcx/~edisp/~extract/TURGA171813~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.098198",
+                "lat": "42.423595"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA EN CAMPING O MUIÑO",
+                "id": "280382504",
+                "idSubtipo": 1000260,
+                "descriptor": "Oia - Pontevedra<br/>Áreas de Autocaravanas",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mtcy/~edisp/~extract/TURGA172963~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.891595",
+                "lat": "42.063957"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA EN CAMPING RIO ULLA",
+                "id": "280382502",
+                "idSubtipo": 1000260,
+                "descriptor": "Vilagarcía de Arousa - Pontevedra<br/>Áreas de Autocaravanas",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mtcy/~edisp/~extract/TURGA172960~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.760124",
+                "lat": "42.634422"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA EN CAMPING RIO XUVIA",
+                "id": "280382394",
+                "idSubtipo": 1000260,
+                "descriptor": "Narón - A Coruña<br/>Áreas de Autocaravanas",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mtcw/~edisp/~extract/TURGA170495~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.111107",
+                "lat": "43.521336"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "AREA EN CAMPING SANTA TECLA",
+                "id": "200412000100",
+                "idSubtipo": 1000260,
+                "descriptor": "A Guarda - Pontevedra<br/>Áreas de Autocaravanas",
+                "lng": "-8.846924",
+                "lat": "41.89872"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA EN E. S. A PAUSA MIÑO",
+                "id": "280382412",
+                "idSubtipo": 1000260,
+                "descriptor": "Miño - A Coruña<br/>Áreas de Autocaravanas",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mtcw/~edisp/~extract/TURGA170642~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.187532",
+                "lat": "43.373463"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA EN E. S. REPSOL BAZARRA",
+                "id": "280382411",
+                "idSubtipo": 1000260,
+                "descriptor": "Cee - A Coruña<br/>Áreas de Autocaravanas",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mtcx/~edisp/~extract/TURGA171408~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-9.193538",
+                "lat": "42.966053"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA EN E. S. REPSOL DE O VIAXEIRO",
+                "id": "280382484",
+                "idSubtipo": 1000260,
+                "descriptor": "Riós - Ourense<br/>Áreas de Autocaravanas",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mtc0/~edisp/~extract/TURGA174631~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-7.285309",
+                "lat": "41.982376"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA EN E. S. REPSOL REZA",
+                "id": "280382433",
+                "idSubtipo": 1000260,
+                "descriptor": "Ourense - Ourense<br/>Áreas de Autocaravanas",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mtcw/~edisp/~extract/TURGA170816~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-7.8951015",
+                "lat": "42.351357"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA EN E. S. REPSOL TRASMIRAS",
+                "id": "280382483",
+                "idSubtipo": 1000260,
+                "descriptor": "Trasmiras - Ourense<br/>Áreas de Autocaravanas",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mtcz/~edisp/~extract/TURGA173052~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-7.608611",
+                "lat": "42.019444"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA EN E. S. REPSOL-LEDOÑO",
+                "id": "160524000084",
+                "idSubtipo": 1000260,
+                "descriptor": "Culleredo - A Coruña<br/>Áreas de Autocaravanas",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mjq4/~edisp/~extract/TURGA248324~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.409136",
+                "lat": "43.26942"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "AREA EN E.S. CUALEDRO",
+                "id": "200413000105",
+                "idSubtipo": 1000260,
+                "descriptor": "Cualedro - Ourense<br/>Áreas de Autocaravanas",
+                "lng": "-7.5417395",
+                "lat": "41.98301"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "AREA EN E.S. ORTEGAL OIL - FENE",
+                "id": "200412000095",
+                "idSubtipo": 1000260,
+                "descriptor": "Fene - A Coruña<br/>Áreas de Autocaravanas",
+                "lng": "-8.169591",
+                "lat": "43.450115"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA EN E.S. PETRONOR - LOUCENZAS",
+                "id": "200412000101",
+                "idSubtipo": 1000260,
+                "descriptor": "A Guarda - Pontevedra<br/>Áreas de Autocaravanas",
+                "lng": "-8.879603",
+                "lat": "41.917164"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA EN E.S. TAMALLANCOS",
+                "id": "200413000108",
+                "idSubtipo": 1000260,
+                "descriptor": "Vilamarín - Ourense<br/>Áreas de Autocaravanas",
+                "lng": "-7.887849",
+                "lat": "42.42354"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA EN E/S REPSOL CARRAL",
+                "id": "180212000108",
+                "idSubtipo": 1000260,
+                "descriptor": "Carral - A Coruña<br/>Áreas de Autocaravanas",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mze0/~edisp/~extract/TURGA314067~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.3562",
+                "lat": "43.225697"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "AREA EROSKI - NOIA",
+                "id": "200412000094",
+                "idSubtipo": 1000260,
+                "descriptor": "Noia - A Coruña<br/>Áreas de Autocaravanas",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/nde1/~edisp/~extract/TURGA415529~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.888519",
+                "lat": "42.797226"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA LALIN",
+                "id": "200116000160",
+                "idSubtipo": 1000260,
+                "descriptor": "Lalín - Pontevedra<br/>Áreas de Autocaravanas",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mzk5/~edisp/~extract/TURGA399985~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.107263",
+                "lat": "42.659565"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA MARINA CORUÑA",
+                "id": "160524000082",
+                "idSubtipo": 1000260,
+                "descriptor": "A Coruña - A Coruña<br/>Áreas de Autocaravanas",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mjq4/~edisp/~extract/TURGA248319~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.387817",
+                "lat": "43.369915"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA O FOGAR DO SANTISO",
+                "id": "280382462",
+                "idSubtipo": 1000260,
+                "descriptor": "Teo - A Coruña<br/>Áreas de Autocaravanas",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mtcx/~edisp/~extract/TURGA171096~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.584468",
+                "lat": "42.797226"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA REAL CLUB NÁUTICO PORTOSIN",
+                "id": "200412000097",
+                "idSubtipo": 1000260,
+                "descriptor": "Porto do Son - A Coruña<br/>Áreas de Autocaravanas",
+                "lng": "-8.944178",
+                "lat": "42.763504"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "ÁREA VILAGARCIA DE AROUSA",
+                "id": "200116000158",
+                "idSubtipo": 1000260,
+                "descriptor": "Vilagarcía de Arousa - Pontevedra<br/>Áreas de Autocaravanas",
+                "lng": "-8.764701",
+                "lat": "42.590527"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 1000260,
+        "pt": [
+            {
+                "nombre": "AREAS E.S. CAR-OIL , VILASANTAR",
+                "id": "200412000096",
+                "idSubtipo": 1000260,
+                "descriptor": "Vilasantar - A Coruña<br/>Áreas de Autocaravanas",
+                "lng": "-8.147183",
+                "lat": "43.111763"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/1000260.png",
+        "nom": "Áreas de Autocaravanas"
+    },
+    {
+        "cat": 292,
+        "pt": [
+            {
+                "nombre": "BRANDÁN",
+                "id": "280376596",
+                "idSubtipo": 292,
+                "descriptor": "Sober - Lugo<br/>Barco",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mta1/~edisp/~extract/TURGA105465~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-7.443695",
+                "lat": "42.40969"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/292.png",
+        "nom": "Barco"
+    },
+    {
+        "cat": 295,
+        "pt": [
+            {
+                "nombre": "CRUCEROS ÁNGEL, S.L.",
+                "id": "278549793",
+                "idSubtipo": 295,
+                "descriptor": "O Grove - Pontevedra<br/>Transporte en barco",
+                "srcImx": "/osdam/filestore/7/2/5/5/8_9129be348c35dc6/72558scr_321389358586a19.jpg",
+                "lng": "-8.860944",
+                "lat": "42.49647"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/295.png",
+        "nom": "Transporte en barco"
+    },
+    {
+        "cat": 295,
+        "pt": [
+            {
+                "nombre": "CRUCEROS DE AROSA, S.L.",
+                "id": "280381854",
+                "idSubtipo": 295,
+                "descriptor": "O Grove - Pontevedra<br/>Transporte en barco",
+                "lng": "-8.88",
+                "lat": "42.4925"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/295.png",
+        "nom": "Transporte en barco"
+    },
+    {
+        "cat": 295,
+        "pt": [
+            {
+                "nombre": "CRUCEROS DO ULLA - TURIMARES, S.L.",
+                "id": "31664",
+                "idSubtipo": 295,
+                "descriptor": "O Grove - Pontevedra<br/>Transporte en barco",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mzi5/~edisp/~extract/TURGA329207~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.885361",
+                "lat": "42.49136"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/295.png",
+        "nom": "Transporte en barco"
+    },
+    {
+        "cat": 295,
+        "pt": [
+            {
+                "nombre": "CRUCEROS FISTERRA.COM",
+                "id": "261415261",
+                "idSubtipo": 295,
+                "descriptor": "Fisterra - A Coruña<br/>Transporte en barco",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mdc4/~edisp/~extract/TURGA078593~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-9.261361",
+                "lat": "42.90658"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/295.png",
+        "nom": "Transporte en barco"
+    },
+    {
+        "cat": 295,
+        "pt": [
+            {
+                "nombre": "CRUCEROS PELEGRÍN (MONROA, S.L.)",
+                "id": "31666",
+                "idSubtipo": 295,
+                "descriptor": "O Grove - Pontevedra<br/>Transporte en barco",
+                "srcImx": "#",
+                "lng": "-8.860944",
+                "lat": "42.49647"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/295.png",
+        "nom": "Transporte en barco"
+    },
+    {
+        "cat": 295,
+        "pt": [
+            {
+                "nombre": "CRUCEROS RÍAS BAJAS, S.L.",
+                "id": "31665",
+                "idSubtipo": 295,
+                "descriptor": "O Grove - Pontevedra<br/>Transporte en barco",
+                "srcImx": "#",
+                "lng": "-8.860944",
+                "lat": "42.49647"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/295.png",
+        "nom": "Transporte en barco"
+    },
+    {
+        "cat": 229,
+        "pt": [
+            {
+                "nombre": "FERROL",
+                "id": "3221",
+                "idSubtipo": 229,
+                "descriptor": "Ferrol - A Coruña<br/>Estaciones de autobús",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mtu2/~edisp/~extract/TURGA156061~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.229305",
+                "lat": "43.488277"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/229.png",
+        "nom": "Estaciones de autobús"
+    },
+    {
+        "cat": 232,
+        "pt": [
+            {
+                "nombre": "LAVACOLLA",
+                "id": "1809",
+                "idSubtipo": 232,
+                "descriptor": "Santiago de Compostela - A Coruña<br/>Aeropuertos",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mtqw/~edisp/~extract/TURGA140809~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.418888",
+                "lat": "42.898582"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/232.png",
+        "nom": "Aeropuertos"
+    },
+    {
+        "cat": 229,
+        "pt": [
+            {
+                "nombre": "LUGO",
+                "id": "3321",
+                "idSubtipo": 229,
+                "descriptor": "Lugo - Lugo<br/>Estaciones de autobús",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mty0/~edisp/~extract/TURGA164204~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-7.553167",
+                "lat": "43.00961"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/229.png",
+        "nom": "Estaciones de autobús"
+    },
+    {
+        "cat": 295,
+        "pt": [
+            {
+                "nombre": "MARES DO GROVE",
+                "id": "180607000180",
+                "idSubtipo": 295,
+                "descriptor": "O Grove - Pontevedra<br/>Transporte en barco",
+                "lng": "-8.86122",
+                "lat": "42.476368"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/295.png",
+        "nom": "Transporte en barco"
+    },
+    {
+        "cat": 293,
+        "pt": [
+            {
+                "nombre": "MINICRUCEROS PROBA, S.L.",
+                "id": "278583781",
+                "idSubtipo": 293,
+                "descriptor": "O Grove - Pontevedra<br/>Catamarán",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mta0/~edisp/~extract/TURGA104228~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.860944",
+                "lat": "42.49647"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/293.png",
+        "nom": "Catamarán"
+    },
+    {
+        "cat": 295,
+        "pt": [
+            {
+                "nombre": "NAVIERA BAHÍA-SUB",
+                "id": "280381856",
+                "idSubtipo": 295,
+                "descriptor": "O Grove - Pontevedra<br/>Transporte en barco",
+                "lng": "-8.861804",
+                "lat": "42.478783"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/295.png",
+        "nom": "Transporte en barco"
+    },
+    {
+        "cat": 295,
+        "pt": [
+            {
+                "nombre": "NAVIERA MAR DE ONS, S.L.",
+                "id": "31674",
+                "idSubtipo": 295,
+                "descriptor": "Vigo - Pontevedra<br/>Transporte en barco",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mta1/~edisp/~extract/TURGA105410~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.725286",
+                "lat": "42.24119"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/295.png",
+        "nom": "Transporte en barco"
+    },
+    {
+        "cat": 295,
+        "pt": [
+            {
+                "nombre": "NAVIERA NABIA",
+                "id": "11128",
+                "idSubtipo": 295,
+                "descriptor": "Vigo - Pontevedra<br/>Transporte en barco",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mzi5/~edisp/~extract/TURGA329225~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.78446",
+                "lat": "42.326622"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/295.png",
+        "nom": "Transporte en barco"
+    },
+    {
+        "cat": 229,
+        "pt": [
+            {
+                "nombre": "OURENSE",
+                "id": "26304",
+                "idSubtipo": 229,
+                "descriptor": "Ourense - Ourense<br/>Estaciones de autobús",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mtcw/~edisp/~extract/TURGA170453~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-7.876583",
+                "lat": "42.35286"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/229.png",
+        "nom": "Estaciones de autobús"
+    },
+    {
+        "cat": 232,
+        "pt": [
+            {
+                "nombre": "PEINADOR",
+                "id": "1830",
+                "idSubtipo": 232,
+                "descriptor": "Vigo - Pontevedra<br/>Aeropuertos",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mty1/~edisp/~extract/TURGA165051~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.63111",
+                "lat": "42.232224"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/232.png",
+        "nom": "Aeropuertos"
+    },
+    {
+        "cat": 229,
+        "pt": [
+            {
+                "nombre": "PONTEVEDRA",
+                "id": "3370",
+                "idSubtipo": 229,
+                "descriptor": "Pontevedra - Pontevedra<br/>Estaciones de autobús",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mtcw/~edisp/~extract/TURGA170209~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.636166",
+                "lat": "42.422806"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/229.png",
+        "nom": "Estaciones de autobús"
+    },
+    {
+        "cat": 229,
+        "pt": [
+            {
+                "nombre": "SANTIAGO DE COMPOSTELA",
+                "id": "18521",
+                "idSubtipo": 229,
+                "descriptor": "Santiago de Compostela - A Coruña<br/>Estaciones de autobús",
+                "lng": "-8.54311",
+                "lat": "42.87008"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/229.png",
+        "nom": "Estaciones de autobús"
+    },
+    {
+        "cat": 295,
+        "pt": [
+            {
+                "nombre": "TOUR RÍAS BAIXAS",
+                "id": "280376525",
+                "idSubtipo": 295,
+                "descriptor": "Vilanova de Arousa - Pontevedra<br/>Transporte en barco",
+                "lng": "-8.824622",
+                "lat": "42.563087"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/295.png",
+        "nom": "Transporte en barco"
+    },
+    {
+        "cat": 229,
+        "pt": [
+            {
+                "nombre": "VIGO",
+                "id": "35900",
+                "idSubtipo": 229,
+                "descriptor": "Vigo - Pontevedra<br/>Estaciones de autobús",
+                "srcImx": "http://www.turismo.gal/imaxes/mdaw/mtyw/~edisp/~extract/TURGA160747~1~staticrendition/tg_carrusel_cabecera_grande.jpg",
+                "lng": "-8.709583",
+                "lat": "42.223972"
+            }
+        ],
+        "ico": "/tema-turismo-gal/images/icos/mapas/stp/229.png",
+        "nom": "Estaciones de autobús"
+    }
+]
