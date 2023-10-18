@@ -1,9 +1,12 @@
 (function($){
   var map = L.map('map').setView([43.53856, -7.037685], 13);
-  L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
-      maxZoom: 19,
-      attribution: '© OpenStreetMap'
-  }).addTo(map);
+  L.tileLayer.wms("https://www.ign.es/wms-inspire/pnoa-ma", {
+    layers: "OI.OrthoimageCoverage",//layer name (see get capabilities)
+    format: 'image/jpeg',
+    transparent: false,
+    version: '1.3.0',//wms version (see get capabilities)
+    attribution: "PNOA WMS. Cedido por © Instituto Geográfico Nacional de España"
+ }).addTo(map);
 
 
     const geojsonMarkerOptions = L.icon({
