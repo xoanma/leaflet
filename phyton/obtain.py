@@ -2,8 +2,9 @@ import requests
 from bs4 import BeautifulSoup
 import json
 
+contador = 0
 # Lista de URLs que quieres raspar
-urls = [    "https://www.turismo.gal/recurso/-/detalle/10309?langId=es_ES",
+urls = [        "https://www.turismo.gal/recurso/-/detalle/10309?langId=es_ES",
     "https://www.turismo.gal/recurso/-/detalle/267683281?langId=es_ES",
     "https://www.turismo.gal/recurso/-/detalle/16585?langId=es_ES",
     "https://www.turismo.gal/recurso/-/detalle/180111000063?langId=es_ES",
@@ -2106,7 +2107,8 @@ urls = [    "https://www.turismo.gal/recurso/-/detalle/10309?langId=es_ES",
     "https://www.turismo.gal/recurso/-/detalle/16862?langId=es_ES",
     "https://www.turismo.gal/recurso/-/detalle/10164?langId=es_ES",
     "https://www.turismo.gal/recurso/-/detalle/268741381?langId=es_ES",
-    "https://www.turismo.gal/recurso/-/detalle/10510?langId=es_ES"]
+    "https://www.turismo.gal/recurso/-/detalle/10510?langId=es_ES"
+]
 
 # Lista para almacenar los objetos con el contenido de los divs
 contenidos = []
@@ -2122,31 +2124,45 @@ for url in urls:
         soup = BeautifulSoup(response.content, 'html.parser')
         
         # Obtener el contenido de los dos divs que deseas
-try:
-    div1_elemento = soup.find('div', {'class': 'title'})
-    if div1_elemento:
-        div1_contenido = div1_elemento.text
-    else:
-        div1_contenido = "Elemento con clase 'title' no encontrado"
-except AttributeError:
-    div1_contenido = "Error al acceder al elemento"
-try:
-    div1_elemento = soup.find('div', {'class': 'desplegadora'})
-    if div1_elemento:
-        div1_contenido = div1_elemento.text
-    else:
-        div1_contenido = "Elemento con clase 'title' no encontrado"
-except AttributeError:
-    div1_contenido = "Error al acceder al elemento"
+        try:
+            div1_elemento = soup.find('h1', {'class': 'title'})
+            if div1_elemento:
+                div1_contenido = div1_elemento.text
+            else:
+                div1_contenido = "Elemento con clase 'title' no encontrado"
+        except AttributeError:
+            div1_contenido = "Error al acceder al elemento"
+        try:
+            div2_elemento = soup.find('div', {'class': 'desplegadora'})
+            if div2_elemento:
+                div2_contenido = div2_elemento.text
+            else:
+                div2_contenido = "Elemento con clase 'title' no encontrado"
+        except AttributeError:
+            div2_contenido = "Error al acceder al elemento"
+        try:
+            div3_elemento = soup.find_all('span', {'class': 'lazyOwl'})
+            if div3_elemento:
+                div3_contenido = []
+                for div_element in div3_elemento:
+                    div3_contenido.append(div_element.get('data-src')) 
+            else:
+                div3_contenido = "Elemento con clase 'title' no encontrado"
+        except AttributeError:
+            div3_contenido = "Error al acceder al elemento"
         
         
         # Crear un objeto con los contenidos y añadirlo al array
         objeto = {
             'url': url,
-            'div1': div1_contenido,
-            'div2': div2_contenido
+            'titulo': div1_contenido,
+            'desc': div2_contenido,
+            'imags': div3_contenido
         }
         contenidos.append(objeto)
+        
+        contador = contador + 1
+        print(contador)
     else:
         print(f'Fallo al obtener {url}. Código de estado: {response.status_code}')
 
