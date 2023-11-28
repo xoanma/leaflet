@@ -65,6 +65,7 @@
             '<div class="sta-popup_lugar">' +
             feature.properties.lugar +
             '</div>' +
+            '<a href="' + feature.properties.id + '" target="_blank">IR</a>'
             '</div>' +
             '</div>' +
             '</div>';
@@ -91,15 +92,27 @@
 
 
 
-//Script para convertir en geojson
+//Script para convertir en geojson y sacar links
 
 
 
-    fetch("datos/quevisitarGALnaturaleza.json")
+    fetch("datos/all.json")
     .then(response => {
        return response.json();
     })
-    .then(jsondata => filtrarJsonSitios(jsondata));
+    .then(jsondata => {
+      filtrarJsonSitios(jsondata)
+
+      fetch("datos/allGalizaDetalle.json")
+      .then(response => {
+         return response.json();
+      })
+      .then(jsondata2 => filtrarObj(jsondata, jsondata2));
+
+    });
+
+
+
     var jsonMap = {
       type: "FeatureCollection",
       features: [],
@@ -118,6 +131,7 @@
           ico: "",
           img: "",
           id: "",
+          nom: ""
         },
       };
 
@@ -132,6 +146,7 @@
             clone.properties.ico = eljson[i].ico
             clone.properties.lugar = clone.properties.lugar.replace('<br/>'+clone.properties.descr, '')
             clone.properties.id = 'https://www.turismo.gal/recurso/-/detalle/' + eljson[i].pt[0].id + "?langId=es_ES"
+            clone.properties.nom = eljson[i].nom
             links.push(clone.properties.id);
             var img = eljson[i].pt[0].img;
             if(!!img){
@@ -140,7 +155,23 @@
             jsonMap.features.push(clone)
             //var marker = L.marker([eljson[i].pt[0].lat, eljson[i].pt[0].lng]).addTo(map);
         }
+        
+        
         console.log(jsonMap)
         console.log(links)
+      }
+      
+    // funcion para los obj que tengan descripción
+    function filtrarObj(buscado, buscar){
+      var detalle = [];
+      for (var i = 0; i < buscado.length; i++) {
+        
+        var idBuscar = buscado[i].pt[0].id;
+        
+        var coincide = buscar.filter(item => item.id === idBuscar);
+        detalle = detalle.concat(coincide)
+        
+      }
+      console.log(detalle)
+      console.log(detalle.length)
     }
-    
